@@ -1,3 +1,19 @@
+## Reading list
+
+- [Automatically Solving Number Word Problems by Semantic Parsing and Reasoning](http://aclweb.org/anthology/D15-1135)
+- [How Well Do Computers Solve Math Word Problems?](http://www.aclweb.org/anthology/P16-1084)
+- [A Survey of Question Answering for Math and Science Problem](https://medium.com/syncedreview/a-survey-of-question-answering-for-math-and-science-problem-5fe8fc547104)
+- [A Question Answer System for Math Word Problems](https://www.google.de/search?q=A+Question+Answer+System+for+Math+Word+Problems&rlz=1C1CHBF_deDE823DE823&oq=A+Question+Answer+System+for+Math+Word+Problems&aqs=chrome..69i57j69i60.584j0j7&sourceid=chrome&ie=UTF-8#cns=0)
+
+## Notes
+
+- statistical approach
+- semantic representations
+- it's not necessary to deal with all the types of questions, it's better to start with Closed-vocabulary algebra and Open-vocabulary algebra types
+- if we don't have time for image processing, we can ignore this type of questions or try to come up with a program that would be a bit better than a simple guesser
+
+
+
 ## SemEval 2019, Task 10: Math Question Answering
 
 ### Organizers
