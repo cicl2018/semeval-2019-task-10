@@ -12,9 +12,7 @@
 - it's not necessary to deal with all the types of questions, it's better to start with Closed-vocabulary algebra and Open-vocabulary algebra types
 - if we don't have time for image processing, we can ignore this type of questions or try to come up with a program that would be a bit better than a simple guesser
 
-
-
-## SemEval 2019, Task 10: Math Question Answering
+# SemEval 2019, Task 10: Math Question Answering
 
 ### Organizers
 
