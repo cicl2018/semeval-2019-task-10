@@ -9,7 +9,7 @@
 #### 22.11.2018
 - Get statistics of the training data > Henry
 - Try to use machine learning for:
-  1. raw strings and answers (some sort of numeric prediction) > Jonah
+  1. raw strings and answers (some sort of numeric prediction) > Jonas
   2. raw strings and logical forms 
 - Papers and systems available so far > Alina
 - As we might need more data for a statistical approach, the existing data can be extended half-manually
