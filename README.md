@@ -6,7 +6,15 @@
 - [A Question Answer System for Math Word Problems](https://www.google.de/search?q=A+Question+Answer+System+for+Math+Word+Problems&rlz=1C1CHBF_deDE823DE823&oq=A+Question+Answer+System+for+Math+Word+Problems&aqs=chrome..69i57j69i60.584j0j7&sourceid=chrome&ie=UTF-8#cns=0)
 
 ## Notes
+#### 22.11.2018
+- Get statistics of the training data > Henry
+- Try to use machine learning for:
+  1. raw strings and answers (some sort of numeric prediction) > Jonah
+  2. raw strings and logical forms 
+- Papers and systems available so far > Alina
+- As we might need more data for a statistical approach, the existing data can be extended half-manually
 
+#### 14.11.2018
 - statistical approach
 - semantic representations
 - it's not necessary to deal with all the types of questions, it's better to start with Closed-vocabulary algebra and Open-vocabulary algebra types
