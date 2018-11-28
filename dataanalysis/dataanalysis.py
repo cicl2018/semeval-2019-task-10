@@ -20,6 +20,11 @@ def is_answer_num(data):
 		return True
 	return False
 
+def has_diagram(data):
+	if 'diagramRef' in data:
+		return True
+	return False
+
 # with open('test.json') as f:
 with open('sat.train.json') as f:
     data = json.load(f)
@@ -28,17 +33,20 @@ with open('sat.train.json') as f:
 open_tags = 0
 closed_tags = 0
 answer_num = 0
+diagram = 0
 
 
 # open output files
 f_closed = open('closed_tag.json', 'w+')
 f_open = open('open_tag.json', 'w+')
 f_answer_num = open('answer_num.json', 'w+')
+f_has_diagram = open('has_diagram.json', 'w+')
 
 # init all list
 j_open = [];
 j_closed = [];
 j_answer_num = [];
+j_has_diagram = [];
 
 
 # loop for all data
@@ -59,17 +67,25 @@ for one_data in data:
 		answer_num+=1
 		j_answer_num.append(one_data)
 
+	if has_diagram(one_data):
+		diagram+=1
+		j_has_diagram.append(one_data)
+
+
 
 # write data in the files
 open_output = json.dumps(j_open, indent = 4)
 closed_output = json.dumps(j_closed, indent = 4)
 answer_num_output = json.dumps(j_answer_num, indent = 4)
+has_diagram_output = json.dumps(j_has_diagram, indent = 4)
 print >> f_closed, closed_output
 print >> f_open, open_output
 print >> f_answer_num, answer_num_output
+print >> f_has_diagram, has_diagram_output
 f_closed.close()
 f_open.close()
 f_answer_num.close()
+f_has_diagram.close()
 
 
 
@@ -88,5 +104,7 @@ f_answer_num.close()
 print "Data Analysis"
 print "=============================="
 print "Open Questions: " + str(open_tags)
-print "Close Questions:" + str(closed_tags)
+print "Close Questions: " + str(closed_tags)
+print "Numerical Answer Questions: " + str(answer_num)
+print "Diagram Questions: " + str(diagram)
 print "=============================="
