@@ -4,6 +4,20 @@
 - [How Well Do Computers Solve Math Word Problems?](http://www.aclweb.org/anthology/P16-1084)
 - [A Survey of Question Answering for Math and Science Problem](https://medium.com/syncedreview/a-survey-of-question-answering-for-math-and-science-problem-5fe8fc547104)
 - [A Question Answer System for Math Word Problems](https://www.google.de/search?q=A+Question+Answer+System+for+Math+Word+Problems&rlz=1C1CHBF_deDE823DE823&oq=A+Question+Answer+System+for+Math+Word+Problems&aqs=chrome..69i57j69i60.584j0j7&sourceid=chrome&ie=UTF-8#cns=0)
+- Euclid Project:
+  - [Beyond Sentential Semantic Parsing: Tackling the Math SAT with a Cascade of Tree Transducers](https://pdfs.semanticscholar.org/c22a/240d1087603664826e9aab809273ed9bff15.pdf?_ga=2.52187753.1130679049.1530133172-566539276.1446829155&_gac=1.6555398.1527028246.EAIaIQobChMI9YuywK-a2wIVlcBkCh0WKw_kEAAYASAAEgKwgPD_BwE)
+  - [Interactive Visualization for Linguistic Structure](http://ai2-website.s3.amazonaws.com/publications/InteractiveVisualizationOfLinguisticStructure.pdf)
+  - [Solving Geometry Problems: Combining Text and Diagram Interpretation](https://pdfs.semanticscholar.org/c87d/ccf7c21e67679389f23f86f039cd96720c3f.pdf?_ga=2.154008190.797290392.1543428819-2132294497.1543428819)
+  
+## Links
+### Euclid Project
+- [Start page](https://allenai.org/euclid/)
+- GeoS - End-to-End Geometry Problem Solver
+  - [Start page of GeoS](http://geometry.allenai.org)
+  - [GitHub repository of GeoS](https://github.com/uwnlp/geosolver)
+- Hierplane - an open-source Javascript library for visualizing and exploring trees
+  - [Start page of Hierplane](https://allenai.github.io/hierplane/)
+  - [GitHub repository of Hierplane](https://github.com/allenai/hierplane)
 
 ## Notes
 #### 22.11.2018
