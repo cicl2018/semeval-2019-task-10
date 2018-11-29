@@ -28,6 +28,13 @@
 - [Repository](https://gitlab.cs.washington.edu/ALGES/TACL2015)
 
 ## Notes
+#### 29.11.2018
+- Might make sense to parse strings with Latex
+- Check the email list/ some other kind of discussions in the project
+- Our MAIN GOAL is probably improving getting logical forms
+- We should run the programs available and analyze failures (Euklid > Alina, ALGES > Henry)
+- Modify the RNN > Jonas
+
 #### 22.11.2018
 - Get statistics of the training data > Henry
 - Try to use machine learning for:
