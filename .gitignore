@@ -1,2 +1,4 @@
 *.zip
 dataanalysis/*.json
+data_analysis/*.json
+data_analysis/test.py
