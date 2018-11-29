@@ -24,7 +24,7 @@
 - Hierplane - an open-source Javascript library for visualizing and exploring trees
   - [Start page of Hierplane](https://allenai.github.io/hierplane/)
   - [GitHub repository of Hierplane](https://github.com/allenai/hierplane)
-### Alges Project
+### ALGES Project
 - [Repository](https://gitlab.cs.washington.edu/ALGES/TACL2015)
 
 ## Notes
