@@ -1,5 +1,6 @@
 import json
 from pprint import pprint
+import re
 
 # check if tag is open
 def is_open_tag(data):
@@ -46,11 +47,19 @@ def has_diagram(data):
 	return False
 
 def is_number(s):
-    try:
-        float(s)
-        return True
-    except ValueError:
-        return False	
+	match = False
+	# print(s)
+	pattern_straight_num = re.compile("[+-]?[\d]+")
+	#straight number
+	if pattern_straight_num.match(s):
+		match = True
+
+	# pattern_quantity_num = re.compile("[\D]*[\d]+[\D]*")
+	# #quantity number
+	# if pattern_quantity_num.match(s):
+	# 	match = True
+
+	return match
 
 # with open('test.json') as f:
 with open('sat.train.json') as f:
@@ -63,7 +72,6 @@ closed_tags = 0
 geometry_tags = 0
 other_tags = 0
 answer_num = 0
-answer_quantity_num = 0
 not_answer_num = 0
 diagram = 0
 not_diagram = 0
