@@ -1,0 +1,1322 @@
+[
+    {
+        "answer": "B",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "diagramRef": "diagram1455.eps",
+        "exam": "source6",
+        "id": 10002,
+        "originalQuestionNumber": 5,
+        "question": "The line graph above shows the amount of money spent on office supplies by Jacksonville Tax Service during the first five month of the year. According to the graph, the amount it spent in May was how many times the amount it spent in January?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "diagram1223.eps",
+            "B": "diagram431.eps",
+            "C": "diagram348.eps",
+            "D": "diagram1286.eps",
+            "E": "diagram158.eps"
+        },
+        "diagramRef": "diagram517.eps",
+        "exam": "source6",
+        "id": 10020,
+        "originalQuestionNumber": 4,
+        "question": "Which of the following graphs best represents the information in the table above ?",
+        "sectionLength": 18,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "\\(\\frac { 1 } { 6 } \\)",
+            "B": "\\(\\frac { 1 } { 3 } \\)",
+            "C": "\\(\\frac { 1 } { 2 } \\)",
+            "D": "\\(\\frac { 2 } { 3 } \\)",
+            "E": "\\(\\frac { 5 } { 6 } \\)"
+        },
+        "diagramRef": "diagram856.eps",
+        "exam": "source5",
+        "id": 10032,
+        "originalQuestionNumber": 13,
+        "question": "The dartboard shown above is divided into 6 regions, all the same size. If a dart lands randomly on the board, what is the probability that it lands on a prime number?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "Coach Class on Airline X and First Class on Airline Z.",
+            "B": "First Class on Airline Y and Coach Class on Airline Y",
+            "C": "First Class on Airline X and Coach Class on Airline Z",
+            "D": "First Class on Airline Y and Coach Class on Airline W",
+            "E": "Coach Class on Airline Z and Coach Class on Airline Z."
+        },
+        "diagramRef": "diagram1196.eps",
+        "exam": "source6",
+        "id": 10064,
+        "originalQuestionNumber": 6,
+        "question": "The chart above gives fare information for the cost of flights between two cities on four different airlines, W, X, Y, and Z. What is the least expensive combination of flights available?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "diagram1237.eps",
+            "B": "diagram26.eps",
+            "C": "diagram766.eps",
+            "D": "diagram958.eps",
+            "E": "diagram136.eps"
+        },
+        "diagramRef": "diagram918.eps",
+        "exam": "source6",
+        "id": 10065,
+        "originalQuestionNumber": 6,
+        "question": "A certain car manufacturer sells only three models of cars. The chart above shows the selling price for each model, along with the quantity of each model sold in one year. Which of the following graphs most correctly shows the relationship between the price of a model and the number of that model sold?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "520",
+        "diagramRef": "diagram835.eps",
+        "exam": "source6",
+        "id": 10127,
+        "originalQuestionNumber": 10,
+        "question": "What is the total number of pieces of candy that Meredith buys if she buys 20 boxes of Sour Chewies and 10 boxes of chocolate?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "Its slope is negative.",
+            "B": "Its slope is positive.",
+            "C": "It goes through the point (0, t), where \\(t \\geq 0\\).",
+            "D": "It goes through the point (s, 0), where \\(s \\geq 0\\).",
+            "E": "It goes through the point (0, 0)"
+        },
+        "diagramRef": "diagram111.eps",
+        "exam": "source6",
+        "id": 10161,
+        "originalQuestionNumber": 2,
+        "question": "Eleven students were instructed to write an essay. The scatterplot above shows the grade and the number of footnotes in each essay. Which of the following is true regarding the line of best fit?",
+        "sectionLength": 16,
+        "sectionNumber": 9,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "\\$300",
+            "B": "\\$375",
+            "C": "\\$450",
+            "D": "\\$750",
+            "E": "\\$900"
+        },
+        "diagramRef": "diagram264.eps",
+        "exam": "source6",
+        "id": 10171,
+        "originalQuestionNumber": 10,
+        "question": "Forty-five students participated in a summer reading program to raise money for charity, as shown in the chart above. For every book read, fifty cents was donated to the charity. How much money was raised altogether?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "25\\%",
+            "B": "36\\%",
+            "C": "40\\%",
+            "D": "50\\%",
+            "E": "60\\%"
+        },
+        "diagramRef": "diagram948.eps",
+        "exam": "source5",
+        "id": 10199,
+        "originalQuestionNumber": 10,
+        "question": "If the selling price of model B is 60\\% more than the selling price of model A, what percent of the total sales do the sales of model A represent?",
+        "sectionLength": 16,
+        "sectionNumber": 9,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "16",
+            "B": "15",
+            "C": "14",
+            "D": "12",
+            "E": "8"
+        },
+        "diagramRef": "diagram1023.eps",
+        "exam": "source6",
+        "id": 10231,
+        "originalQuestionNumber": 13,
+        "question": "A bakery sells bread in loaves weighing 8, 12, 16, or 24 ounces. On Tuesday, the bakery sold a total of 300 loaves as shown in chart above. What was the median weight, in ounces, of a loaf of bread sold on Tuesday?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "diagram929.eps",
+            "B": "diagram839.eps",
+            "C": "diagram188.eps",
+            "D": "diagram219.eps",
+            "E": "diagram1584.eps"
+        },
+        "exam": "source6",
+        "id": 10253,
+        "originalQuestionNumber": 12,
+        "question": "If six less than four times a number is greater than or equal to -2, which of the following represents all possible values of that number?",
+        "sectionLength": 14,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "11",
+        "diagramRef": "diagram461.eps",
+        "exam": "source6",
+        "id": 10271,
+        "originalQuestionNumber": 17,
+        "question": "A landscaper plants flowers in a 30-foot flower bed as represented by the figure above. If a flower is planted al each end and also planted every 3 feet along the flower bed, how many flowers will the farmer plant altogether in the flower bed?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "72",
+            "B": "100",
+            "C": "120",
+            "D": "240",
+            "E": "300"
+        },
+        "diagramRef": "diagram1470.eps",
+        "exam": "source6",
+        "id": 10327,
+        "originalQuestionNumber": 4,
+        "question": "In a creative-writing course, 60 students chose from among 5 genres for each assignment. The graph above shows the distribution of the stories turned in for one assignment. If there were 6 assignments during the semester, and the same number of students turned in Detective stories for each assignment, what is the total number of Detective stories turned in during the semester?",
+        "sectionLength": 14,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "38",
+            "B": "39",
+            "C": "41",
+            "D": "43",
+            "E": "45"
+        },
+        "diagramRef": "diagram1043.eps",
+        "exam": "source6",
+        "id": 10362,
+        "originalQuestionNumber": 12,
+        "question": "Harvey begins lining up 1-inch cubes in a row on a table, as shown above. Each cube, except the first and the last, shares two of its faces with adjacent cubes. If Harvey continues until he has lined up 13 cubes on the table, what is the surface area, in square inches, of the cubes' faces that do not touch the table or another cube?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "14",
+            "B": "15",
+            "C": "16",
+            "D": "17",
+            "E": "18"
+        },
+        "diagramRef": "diagram1213.eps",
+        "exam": "source5",
+        "id": 10364,
+        "originalQuestionNumber": 4,
+        "question": "The graph shows the number of books read in January 2010 by the five members of a book club. What was the total number of books read in January 2010 by the members of the club?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": ".75",
+        "diagramRef": "diagram1003.eps",
+        "exam": "source6",
+        "id": 10374,
+        "originalQuestionNumber": 17,
+        "question": "As represented by the graph above, sand is added at a constant rate of x pounds per minute to a container that already contains 1 \\(\\frac { 1 } { 2 } \\) pounds of sand. If after 7 minutes there are 6 \\(\\frac { 3 } { 4 } \\) pounds of sand in the container, what is the value of x ?",
+        "sectionLength": 18,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "Two",
+            "B": "Three",
+            "C": "Four",
+            "D": "Five",
+            "E": "Six"
+        },
+        "diagramRef": "diagram1260.eps",
+        "exam": "source6",
+        "id": 10404,
+        "originalQuestionNumber": 4,
+        "question": "Jean-Paul is making place settings for Sunday brunch. He wants to make sure no two plates next to each other on the same side of the table and no two plates directly across from each other on the table are the same color. If the settings labeled B are blue, how many of the nine remaining settings \\textbf { cannot } be blue?",
+        "sectionLength": 20,
+        "sectionNumber": 5,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2004",
+            "B": "2005",
+            "C": "2006",
+            "D": "2007",
+            "E": "2008"
+        },
+        "diagramRef": "diagram49.eps",
+        "exam": "source6",
+        "id": 10418,
+        "originalQuestionNumber": 3,
+        "question": "The line graph above shows the number of papers published by the economics department at a major university for the years 2002 through 2008. For which of the following years was the number of papers published closest to the average (arithmetic mean) number of papers published in 2002 and 2003?",
+        "sectionLength": 20,
+        "sectionNumber": 5,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "2",
+        "diagramRef": "diagram1114.eps",
+        "exam": "source6",
+        "id": 10430,
+        "originalQuestionNumber": 13,
+        "question": "Plotted on the graph above are the results of a survey in which 17 office workers were asked how many hours a day they spent composing email and attending meetings. Each dot reflects one office worker. The median number of hours spent composing emails is how much less than the median number of hours spent attending meetings?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "\\(\\frac { 1 } { 3 } \\)",
+            "B": "\\(\\frac { 1 } { 4 } \\)",
+            "C": "\\(\\frac { 3 } { 8 } \\)",
+            "D": "\\(\\frac { 3 } { 4 } \\)",
+            "E": "\\(\\frac { 3 } { 5 } \\)"
+        },
+        "diagramRef": "diagram675.eps",
+        "exam": "source6",
+        "id": 10480,
+        "originalQuestionNumber": 14,
+        "question": "The table above shows the number of animals at a particular pet store according to the type of animal and age. If a dog is to be chosen at random, what is the probability that the dog is less than 3 months old?",
+        "sectionLength": 20,
+        "sectionNumber": 5,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "1.2",
+            "B": "2.5",
+            "C": "3.0",
+            "D": "3.4",
+            "E": "4.1"
+        },
+        "diagramRef": "diagram1098.eps",
+        "exam": "source6",
+        "id": 10488,
+        "originalQuestionNumber": 14,
+        "question": "The chart above shows acres of forest land that were developed for each of five years. Which of the following is the closest approximation of the median number of acres developed from 2001 to 2004?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "93",
+            "B": "124",
+            "C": "196",
+            "D": "217",
+            "E": "284"
+        },
+        "diagramRef": "diagram318.eps",
+        "exam": "source6",
+        "id": 10515,
+        "originalQuestionNumber": 10,
+        "question": "The tables above show the amount of each ingredient needed to make various sizes of cheese pizzas at a certain restaurant, and the number of each size of cheese pizza sold by the restaurant for take out or delivery. What is the sum of the number of cups of sauce and the number of cups of cheese used in cheese pizzas that the restaurant sold?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "60",
+        "diagramRef": "diagram978.eps",
+        "exam": "source2",
+        "id": 10549,
+        "originalQuestionNumber": 18,
+        "question": "In the figure above, how many different arrangements are possible that begin and end with a BLACK CIRCLE?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "20",
+            "B": "25",
+            "C": "30",
+            "D": "35",
+            "E": "40"
+        },
+        "diagramRef": "diagram46.eps",
+        "exam": "source6",
+        "id": 10591,
+        "originalQuestionNumber": 3,
+        "question": "According to the information given in the table above what was the overall increase from 2007 to 2008 in the number of parking violations for August through December?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "6",
+        "diagramRef": "diagram2.eps",
+        "exam": "source6",
+        "id": 10622,
+        "originalQuestionNumber": 14,
+        "question": "According to the table above, the number of pizzas consumed per person in 1990 was what multiple, rounded to the nearest integer, of the number of pizzas consumed per person in 1960?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "20\\%",
+            "B": "40\\%",
+            "C": "50\\%",
+            "D": "60\\%",
+            "E": "80\\%"
+        },
+        "diagramRef": "diagram1213.eps",
+        "exam": "source5",
+        "id": 10629,
+        "originalQuestionNumber": 5,
+        "question": "The graph shows the number of books read in January 2010 by the five members of a book club. What percent of the members read more books than the average (arithmetic mean) number of books read?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "1,525",
+            "B": "1,700",
+            "C": "1,750",
+            "D": "1,800",
+            "E": "1,875"
+        },
+        "diagramRef": "diagram1427.eps",
+        "exam": "source6",
+        "id": 10705,
+        "originalQuestionNumber": 5,
+        "question": "The chart above shows the number of residents of the Sunny Forest housing development from 2000 to 2004. Starting in 2000, the number o( residents increased a constant amount every 2 years. If the number of residents continued to increase at this rate, how many residents were there in 2006?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-2",
+            "B": "0",
+            "C": "1",
+            "D": "3",
+            "E": "4"
+        },
+        "diagramRef": "diagram1199.eps",
+        "exam": "source6",
+        "id": 10720,
+        "originalQuestionNumber": 11,
+        "question": "The table above shows the values of two functions. What is the value of \\(f(2) - g(-2)\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "I only",
+            "B": "II only",
+            "C": "III only",
+            "D": "II and III only",
+            "E": "I,II, and III"
+        },
+        "diagramRef": "diagram906.eps",
+        "exam": "source2",
+        "id": 10726,
+        "originalQuestionNumber": 8,
+        "question": "The table above shows the number of members of a family for 200 employees at World Computer Company this year. Which of the following can be determined from the information in the table? I. The average (arithmetic mean) number of member of a family of all employees II. The median number of a members of a family of all employees III. The mode of the number of members of a family of all employees",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "9",
+            "B": "11",
+            "C": "12",
+            "D": "120",
+            "E": "130"
+        },
+        "diagramRef": "diagram71.eps",
+        "exam": "source6",
+        "id": 10775,
+        "originalQuestionNumber": 8,
+        "question": "The chart above shows the body weights and percent body fat for the 12 members of a wrestling team. What is the median percent body fat for the members of the team?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "\\(\\frac { 1 } { 6 } \\)",
+            "B": "\\(\\frac { 1 } { 5 } \\)",
+            "C": "\\(\\frac { 1 } { 4 } \\)",
+            "D": "3",
+            "E": "6"
+        },
+        "diagramRef": "diagram1196.eps",
+        "exam": "source6",
+        "id": 10817,
+        "originalQuestionNumber": 7,
+        "question": "What is the quotient of the mode of the differences in price between First Class and Coach Class for each airline and the average (arithmetic mean) of the four airlines' First Class prices?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "Month 1",
+            "B": "Month 3",
+            "C": "Month 5",
+            "D": "Month 7",
+            "E": "Month 9"
+        },
+        "diagramRef": "diagram209.eps",
+        "exam": "source2",
+        "id": 10821,
+        "originalQuestionNumber": 5,
+        "question": "The two graphs show the price per pound of meat for the first 9 months between 2007 and 2008. Which month had the greatest rate of change in price from year 2007 to 2008?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "200",
+            "B": "220",
+            "C": "240",
+            "D": "270",
+            "E": "290"
+        },
+        "diagramRef": "diagram891.eps",
+        "exam": "source2",
+        "id": 10899,
+        "originalQuestionNumber": 9,
+        "question": "The circle graph above shows the results of a vote for favorite subjects at J.C High School. Chemistry came in third with 100 votes. If 600 students voted for the survey, how many students could have possibly voted for Math?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "\\$920.00",
+            "B": "\\$997.50",
+            "C": "\\$1020.50",
+            "D": "\\$1080.00",
+            "E": "\\$1890.50"
+        },
+        "diagramRef": "diagram882.eps",
+        "exam": "source6",
+        "id": 10907,
+        "originalQuestionNumber": 4,
+        "question": "An accessories manufacturer makes one style each of bracelets and scarves that are shipped to stores in three different states. The chart on the left above gives the prices the manufacturer charges for each bracelet and scarf to the stores in the three states. The chart on the right gives the maximum number of bracelets and scarves that can fit in each of three shipping boxes, A, B and C. Based on the prices shown, what is the maximum possible value of the bracelets and scarves that can be shipped to New York in shipping box A ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "diagram106.eps",
+            "B": "diagram1643.eps",
+            "C": "diagram733.eps",
+            "D": "diagram1624.eps",
+            "E": "diagram225.eps"
+        },
+        "exam": "source6",
+        "id": 10984,
+        "originalQuestionNumber": 8,
+        "question": "During six weeks in October and November, a snack stand sold fewer ice cream cones each week. During this same period the snack stand sold a greater number of cups of soup each week. Which of the following scatterplots could correctly represent sales of ice cream cones and cups of soup over this six week period?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-3",
+            "B": "-2",
+            "C": "0",
+            "D": "2",
+            "E": "3"
+        },
+        "diagramRef": "diagram1627.eps",
+        "exam": "source6",
+        "id": 11045,
+        "originalQuestionNumber": 15,
+        "question": "The table above shows several values for function f. If the function h is defined by \\(h(x) = f(\\frac { 2 } { x +2 } )\\), what is the value of \\(h(-2)\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "20",
+            "E": "30"
+        },
+        "diagramRef": "diagram682.eps",
+        "exam": "source2",
+        "id": 11164,
+        "originalQuestionNumber": 10,
+        "question": "In figure 1 above, 50 people were asked if they had seen two particular movies X and Y. Figure 2 above is another way to show which movies they have seen. What is the total number of people represented by the shaded region in figure 2?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "diagram253.eps",
+            "B": "diagram363.eps",
+            "C": "diagram345.eps",
+            "D": "diagram1049.eps",
+            "E": "diagram1510.eps"
+        },
+        "exam": "source6",
+        "id": 11287,
+        "originalQuestionNumber": 10,
+        "question": "Max realized that the longer he runs, the slower his pace becomes. Which of the following could be the graph of Max's pace by his distance?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "2005",
+            "B": "2006",
+            "C": "2007",
+            "D": "2008",
+            "E": "2009"
+        },
+        "diagramRef": "diagram392.eps",
+        "exam": "source5",
+        "id": 11332,
+        "originalQuestionNumber": 6,
+        "question": "The chart below shows the value of an investment on January 1 of each year from 2005 to 2010. During which year was the percent increase in the value of the investment the greatest?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "diagram8.eps",
+            "B": "diagram190.eps",
+            "C": "diagram1473.eps",
+            "D": "diagram514.eps",
+            "E": "diagram863.eps"
+        },
+        "diagramRef": "diagram911.eps",
+        "exam": "source2",
+        "id": 11348,
+        "originalQuestionNumber": 3,
+        "question": "The bar graph above shows the average number of vacation days for workers per year. Which of the following circle graphs best describes the same data?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "23",
+            "B": "24",
+            "C": "24.5",
+            "D": "25",
+            "E": "26"
+        },
+        "diagramRef": "diagram284.eps",
+        "exam": "source5",
+        "id": 11410,
+        "originalQuestionNumber": 4,
+        "question": "The data show the number of students in each of the five fifth-grade classes at Taft Elementary School and, for each class, the number of students in the school band. What is the average (arithmetic mean) number of students per class?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "50",
+        "diagramRef": "diagram1115.eps",
+        "exam": "source6",
+        "id": 11418,
+        "originalQuestionNumber": 11,
+        "question": "Miranda picked apples with her friends. If Miranda picked 15 apples, according to the information in the graph above, what was the total number of apples picked?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "Day 1 and 2",
+            "B": "Day 3 and 4",
+            "C": "Day 4 and 5",
+            "D": "Day 5 and 6",
+            "E": "Day 6 and 7"
+        },
+        "diagramRef": "diagram774.eps",
+        "exam": "source2",
+        "id": 11427,
+        "originalQuestionNumber": 4,
+        "question": "The graph above shows attendance of members of a reading club over 7 days. According the the graph, during which of the following two days is the greatest rate of change of attendance of members?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "Strawberry",
+            "B": "Orange",
+            "C": "Lemon",
+            "D": "Cherry",
+            "E": "Grape"
+        },
+        "diagramRef": "diagram141.eps",
+        "exam": "source6",
+        "id": 11438,
+        "originalQuestionNumber": 6,
+        "question": "Susannah buys a bag containing 700 jelly beans that come in 5 assorted flavors. The circle graph above shows each flavor as a percent of the total amount of jelly beans. The bar graph shows the number of one flavor of jelly beans that Susannah gave to each of five friends. Which flavor is represented by the bar graph?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "diagramRef": "diagram707.eps",
+        "exam": "source2",
+        "id": 11455,
+        "originalQuestionNumber": 3,
+        "question": "The table above shows the test scores for students on an European History test. If the median for the test scores is 80, what is the least possible value of \\(x\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "7\\%",
+            "B": "17\\%",
+            "C": "20\\%",
+            "D": "25\\%",
+            "E": "30\\%"
+        },
+        "diagramRef": "diagram645.eps",
+        "exam": "source5",
+        "id": 11457,
+        "originalQuestionNumber": 10,
+        "question": "The chart above shows the percent of students at Central High School taking each of the four science courses offered. If every student takes exactly one science course, and if 20\\% of the students taking chemistry switch to physics, what percent of the students will be taking physics?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "200",
+        "diagramRef": "diagram53.eps",
+        "exam": "source6",
+        "id": 11463,
+        "originalQuestionNumber": 17,
+        "question": "Jack purchases new CDs every year. The chart on the top shows the average prices that he pays for each type of CD for three different years. The chart below shows how many of each type of CD that he purchased in those three different years. The total amount that Jack spent on CDs in 2004 is what percent greater than the total amount that he spent in 2002? ((Disregard the \\% sign when you grid your answer)",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "40",
+            "B": "80",
+            "C": "140",
+            "D": "330",
+            "E": "1300"
+        },
+        "diagramRef": "diagram47.eps",
+        "exam": "source5",
+        "id": 11479,
+        "originalQuestionNumber": 15,
+        "question": "Store 1 is a full-service retail store that charges regular prices. Store 2 is a self-service factory-outlet store that sells all items at a reduced price. In January 2004, each store sold three brands of DVD players. The numbers of DVD players sold and their prices are shown in the following tables. What was the difference between Store 1 and Store 2 in the dollar values of the total sales of the three brands of DVD players?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "It cannot be determined from the information given."
+        },
+        "diagramRef": "diagram513.eps",
+        "exam": "source2",
+        "id": 11493,
+        "originalQuestionNumber": 6,
+        "question": "The table above shows the results for 45 students on a math test. If the teacher allows students to retake the test, what is the least number of students that would have to retake the test in order to POSSIBLY establish a new and unique class median?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(f(x) = 20x\\)",
+            "B": "\\(f(x) = 20 + x\\)",
+            "C": "\\(f(x) = 20 - x\\)",
+            "D": "\\(f(x) = 20 + x^2\\)",
+            "E": "\\(f(x) = 20 - x^2\\)"
+        },
+        "diagramRef": "diagram1284.eps",
+        "exam": "source2",
+        "id": 11499,
+        "originalQuestionNumber": 4,
+        "question": "Each of the ordered pairs in the table above is on the graph of the function \\(f\\) in the xy- plane. Which of the following could be true for all \\(x\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "\\(\\frac { 1 } { 8 } \\)",
+            "B": "\\(\\frac { 1 } { 4 } \\)",
+            "C": "\\(\\frac { 1 } { 2 } \\)",
+            "D": "\\(\\frac { 2 } { 3 } \\)",
+            "E": "\\(\\frac { 3 } { 4 } \\)"
+        },
+        "diagramRef": "diagram832.eps",
+        "exam": "source6",
+        "id": 11552,
+        "originalQuestionNumber": 6,
+        "question": "What is the probability that a randomly selected point will fall within one of the shaded regions?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "Reducing the price of a CD will always increase the number of CDs sold",
+            "B": "Above a certain price level, reducing the price of a CD will increase the number of CDs sold. Below that level reducing the price has no effect.",
+            "C": "The price of a CD haas no effect on the number of CDs sold.",
+            "D": "Reducing the price of a CD will decrease the number of CDs sold.",
+            "E": "The price of the CD should be raised."
+        },
+        "diagramRef": "diagram1372.eps",
+        "exam": "source6",
+        "id": 11555,
+        "originalQuestionNumber": 8,
+        "question": "A musician goes on tour and sells CDs of his music. He varied the price of the CD on a nightly basis, kept track of how many were sold, and put this information in the graph above. Which of the following conclusions is best supported by the graph?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "12",
+        "diagramRef": "diagram734.eps",
+        "exam": "source2",
+        "id": 11558,
+        "originalQuestionNumber": 9,
+        "question": "In the figure above, how many different routes are possible from \\(A\\) to \\(B\\) and back to \\(A\\), but not taking the same route?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "60",
+            "B": "65",
+            "C": "70",
+            "D": "75",
+            "E": "80"
+        },
+        "diagramRef": "diagram105.eps",
+        "exam": "source2",
+        "id": 11559,
+        "originalQuestionNumber": 5,
+        "question": "What was the median of the scores of the 8 students on test 1?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "\\$300",
+            "B": "\\$600",
+            "C": "\\$1,200",
+            "D": "\\$1,400",
+            "E": "\\$1,500"
+        },
+        "diagramRef": "diagram17.eps",
+        "exam": "source6",
+        "id": 11611,
+        "originalQuestionNumber": 5,
+        "question": "The graph above shows the monthly profit at a mountain climbing supplies store over a four-month period. What is the difference between the greatest and least monthly profits, in dollars, over the 4 months?",
+        "sectionLength": 20,
+        "sectionNumber": 4,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "\\(\\$0.50\\)",
+            "B": "\\(\\$1.00\\)",
+            "C": "\\(\\$1.50\\)",
+            "D": "\\(\\$1.75\\)",
+            "E": "\\(\\$1.90\\)"
+        },
+        "diagramRef": "diagram218.eps",
+        "exam": "source2",
+        "id": 11657,
+        "originalQuestionNumber": 11,
+        "question": "For 12 boxes of text books of various weights, the cost and weight of each box from mailing company \\(X\\) are displayed in the scatter plot above and the line of best fit for the data is shown. Which if the following is closest to the average (arithmetic mean) cost per pound for the 12 boxes?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "282",
+        "diagramRef": "diagram1428.eps",
+        "exam": "source6",
+        "id": 11717,
+        "originalQuestionNumber": 15,
+        "question": "The table above shows the price per pound that Distributor D charges for spices. The owner of a spice store buys 3 pounds each of cinnamon, nutmeg, ginger, and cloves from Distributor D. She then sells all of the spices at \\$2.00 per ounce. What, in dollars, is her total profit? (1 pound = 16 ounces) (Disregard the \\$ sign when gridding your answer)",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "30",
+            "B": "45",
+            "C": "90",
+            "D": "120",
+            "E": "135"
+        },
+        "diagramRef": "diagram289.eps",
+        "exam": "source6",
+        "id": 11747,
+        "originalQuestionNumber": 5,
+        "question": "If the data about Joana's term papers were shown in a circle graph, what would be the measure of the central angle of the sector that illustrates the year 2005 ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "12",
+            "B": "18",
+            "C": "36",
+            "D": "54",
+            "E": "108"
+        },
+        "diagramRef": "diagram1123.eps",
+        "exam": "source2",
+        "id": 11909,
+        "originalQuestionNumber": 11,
+        "question": "The table above gives the values of \\(f(t)\\) for the selected values of \\(t\\). If \\(f(t)\\) varies directly proportional to \\(t\\), which of the following could be the value of \\(k\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "6",
+            "B": "8",
+            "C": "10",
+            "D": "12",
+            "E": "14"
+        },
+        "diagramRef": "diagram289.eps",
+        "exam": "source6",
+        "id": 11947,
+        "originalQuestionNumber": 4,
+        "question": "The line graph above shows the number of term papers Joana wrote in each of years 2001 through 2006. How many more term papers did Joana write in the years 2001 and 2003 combined than she wrote in the year 2002 ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "Ada",
+            "B": "Bob",
+            "C": "Cal",
+            "D": "Dan",
+            "E": "Eve"
+        },
+        "diagramRef": "diagram851.eps",
+        "exam": "source5",
+        "id": 11959,
+        "originalQuestionNumber": 10,
+        "question": "The following table lists the salaries in 2000 of five people and the percent changes in their salaries from 2000 to 2010. Who had the highest salary in 2010?",
+        "sectionLength": 16,
+        "sectionNumber": 9,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(f(x) = 25 + 25x\\)",
+            "B": "\\(f(x) = 25 + 13x\\)",
+            "C": "\\(f(x) = 25 + 5x\\)",
+            "D": "\\(f(x) = 25 + x\\)",
+            "E": "\\(f(x) = 25 + x^2\\)"
+        },
+        "diagramRef": "diagram1004.eps",
+        "exam": "source6",
+        "id": 11962,
+        "originalQuestionNumber": 5,
+        "question": "Which of the following functions satisfies each pair of numbers in the table above?",
+        "sectionLength": 18,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "41",
+            "B": "37",
+            "C": "33",
+            "D": "27",
+            "E": "10"
+        },
+        "diagramRef": "diagram1511.eps",
+        "exam": "source6",
+        "id": 12033,
+        "originalQuestionNumber": 14,
+        "question": "The numbers in the Venn diagram indicate the number of elements in sets A, B and C that belong in each region. How many total items are in sets A and C combined?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "1 to 2",
+            "B": "1 to 3",
+            "C": "1 to 4",
+            "D": "1 to 6",
+            "E": "1 to 9"
+        },
+        "diagramRef": "diagram156.eps",
+        "exam": "source6",
+        "id": 12061,
+        "originalQuestionNumber": 6,
+        "question": "The circle graph above shows the inventory of movie genres in a certain DVD rental store. What is the ratio of the number of romance movies to the number of comedy movies?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "500",
+        "diagramRef": "diagram739.eps",
+        "exam": "source2",
+        "id": 12070,
+        "originalQuestionNumber": 12,
+        "question": "In the results of a survey shown above, 225 people preferred the colors yellow or red. How many people were surveyed?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "20",
+            "E": "25"
+        },
+        "diagramRef": "diagram682.eps",
+        "exam": "source2",
+        "id": 12081,
+        "originalQuestionNumber": 9,
+        "question": "In figure 1 above, 50 people were asked if they had seen two particular movies X and Y. Figure 2 above is another way to show which movies they have seen. How many people have seen both two movies?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "\\(C = 2\\)",
+            "B": "\\(C = D - 2\\)",
+            "C": "\\(C = 2D - 2\\)",
+            "D": "\\(C = D + 4\\)",
+            "E": "\\(C = 2D\\)"
+        },
+        "diagramRef": "diagram761.eps",
+        "exam": "source6",
+        "id": 12132,
+        "originalQuestionNumber": 10,
+        "question": "A mechanic created a graph showing the number of calls he received about stalled cars during the first 10 days of January. Let C represent the number of calls he received and D represent the number of day of the month. Which of the following equations represents the data shown above?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D",
+            "E": "E"
+        },
+        "diagramRef": "diagram284.eps",
+        "exam": "source5",
+        "id": 12168,
+        "originalQuestionNumber": 5,
+        "question": "The data show the number of students in each of the five fifth-grade classes at Taft Elementary School and, for each class, the number of students in the school band. Which class has the highest percent of students in the band?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "Five",
+            "B": "Six",
+            "C": "Seven",
+            "D": "Eight",
+            "E": "Nine"
+        },
+        "diagramRef": "diagram1516.eps",
+        "exam": "source2",
+        "id": 12189,
+        "originalQuestionNumber": 7,
+        "question": "On the dial above, the numbers are equally spaced. The arrow rotates clockwise at a constant rate of 160 degrees every 10 seconds. If the arrow starts at 0, how many times will the arrow pass the number 3 on the dial in 150 seconds?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "None",
+            "B": "One",
+            "C": "Two",
+            "D": "Three",
+            "E": "Four"
+        },
+        "diagramRef": "diagram16.eps",
+        "exam": "source6",
+        "id": 12214,
+        "originalQuestionNumber": 17,
+        "question": "Carmen's tennis club posts the names of those players who compete in at least 12 matches per month and win more matches than they lose. For how many of the months listed in the table above was Carmen's name posted by tennis organization?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "other"
+        ]
+    }
+]
