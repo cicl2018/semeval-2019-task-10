@@ -21,8 +21,8 @@
 - Have Diagram but Not a Geometry Questions: 235
 - ==============================
 
-### Right now, numerical Answer Question only show exact numerical answers.
-### Files are in the data_analysis folder.
+- Right now, numerical Answer Question only show exact numerical answers.
+- Files are in the data_analysis folder.
 
 
 ## Reading list
