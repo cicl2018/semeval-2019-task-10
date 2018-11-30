@@ -76,6 +76,9 @@ not_answer_num = 0
 diagram = 0
 not_diagram = 0
 
+geometry_but_not_diagram = 0
+diagram_but_not_geometry = 0
+
 
 # open output files
 f_closed = open('closed_tag.json', 'w+')
@@ -87,6 +90,9 @@ f_not_answer_num = open('not_answer_num.json', 'w+')
 f_has_diagram = open('has_diagram.json', 'w+')
 f_not_has_diagram = open('not_has_diagram.json', 'w+')
 
+f_geometry_but_not_diagram = open('geometry_but_not_diagram', 'w+')
+f_diagram_but_not_geometry = open('diagram_but_not_geometry', 'w+')
+
 # init all list
 l_open = [];
 l_closed = [];
@@ -96,6 +102,11 @@ l_answer_num = [];
 l_not_answer_num = [];
 l_has_diagram = [];
 l_not_has_diagram = [];
+
+
+l_geometry_but_not_diagram = []
+l_diagram_but_not_geometry = []
+
 
 # loop for all data
 for one_data in data:
@@ -134,6 +145,14 @@ for one_data in data:
 		not_diagram+=1
 		l_not_has_diagram.append(one_data)
 
+	if is_geometry_tag(one_data) and not has_diagram(one_data):
+		geometry_but_not_diagram+=1
+		l_geometry_but_not_diagram.append(one_data)
+
+	if not is_geometry_tag(one_data) and has_diagram(one_data):
+		diagram_but_not_geometry+=1
+		l_diagram_but_not_geometry.append(one_data)
+
 
 
 # write data in the files
@@ -145,6 +164,10 @@ answer_num_output = json.dumps(l_answer_num, indent = 4)
 not_answer_num_output = json.dumps(l_not_answer_num, indent = 4)
 has_diagram_output = json.dumps(l_has_diagram, indent = 4)
 not_has_diagram_output = json.dumps(l_not_has_diagram, indent = 4)
+
+
+geometry_but_not_diagram_output = json.dumps(l_geometry_but_not_diagram, indent = 4)
+diagram_but_not_geometry_output = json.dumps(l_diagram_but_not_geometry, indent = 4)
 # print(closed_output, f_closed)
 # print(open_output, f_open)
 # print(geometry_output, f_geometry)
@@ -161,6 +184,10 @@ f_not_answer_num.write(not_answer_num_output)
 f_has_diagram.write(has_diagram_output)
 f_not_has_diagram.write(not_has_diagram_output)
 
+
+f_geometry_but_not_diagram.write(geometry_but_not_diagram_output)
+f_diagram_but_not_geometry.write(diagram_but_not_geometry_output)
+
 f_closed.close()
 f_open.close()
 f_geometry.close()
@@ -169,6 +196,10 @@ f_answer_num.close()
 f_not_answer_num.close()
 f_has_diagram.close()
 f_not_has_diagram.close()
+
+
+f_geometry_but_not_diagram.close()
+f_diagram_but_not_geometry.close()
 
 
 
@@ -200,6 +231,8 @@ print ("Not Numerical Answer Questions: " + str(not_answer_num))
 print ("==============================")
 print ("Diagram Questions: " + str(diagram))
 print ("Not a Diagram Questions: " + str(not_diagram))
+print ("Geometry but Not a Diagram Questions: " + str(geometry_but_not_diagram))
+print ("Have Diagram but Not a Geometry Questions: " + str(diagram_but_not_geometry))
 print ("==============================")
 print ("")
 print ("")

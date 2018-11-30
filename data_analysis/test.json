@@ -1,0 +1,95 @@
+[
+    {
+        "answer": "B",
+        "choices": {
+            "A": "I only",
+            "B": "II only",
+            "C": "III only",
+            "D": "I and II only",
+            "E": "I, II, and III"
+        },
+        "exam": "source2",
+        "id": 10001,
+        "originalQuestionNumber": 3,
+        "question": "If k is an integer and \\(k = \\frac { m } { 3 } \\) which of the following must be true? I. m is an even number. II. m is a multiple of 3. III. m is an odd number.",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "B": "\\(\\frac { 2a } { 11 } \\)",
+            "C": "\\(\\frac { 6a } { 5 } \\)",
+            "D": "\\(\\frac { 11a } { 18 } \\)",
+            "E": "\\(\\frac { 2a } { 3 } \\)"
+        },
+        "exam": "source2",
+        "id": 12251,
+        "originalQuestionNumber": 12,
+        "question": "If \\(a = 2b = 3c\\), what is the average (arithmetic mean) of \\(a\\), \\(b\\) and \\(c\\) in terms of \\(a\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(\\frac { 13 } { 42 } \\)",
+            "B": "\\(\\frac { 1 } { 3 } \\)",
+            "C": "\\(\\frac { 5 } { 14 } \\)",
+            "D": "\\(\\frac { 8 } { 21 } \\)"
+        },
+        "exam": "source6",
+        "id": 12252,
+        "originalQuestionNumber": 2,
+        "question": "Angelique invited 42 people to a conference. Of the invitees, 8 people declined, and the rest accepted. On the day of the conference, a snowstorm prevented half of those who accepted from making it to the conference. If no other people accepted or declined, what fraction of Angelique's original invitees attended the conference?",
+        "sectionLength": 20,
+        "sectionNumber": 5,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "-10",
+            "B": "-5",
+            "C": "0",
+            "D": "5",
+            "E": "10"
+        },
+        "exam": "source5",
+        "id": 10000,
+        "originalQuestionNumber": 1,
+        "question": "If \\(a - 5 = O\\), what is the value of \\(a + 5\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(6n\\)",
+            "B": "\\(9n\\)",
+            "C": "\\(12n\\)",
+            "D": "\\(15n\\)",
+            "E": "\\(21n\\)"
+        },
+        "exam": "source6",
+        "id": 10026,
+        "originalQuestionNumber": 2,
+        "question": "In the figure above, \\(\\triangle { ABC } \\) is equilateral and ACDE is a square. If \\(AC = 3n\\), what is the perimeter of polygon ABCDE ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "geometry"
+        ]
+    }
+]

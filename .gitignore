@@ -1,7 +1,1 @@
 *.zip
-dataanalysis/*.json
-data_analysis/*.json
-!data_analysis/sat.dev.json
-!data_analysis/sat.train.json
-data-analysis/test.py
-data_analysis/test.py
