@@ -1,28 +1,28 @@
 ##Statistics
 
 
--==============================
--=       Data Analysis        =
--=                            =
--==============================
--Total Questions: 2224
--==============================
--Open Questions: 318
--Close Questions: 846
--Geometry Questions: 593
--Other Questions: 70
--==============================
--Numerical Answer Questions: 815
--Not Numerical Answer Questions: 1409
--==============================
--Diagram Questions: 642
--Not a Diagram Questions: 1582
--Geometry but Not a Diagram Questions: 186
--Have Diagram but Not a Geometry Questions: 235
--==============================
+###==============================
+###=       Data Analysis        =
+###=                            =
+###==============================
+###Total Questions: 2224
+###==============================
+###Open Questions: 318
+###Close Questions: 846
+###Geometry Questions: 593
+###Other Questions: 70
+###==============================
+###Numerical Answer Questions: 815
+###Not Numerical Answer Questions: 1409
+###==============================
+###Diagram Questions: 642
+###Not a Diagram Questions: 1582
+###Geometry but Not a Diagram Questions: 186
+###Have Diagram but Not a Geometry Questions: 235
+###==============================
 
--Right now, numerical Answer Question only show exact numerical answers.
--Files are in the data_analysis folder.
+###Right now, numerical Answer Question only show exact numerical answers.
+###Files are in the data_analysis folder.
 
 
 ## Reading list
