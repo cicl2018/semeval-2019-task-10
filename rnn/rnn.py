@@ -98,9 +98,7 @@ if __name__ == '__main__':
     choices_input = Input(shape=(1,))
 
     x = Embedding(input_dim=len(vocab) + 1, output_dim=64, input_length=len(train_x[0]))(questions_input)
-    x = Dropout(0.5)(x)
     x = GRU(64)(x)
-    x = Dropout(0.5)(x)
     x = keras.layers.concatenate([x, choices_input], axis=1)
 
     output = Dense(1, activation='sigmoid')(x)
