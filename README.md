@@ -8,7 +8,7 @@
 - Total Questions: 2224
 - ==============================
 - Open Questions: 318
-- Close Questions: 846
+- Close Questions: 846 (425 with logical forms, 421 without logical forms)
 - Geometry Questions: 593
 - Other Questions: 70
 - ==============================
