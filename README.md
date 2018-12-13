@@ -55,6 +55,23 @@
 - [Repository](https://gitlab.cs.washington.edu/ALGES/TACL2015)
 
 ## Notes
+#### 13.12.2018
+- a good idea to get logical forms both from closed-algebra and open-algebra questions
+- Parsers to try: UDPipe > Henry, different kinds of Stanford parser (esp. neural network based one) > Alina, maybe some other parsers?
+- Deep reinforcement learning (in the paper about MathDQN) is about giving feedback in the end to the whole tree
+- data augmentation may be useful (makes sense for the questions that have logical forms), but first we should get some meaningful results
+- ways to run neural network: 
+  - no preprocessing > Jonas
+  - assertion extraction (formulas) - ?
+  - simple linguistic processing like segmentation - ?
+  - UDPipe (develop features for parsed sequences manually; come up with a lot of features, the system should decide if they are important or not)
+- if running NN on simple strings (without preprocessing), develop features for non-preprocessed sequences: neighboring words etc. > Henry, Alina
+- problem for the approach in the paper about MathDQN - questions are very simple comparing to our dataset
+- Q-learning > Alina (for entity extraction)
+- check discussion in the group
+- (Python) library for parsing Latex expressions > Henry
+
+
 #### 29.11.2018
 - Might make sense to parse strings with Latex
 - Check the email list/ some other kind of discussions in the project
