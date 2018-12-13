@@ -126,7 +126,7 @@ if __name__ == '__main__':
 
     x = Embedding(input_dim=len(vocab) + 1, output_dim=64, input_length=len(train_x[0]))(questions_input)
     x = GRU(64)(x)
-    #x = keras.layers.concatenate([x, choices_m], axis=1)
+    x = keras.layers.concatenate([x, choices_m], axis=1)
     #x = Dense(64, activation='relu')(x)
     #x = Dense(64, activation='relu')(x)
     #x = Dense(64, activation='relu')(x)
