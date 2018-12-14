@@ -131,13 +131,13 @@ if __name__ == '__main__':
     #x = Dense(64, activation='relu')(x)
     #x = Dense(64, activation='relu')(x)
     #x = Dense(64, activation='relu')(x)
-    x = Dense(64, activation='relu')(x)
+    x = Dense(32, activation='linear')(x)
 
     output = Dense(1, activation='sigmoid')(x)
 
     model = Model(inputs=[questions_input, choices_input], outputs=output)
     model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
-    model.fit([train_x, train_choices], train_y, epochs=1, batch_size=32)
+    model.fit([train_x, train_choices], train_y, epochs=10, batch_size=32)
 
     test_predictions = model.predict([test_x, test_choices])
     print('Accuracy on the test set:', acc(test_predictions, test_x, test_y, test_set_length))
