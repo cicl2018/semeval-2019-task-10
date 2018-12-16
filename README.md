@@ -25,6 +25,9 @@
 - Right now, numerical Answer Question only show exact numerical answers.
 - Files are in the data_analysis folder.
 
+## Latex Parser
+- Majority of Latex parsers are dealing with document, sections and subsections. However, I do find one [latex2sympy](https://github.com/augustt198/latex2sympy) that may be useful to us. It converts latex math expressions into sympy. I haven't look deep into it yet.
+
 
 ## Reading list
 - Surveys:
