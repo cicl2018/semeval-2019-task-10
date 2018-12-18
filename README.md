@@ -1,3 +1,7 @@
+## Features
+
+[Features](./features/features.md)
+
 ## Statistics
 
 - Questions with glf json file are in data_analysis
