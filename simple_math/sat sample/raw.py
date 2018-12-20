@@ -70,6 +70,8 @@ with open('dev.json') as f:
 data = data_train + data_dev
 chars = sorted(set(str(data)))
 char_table = CharacterTable(chars)
+chars_ans = '0123456789 -.'
+char_table_ans = CharacterTable(chars_ans)
 
 
 def preproces_data(data):
@@ -104,11 +106,11 @@ print('\n')
 
 print('Vectorization...')
 x = np.zeros((len(questions), maxlen_x, len(chars)), dtype=np.bool)
-y = np.zeros((len(answers), maxlen_y, len(chars)), dtype=np.bool)
+y = np.zeros((len(answers), maxlen_y, len(chars_ans)), dtype=np.bool)
 for i, sentence in enumerate(questions):
     x[i] = char_table.encode(sentence, maxlen_x)
 for i, sentence in enumerate(answers):
-    y[i] = char_table.encode(sentence, maxlen_y)
+    y[i] = char_table_ans.encode(sentence, maxlen_y)
 
 indices = np.arange(len(y))
 np.random.shuffle(indices)
@@ -137,33 +139,33 @@ model.add(LSTM(HIDDEN_SIZE, input_shape=(maxlen_x, len(chars))))
 model.add(layers.RepeatVector(maxlen_y))
 for _ in range(LAYERS):
     model.add(LSTM(HIDDEN_SIZE, return_sequences=True))
-model.add(layers.TimeDistributed(layers.Dense(len(chars), activation='softmax')))
+model.add(layers.TimeDistributed(layers.Dense(len(chars_ans), activation='softmax')))
 model.compile(loss='categorical_crossentropy',
               optimizer='adam',
               metrics=['accuracy'])
 model.summary()
 
-for iteration in range(1, 3):
+for iteration in range(1, 50):
     print()
     print('-' * 50)
     print('Iteration', iteration)
     model.fit(x_train, y_train,
               batch_size=BATCH_SIZE,
-              epochs=100,
+              epochs=1,
               validation_data=(x_val, y_val))
     # Select 10 samples from the validation set at random so we can visualize
     # errors.
-    # for i in range(10):
-    #     ind = np.random.randint(0, len(x_val))
-    #     rowx, rowy = x_val[np.array([ind])], y_val[np.array([ind])]
-    #     preds = model.predict_classes(rowx, verbose=0)
-    #     q = ctable.decode(rowx[0])
-    #     correct = ctable.decode(rowy[0])
-    #     guess = ctable.decode(preds[0], calc_argmax=False)
-    #     print('Q', q[::-1] if REVERSE else q, end=' ')
-    #     print('T', correct, end=' ')
-    #     if correct == guess:
-    #         print(colors.ok + '☑' + colors.close, end=' ')
-    #     else:
-    #         print(colors.fail + '☒' + colors.close, end=' ')
-    #     print(guess)
+    for i in range(10):
+        ind = np.random.randint(0, len(x_val))
+        rowx, rowy = x_val[np.array([ind])], y_val[np.array([ind])]
+        preds = model.predict_classes(rowx, verbose=0)
+        q = char_table.decode(rowx[0])
+        correct = char_table_ans.decode(rowy[0])
+        guess = char_table_ans.decode(preds[0], calc_argmax=False)
+        # print('Q', q, end=' ')
+        print('T', correct, end=' ')
+        if correct == guess:
+            print(colors.ok + '☑' + colors.close, end=' ')
+        else:
+            print(colors.fail + '☒' + colors.close, end=' ')
+        print(guess)
