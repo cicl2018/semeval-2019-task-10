@@ -1,8 +1,9 @@
 import numpy as np
 import json
 from keras import layers
-from keras.layers import LSTM
+from keras.layers import LSTM, Embedding, Input
 from keras.models import Sequential
+from keras.preprocessing.sequence import pad_sequences
 
 class CharacterTable(object):
     """Given a set of characters:
@@ -49,8 +50,11 @@ class CharacterTable(object):
     def to_char(self, n):
         return self.indices_char[n]
 
+    def sequence_to_index(self, C):
+        return [self.to_index(i) for i in C]
+    
     def to_index(self, c):
-        return self.char_indices[c]
+        return self.char_indices[c] + 1
 
 
 class colors:
@@ -72,7 +76,6 @@ char_table = CharacterTable(chars)
 chars_ans = '0123456789 -.'
 char_table_ans = CharacterTable(chars_ans)
 
-
 def preproces_data(data):
     questions = []
     answers = []
@@ -85,7 +88,6 @@ def preproces_data(data):
         questions.append(item['question'])
         answers.append(item['choices'][item['answer']])
     return questions, answers
-
 
 unpad_questions, unpad_answers = preproces_data(data)
 
@@ -103,14 +105,17 @@ print("Max length of answers: ", maxlen_y)
 
 print('\n')
 
-questions = [i + ' ' * (maxlen_x - len(i)) for i in unpad_questions]
+unpad_questions = [char_table.sequence_to_index(i) for i in unpad_questions]
+
+x = pad_sequences(unpad_questions, maxlen_x)
+# answers = pad_sequences(unpad_answers, maxlen_y, dtype=np.char)
 answers = [i + ' ' * (maxlen_y - len(i)) for i in unpad_answers]
 
-print('Vectorization...')
-x = np.zeros((len(questions), maxlen_x, len(chars)), dtype=np.bool)
+# print('Encoding...')
+# x = np.zeros((len(questions), maxlen_x, len(chars)), dtype=np.bool)
 y = np.zeros((len(answers), maxlen_y, len(chars_ans)), dtype=np.bool)
-for i, sentence in enumerate(questions):
-    x[i] = char_table.encode(sentence, maxlen_x)
+# for i, sentence in enumerate(questions):
+#     x[i] = char_table.sequence_to_index(sentence)
 for i, sentence in enumerate(answers):
     y[i] = char_table_ans.encode(sentence, maxlen_y)
 
@@ -137,6 +142,7 @@ LAYERS = 1
 
 print('Build model...')
 model = Sequential()
+model.add(Embedding(input_dim=len(chars) + 1, output_dim=HIDDEN_SIZE, input_length=maxlen_x))
 model.add(LSTM(HIDDEN_SIZE, input_shape=(maxlen_x, len(chars))))
 model.add(layers.RepeatVector(maxlen_y))
 for _ in range(LAYERS):
