@@ -159,7 +159,7 @@ for iteration in range(1, 50):
     print('Iteration', iteration)
     model.fit(x_train, y_train,
               batch_size=BATCH_SIZE,
-              epochs=10,
+              epochs=1,
               validation_data=(x_val, y_val))
     # Select 10 samples from the validation set at random so we can visualize
     # errors.
@@ -167,7 +167,7 @@ for iteration in range(1, 50):
         ind = np.random.randint(0, len(x_val))
         rowx, rowy = x_val[np.array([ind])], y_val[np.array([ind])]
         preds = model.predict_classes(rowx, verbose=0)
-        q = char_table.decode(rowx[0])
+        # q = char_table.decode(rowx[0])
         correct = char_table_ans.decode(rowy[0])
         guess = char_table_ans.decode(preds[0], calc_argmax=False)
         # print('Q', q, end=' ')
