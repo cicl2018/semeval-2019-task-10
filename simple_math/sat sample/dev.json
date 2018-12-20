@@ -1,0 +1,3136 @@
+[
+    {
+        "answer": "B",
+        "choices": {
+            "A": "16",
+            "B": "14",
+            "C": "12",
+            "D": "10",
+            "E": "8"
+        },
+        "exam": "source2",
+        "id": 11788,
+        "originalQuestionNumber": 8,
+        "question": "If \\((p - 1)^2 = 64\\) and \\((q - 1)^2 = 36\\), what is the greatest possible value of \\((p - q)\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+        },
+        "exam": "source7",
+        "id": 11791,
+        "originalQuestionNumber": 8,
+        "question": "\\begin{gather} nA = 360 \\end{gather} The measure A, in degrees, of an exterior angle of a regular polygon is related to the number of sides, n, of the polygon by the formula above. If the measure of an exterior angle of a regular polygon is greater than 50 degrees, what is the greatest number of sides it can have?",
+        "sectionLength": -1,
+        "sectionNumber": 3,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "5",
+            "E": "6"
+        },
+        "exam": "source2",
+        "id": 11792,
+        "originalQuestionNumber": 19,
+        "question": "If a and b are positive integers and \\(a^2 - b^2 = 24\\), which of the following could be the smallest value of \\(a\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "2.25",
+            "C": "2.5",
+            "D": "3",
+            "E": "5"
+        },
+        "diagramRef": "diagram149.png",
+        "exam": "source1",
+        "id": 11797,
+        "originalQuestionNumber": 18,
+        "question": "The figure above shows two circles of equal size. Each circle is tangent to the other circle at one point and tangent to the large rectangle at three points. The vertical line segments that intersect the large rectangle at points A through F divide the large rectangle into five smaller rectangles of equal size. If the length of line segment \\(\\overline{AB}\\) is 2, what is the radius of each circle?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "40",
+            "B": "160",
+            "C": "320",
+            "D": "1,280",
+            "E": "2,560"
+        },
+        "exam": "source6",
+        "id": 11798,
+        "originalQuestionNumber": 2,
+        "question": "A scientist found that the time, in seconds, a mouse required to complete a maze test successfully varied inversely with the number of hours of sleep the mouse had the previous night, such that time = \\(\\frac { 320 } { sleep } \\). If the mouse had 8 hours of sleep the night before a maze test, how long, in seconds, would the mouse take to complete the maze test?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "28",
+            "B": "36",
+            "C": "48",
+            "D": "72",
+            "E": "96"
+        },
+        "exam": "source2",
+        "id": 11802,
+        "originalQuestionNumber": 2,
+        "question": "\\begin { gather* } A = \\{ n|n = multiple of 3 \\} \\\\ B = \\{ n|n = multiple of 8 \\} \\\\ C = \\{ n|n = not divisible by 16 \\} \\end { gather* }  If n is a member of all of the sets \\(A\\), \\(B\\), and \\(C\\) above, which of the following could be the value of \\(n\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "16",
+            "B": "24",
+            "C": "32",
+            "D": "48",
+            "E": "96"
+        },
+        "exam": "source2",
+        "id": 11803,
+        "originalQuestionNumber": 15,
+        "question": "\\begin { gather* } a, ar, ar^2, ar^3,...\\end { gather* } In the sequence above, the first term is \\(a\\) and each term after the first is obtained by multiplying the preceding term by \\(r\\). If the third and fifth terms in sequence are 2 and 8, what is the value of the 7th term?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "6",
+            "B": "12",
+            "C": "54",
+            "D": "108",
+            "E": "162"
+        },
+        "exam": "source6",
+        "id": 11805,
+        "originalQuestionNumber": 17,
+        "question": "For all numbers a and b, let a \\(\\Phi b = a^2b + ab^2\\). What is the value of \\((1 \\Phi 2) \\Phi 3\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5"
+        },
+        "exam": "source7",
+        "id": 11806,
+        "originalQuestionNumber": 5,
+        "question": "\\begin{gather} \\sqrt{2k^2 + 17} - x = 0 \\end{gather} If k > 0 and x = 7 in the equation above, what is the value of k ?",
+        "sectionLength": -1,
+        "sectionNumber": 3,
+        "tags": []
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "432",
+            "B": "288",
+            "C": "240",
+            "D": "216",
+            "E": "36"
+        },
+        "exam": "source6",
+        "id": 11811,
+        "originalQuestionNumber": 11,
+        "question": "A rectangular box is constructed from ten square tiles, each of which has a perimeter of 24 centimeters. If the box is formed so that the tiles do not overlap, what is the volume of the box in cubic centimeters?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "-3",
+            "B": "0",
+            "C": "2",
+            "D": "3",
+            "E": "6"
+        },
+        "exam": "source6",
+        "id": 11819,
+        "originalQuestionNumber": 12,
+        "question": "If \\(\\frac { z } { 3 } - \\frac { 5 } { 6 } = |\\frac { z } { 3 } - \\frac { 5 } { 6 } |\\), what is the least possible integer value of \\(z\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 9,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "exam": "source2",
+        "id": 11821,
+        "originalQuestionNumber": 1,
+        "question": "If A is the set of positive odd integers less than 9, and B is the set of prime numbers, how many integers will be in both sets?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "exam": "source2",
+        "id": 11822,
+        "originalQuestionNumber": 3,
+        "question": "If \\(8 \\times a^2x = a^ { 2x + 3 } \\) , what is the value of \\(a\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "4",
+            "B": "8",
+            "C": "16",
+            "D": "20",
+            "E": "The answer can not be determined from this information."
+        },
+        "exam": "source1",
+        "id": 11826,
+        "originalQuestionNumber": 15,
+        "question": "If \\(3a + 5b - 4c = 12\\) and \\(a + 3b - 2c = -4\\), what is the value of \\(a - b\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "20",
+            "E": "25"
+        },
+        "exam": "source2",
+        "id": 11827,
+        "originalQuestionNumber": 4,
+        "question": "The average (arithmetic mean) of \\(2a\\) and \\(b\\) is 15 and the average of \\(2a\\),\\(b\\), and \\(3c\\) is 20. What is the value of \\(c\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "9",
+            "B": "18",
+            "C": "24",
+            "D": "48",
+            "E": "52"
+        },
+        "diagramRef": "diagram1287.png",
+        "exam": "source1",
+        "id": 11830,
+        "originalQuestionNumber": 20,
+        "question": "In the figure above, two identical isosceles triangles with side lengths of 5 are joined at their bases, which have a length of 6. What is the area of quadrilateral ABCD ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "40",
+            "B": "60",
+            "C": "80",
+            "D": "100",
+            "E": "120"
+        },
+        "diagramRef": "diagram1240.eps",
+        "exam": "source2",
+        "id": 11833,
+        "originalQuestionNumber": 13,
+        "question": "In the figure above, ABCD is a rectangle and \\(\\overline { BM } \\) is perpendicular to \\(\\overline { AC } \\). If the length of \\(\\overline { AM } \\) is 2 and the length of \\(\\overline { CM } \\) is 18, what is the area of \\(\\triangle { ABC } \\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": []
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "3",
+            "B": "2",
+            "C": "1",
+            "D": "0",
+            "E": "-1"
+        },
+        "exam": "source2",
+        "id": 11838,
+        "originalQuestionNumber": 12,
+        "question": "If \\(k = (\\frac { 1 } { 64 } )^ { \\frac { 1 } { m } } \\), where \\(k\\) is a positive integer, which of the following could be the value of \\(m\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "10",
+            "C": "20",
+            "D": "30",
+            "E": "120"
+        },
+        "diagramRef": "diagram88.png",
+        "exam": "source1",
+        "id": 11841,
+        "originalQuestionNumber": 3,
+        "question": "Based on the information in Figure 1 above, what is the value of y in Figure 2?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "3",
+            "C": "-1",
+            "D": "-4"
+        },
+        "exam": "source7",
+        "id": 11842,
+        "originalQuestionNumber": 9,
+        "question": "The graph of a line in the xy-plane has slope 2 and contains the point (1, 8). The graph of a second line passes through the points (1, 2) and (2, 1). If the two lines intersect at the point (a, b), what is the value of a + b?",
+        "sectionLength": -1,
+        "sectionNumber": 3,
+        "tags": []
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "1",
+            "B": "\\(\\frac { 3 } { 2 } \\)",
+            "C": "2",
+            "D": "\\(\\frac { 5 } { 2 } \\)",
+            "E": "3"
+        },
+        "exam": "source2",
+        "id": 11844,
+        "originalQuestionNumber": 4,
+        "question": "If \\(\\frac { a } { b } = 3\\), \\(\\frac { b } { c } = \\frac { 1 } { 2 } \\), and \\(\\frac { c } { d } = \\frac { 2 } { 3 } \\), what is the value of \\(\\frac { 2a } { d } \\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "3",
+            "B": "9",
+            "C": "15",
+            "D": "21",
+            "E": "27"
+        },
+        "exam": "source1",
+        "id": 11848,
+        "originalQuestionNumber": 16,
+        "question": "The average (arithmetic mean) of two numbers is equal to twice the positive difference between the two numbers. If the larger number is 35, what is the smaller number?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "30",
+            "B": "60",
+            "C": "70",
+            "D": "80",
+            "E": "90"
+        },
+        "diagramRef": "diagram331.eps",
+        "exam": "source6",
+        "id": 11849,
+        "originalQuestionNumber": 1,
+        "question": "In figure above, what is the value of \\(x\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "40",
+            "B": "45",
+            "C": "60",
+            "D": "67.5",
+            "E": "75"
+        },
+        "exam": "source5",
+        "id": 11851,
+        "originalQuestionNumber": 19,
+        "question": "The distance between Ali's house and college is exactly 135 miles. If she drove \\(\\frac { 2 } { 3 } \\) of the distance in 135 minutes, what was the average speed, in miles per hour?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "8",
+            "B": "0",
+            "C": "-1",
+            "D": "-8"
+        },
+        "exam": "source7",
+        "id": 11857,
+        "originalQuestionNumber": 10,
+        "question": "\\begin{gather} g(x) = ax^2 + 24 \\end{gather} For the function g defined above, a is a constant and g(4) = 8. What is the value of g(-4)?",
+        "sectionLength": -1,
+        "sectionNumber": 3,
+        "tags": []
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "4.5",
+            "B": "18",
+            "C": "22",
+            "D": "48",
+            "E": "72"
+        },
+        "exam": "source1",
+        "id": 11858,
+        "originalQuestionNumber": 6,
+        "question": "The perimeter of square A is 4 times the perimeter of square B. If the perimeter of square B is given to be 18, then what is the length of a single side of square A?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "7",
+            "E": "9"
+        },
+        "exam": "source2",
+        "id": 11859,
+        "originalQuestionNumber": 13,
+        "question": "\\(x^2 + (k +1)x + 4 = (x + h)^2\\) In the equation above, \\(k\\) and \\(h\\) are positive constants. If the equation is true for all values of \\(x\\), what is the value of \\(k + h\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "-1",
+            "B": "5",
+            "C": "8",
+            "D": "9"
+        },
+        "exam": "source7",
+        "id": 11860,
+        "originalQuestionNumber": 6,
+        "question": "When 4 times the number x is added to 12, the result is 8. What number results when 2 times x is added to 7?",
+        "sectionLength": -1,
+        "sectionNumber": 4,
+        "tags": []
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "3",
+            "B": "2",
+            "C": "0",
+            "D": "-3",
+            "E": "-4"
+        },
+        "exam": "source6",
+        "id": 11864,
+        "originalQuestionNumber": 6,
+        "question": "If \\(7 + x < 5 \\)and \\(3 + x < 0\\), which of the following could be the value of \\(x\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "38",
+            "B": "37",
+            "C": "25",
+            "D": "20",
+            "E": "18"
+        },
+        "exam": "source2",
+        "id": 11867,
+        "originalQuestionNumber": 11,
+        "question": "In how many integers from 1 to 200 does the digit 9 appear at least once?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "1",
+            "B": "3",
+            "C": "27",
+            "D": "30",
+            "E": "36"
+        },
+        "exam": "source1",
+        "id": 11868,
+        "originalQuestionNumber": 15,
+        "question": "When the sum of the odd integers from 5 to 27, inclusive, is subtracted from the sum of the even integers from 8 to 30, inclusive, the result is",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6",
+            "E": "8"
+        },
+        "exam": "source2",
+        "id": 11869,
+        "originalQuestionNumber": 3,
+        "question": "A bag contains two white marbles, four blue marbles, and an unknown number of black marbles. When one marble is drawn from the bag at random, the probability that the marble is black will be \\(\\frac { 1 } { 3 } \\). How many black marbles are in the bag?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "1",
+            "B": "3",
+            "C": "6",
+            "D": "8",
+            "E": "9"
+        },
+        "diagramRef": "diagram1480.eps",
+        "exam": "source2",
+        "id": 11874,
+        "originalQuestionNumber": 2,
+        "question": "In the cube above, its exterior faces were painted blue. If the cube is cut into 27 smaller cubes, how many of the smaller cubes have unpainted face?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "0.41",
+            "B": "0.357",
+            "C": "0.333",
+            "D": "0.25"
+        },
+        "diagramRef": "diagram570.png",
+        "exam": "source7",
+        "id": 11878,
+        "originalQuestionNumber": 29,
+        "question": "The incomplete table above summarizes the number of left-handed students and right-handed students by gender for the eighth-grade students at Keisel Middle School. There are 5 times as many right-handed female students as there are left-handed female students, and there are 9 times as many right-handed male students as there are left-handed male students. If there is a total of 18 left-handed students and 122 right-handed students in the  school, which of the following is closest to the probability that a right-handed student selected at random is female? (Note: Assume that none of the eighth-grade students are both right-handed and left-handed.)",
+        "sectionLength": -1,
+        "sectionNumber": 4,
+        "tags": []
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "10",
+            "B": "12",
+            "C": "24",
+            "D": "25",
+            "E": "30"
+        },
+        "exam": "source5",
+        "id": 11880,
+        "originalQuestionNumber": 10,
+        "question": "There are 12 men on a basketball team, and in a game 5 of them play at any one time. If the game is 1 hour long, and if each man plays exactly the same amount of time, how many minutes does each man play?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "20",
+            "B": "40",
+            "C": "60",
+            "D": "80",
+            "E": "100"
+        },
+        "exam": "source2",
+        "id": 11883,
+        "originalQuestionNumber": 2,
+        "question": "\\begin { gather* } 4, 8, 12, 16, ...\\end { gather* } The first term in the sequence is 4, and each term after the first is determined by adding 4. What is the value of the 20th term?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "30",
+            "B": "40",
+            "C": "50",
+            "D": "60",
+            "E": "70"
+        },
+        "exam": "source6",
+        "id": 11884,
+        "originalQuestionNumber": 1,
+        "question": "If one angle in a right triangle is \\(20\\degree\\), which of the following is the degree measure of another angle in the triangle?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "0",
+            "B": "4",
+            "C": "8",
+            "D": "16"
+        },
+        "exam": "source7",
+        "id": 11886,
+        "originalQuestionNumber": 26,
+        "question": "In the xy-plane, the line determined by the points (2, k) and (k, 32) passes through the origin. Which of the following could be the value of k?",
+        "sectionLength": -1,
+        "sectionNumber": 4,
+        "tags": []
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "exam": "source7",
+        "id": 11891,
+        "originalQuestionNumber": 1,
+        "question": "The monthly membership fee for an online television and movie service is \\$9.80. The cost of viewing television shows online is included in the membership fee, but there is an additional fee of \\$1.50 to rent each movie online. For one month, Jill's membership and movie rental fees were \\$12.80. How many movies did Jill rent online that month?",
+        "sectionLength": -1,
+        "sectionNumber": 4,
+        "tags": []
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "90",
+            "B": "82.5",
+            "C": "67.5",
+            "D": "57.5",
+            "E": "45"
+        },
+        "diagramRef": "diagram582.png",
+        "exam": "source1",
+        "id": 11892,
+        "originalQuestionNumber": 12,
+        "question": "In the figure above, ABCDEFGH is a regular octagon with center O. What is the value of x?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "12",
+            "B": "16",
+            "C": "20",
+            "D": "25",
+            "E": "32"
+        },
+        "exam": "source1",
+        "id": 11895,
+        "originalQuestionNumber": 17,
+        "question": "A box of crayons contains only red, green, and blue crayons. The probability of randomly selecting a red crayon from the box is \\(\\frac{2}{5}\\) and the probability of randomly selecting a blue crayon is \\(\\frac{1}{4}\\). Which of the following could be the total number of crayons in the box?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "42",
+            "B": "34",
+            "C": "30",
+            "D": "28",
+            "E": "18"
+        },
+        "diagramRef": "diagram368.eps",
+        "exam": "source6",
+        "id": 11897,
+        "originalQuestionNumber": 12,
+        "question": "In the figure above, ABCE is a parallelogram and \\(\\triangle { ECD } \\) is equilateral. If \\(AE = 8\\) and the perimeter of \\(\\triangle { ECD } \\) is 18, what is the perimeter of ABCE?",
+        "sectionLength": 20,
+        "sectionNumber": 5,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "5",
+            "D": "8",
+            "E": "10"
+        },
+        "diagramRef": "diagram888.png",
+        "exam": "source1",
+        "id": 11898,
+        "originalQuestionNumber": 15,
+        "question": "The figure above shows the graphs of \\(y = x^2 + 2\\) and \\(y = -x^2 + a\\) for some constant a. If the length of \\(\\overline{CD}\\) is equal to 4, what is the value of a?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "9",
+            "B": "12",
+            "C": "26",
+            "D": "45",
+            "E": "63"
+        },
+        "exam": "source1",
+        "id": 11899,
+        "originalQuestionNumber": 5,
+        "question": "Tameka cleans her house every 7 days and does laundry every 5 days. In the next 315 days, how many times will she have to clean her house and do laundry on the same day?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "\\(\\frac { 1 } { 4 } \\)",
+            "B": "1",
+            "C": "4",
+            "D": "8",
+            "E": "16"
+        },
+        "exam": "source5",
+        "id": 11901,
+        "originalQuestionNumber": 3,
+        "question": "What positive number n satisfies the equation \\((16)(16)(16)n = \\frac { (64)(64) } { n } \\)?",
+        "sectionLength": 18,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7",
+            "E": "8"
+        },
+        "exam": "source5",
+        "id": 11902,
+        "originalQuestionNumber": 8,
+        "question": "The members of the French Club conducted a fund-raising drive. The average (arithmetic mean) amount of money raised per member was \\$85. Then Jean joined the club and raised \\$50. This lowered the average to \\$80. How many members were there before Jean joined?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "13",
+            "B": "15",
+            "C": "17",
+            "D": "85",
+            "E": "115"
+        },
+        "exam": "source6",
+        "id": 11905,
+        "originalQuestionNumber": 8,
+        "question": "If the price of a certain product is increased by 15 percent, by approximately what percent must the new price be reduced to obtain the original price?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "6",
+            "B": "9",
+            "C": "16.2",
+            "D": "18",
+            "E": "27"
+        },
+        "exam": "source6",
+        "id": 11908,
+        "originalQuestionNumber": 5,
+        "question": "Peter's income is directly proportional to the amount of time he works. If he earns \\$27.00 for every 90 minutes of work, how many hours must he work to earn \\$162.00 ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "12",
+            "B": "18",
+            "C": "36",
+            "D": "54",
+            "E": "108"
+        },
+        "diagramRef": "diagram1123.eps",
+        "exam": "source2",
+        "id": 11909,
+        "originalQuestionNumber": 11,
+        "question": "The table above gives the values of \\(f(t)\\) for the selected values of \\(t\\). If \\(f(t)\\) varies directly proportional to \\(t\\), which of the following could be the value of \\(k\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-9\\)",
+            "B": "\\(-\\sqrt[3]{9}\\)",
+            "C": "\\(\\sqrt[3]{9}\\)",
+            "D": "3",
+            "E": "9"
+        },
+        "exam": "source1",
+        "id": 11910,
+        "originalQuestionNumber": 2,
+        "question": "If \\(-a^3 + b^2 = -a^3 + 9\\), then b could equal which of the following?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(11 \\frac{1}{2}\\)",
+            "B": "12",
+            "C": "\\(12 \\frac{1}{2}\\)",
+            "D": "13",
+            "E": "14"
+        },
+        "exam": "source1",
+        "id": 11915,
+        "originalQuestionNumber": 12,
+        "question": "If the sum of 4 numbers is between 53 and 57, then the average (arithmetic mean) of the 4 numbers could be which of the following?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "5",
+            "B": "3",
+            "C": "2",
+            "D": "1"
+        },
+        "exam": "source7",
+        "id": 11918,
+        "originalQuestionNumber": 19,
+        "question": "If 3p - 2 \\geq 1, what is the least possible value of 3p + 2?",
+        "sectionLength": -1,
+        "sectionNumber": 4,
+        "tags": []
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "3",
+            "B": "5",
+            "C": "7",
+            "D": "8",
+            "E": "12"
+        },
+        "exam": "source1",
+        "id": 11919,
+        "originalQuestionNumber": 10,
+        "question": "A coffee shop sold 35 cups of coffee. Of these, 15 contained sugar and 12 contained milk. If 13 cups contained neither milk nor sugar, how many cups must have contained both sugar and milk?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "2.4",
+            "B": "14",
+            "C": "15",
+            "D": "20",
+            "E": "60"
+        },
+        "exam": "source5",
+        "id": 11926,
+        "originalQuestionNumber": 1,
+        "question": "If \\(3x = 12\\), \\(5x =\\)",
+        "sectionLength": 20,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3",
+            "E": "4"
+        },
+        "exam": "source1",
+        "id": 11932,
+        "originalQuestionNumber": 13,
+        "question": "If \\(2^{2x - 3} = 8\\), then what is the value of x?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "2.5",
+            "B": "3.5",
+            "C": "4",
+            "D": "4.25",
+            "E": "4.5"
+        },
+        "diagramRef": "diagram1605.png",
+        "exam": "source1",
+        "id": 11934,
+        "originalQuestionNumber": 6,
+        "question": "In the figure above, what is the x-coordinate of the point on the semicircle that is the farthest from the x-axis?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "21",
+            "B": "28",
+            "C": "35",
+            "D": "42",
+            "E": "56"
+        },
+        "diagramRef": "diagram1047.eps",
+        "exam": "source6",
+        "id": 11936,
+        "originalQuestionNumber": 5,
+        "question": "In the pyramid shown above, the base is a square with an area of 49. If each triangular face has a height of 12, what is the area of one of triangular faces?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "12",
+            "B": "14",
+            "C": "30",
+            "D": "33",
+            "E": "35"
+        },
+        "exam": "source1",
+        "id": 11938,
+        "originalQuestionNumber": 20,
+        "question": "The least integer of a set of consecutive even integers is \\(-30\\). If the sum of these integers is 66, how many integers are in the set?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(\\frac{15}{2}\\)",
+            "B": "\\(\\frac{75}{2}\\)",
+            "C": "32",
+            "D": "38",
+            "E": "40"
+        },
+        "exam": "source1",
+        "id": 11940,
+        "originalQuestionNumber": 11,
+        "question": "If y is directly proportional to x and if \\(y = 30\\) when \\(x = 6\\), what is the value of y when \\(x = 8\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "-12",
+            "B": "\\(-9 \\frac { 1 } { 3 } \\)",
+            "C": "6",
+            "D": "\\(9 \\frac { 1 } { 3 } \\)",
+            "E": "12"
+        },
+        "exam": "source6",
+        "id": 11942,
+        "originalQuestionNumber": 12,
+        "question": "If \\((x + y)(x - y) + (4 - y)(2 - y) = 0\\), then what is the value of \\(y\\) when \\(x\\) equals 8 ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "14",
+            "B": "7",
+            "C": "4",
+            "D": "-3",
+            "E": "-6"
+        },
+        "exam": "source6",
+        "id": 11943,
+        "originalQuestionNumber": 17,
+        "question": "If \\(x - y = 10\\) and \\(x^2 - y^2 = 40\\), then y =",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-1",
+            "B": "-2",
+            "C": "-3",
+            "D": "-5"
+        },
+        "exam": "source7",
+        "id": 11944,
+        "originalQuestionNumber": 11,
+        "question": "Which of the following numbers is NOT a solution of the inequality 3x - 5 \\geq 4x - 3?",
+        "sectionLength": -1,
+        "sectionNumber": 4,
+        "tags": []
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "743",
+            "B": "750",
+            "C": "753",
+            "D": "758",
+            "E": "773"
+        },
+        "exam": "source6",
+        "id": 11946,
+        "originalQuestionNumber": 16,
+        "question": "If in a certain sequence the first term is 8 and every subsequent term is determined by adding 15 to the previous term, what is the value of the 50th term?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "6",
+            "B": "8",
+            "C": "10",
+            "D": "12",
+            "E": "14"
+        },
+        "diagramRef": "diagram289.eps",
+        "exam": "source6",
+        "id": 11947,
+        "originalQuestionNumber": 4,
+        "question": "The line graph above shows the number of term papers Joana wrote in each of years 2001 through 2006. How many more term papers did Joana write in the years 2001 and 2003 combined than she wrote in the year 2002 ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "\\(10 \\sqrt { 2 } \\)",
+            "B": "25",
+            "C": "50",
+            "D": "\\(50 \\sqrt { 2 } \\)",
+            "E": "100"
+        },
+        "exam": "source6",
+        "id": 11952,
+        "originalQuestionNumber": 2,
+        "question": "In \\(\\triangle { ABC } \\), \\(\\overline { AB } = \\overline { BC } \\) and \\(\\overline { AB } \\perp \\overline { BC } \\). If \\(\\overline { BC } = 10\\), what is the area of the triangle?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "210",
+            "B": "390",
+            "C": "490",
+            "D": "810",
+            "E": "990"
+        },
+        "exam": "source5",
+        "id": 11957,
+        "originalQuestionNumber": 12,
+        "question": "If \\(f(x) = x^2 - 3x\\) and \\(g(x) = f(3x)\\), what is \\(g(-10)\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "1.5",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "12"
+        },
+        "diagramRef": "diagram375.png",
+        "exam": "source1",
+        "id": 11960,
+        "originalQuestionNumber": 14,
+        "question": "In the figure above, rectangle UVWX is divided into 16 identical rectangles, 4 to a column and 4 to a row, as shown above. The ratio of the length to the width of each rectangle is 2 to 1. If rectangle UVWX has an area of 72 square units, what is the length of \\(\\overline{UZ}\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "180",
+            "B": "240",
+            "C": "300",
+            "D": "360",
+            "E": "540"
+        },
+        "diagramRef": "diagram302.eps",
+        "exam": "source2",
+        "id": 11961,
+        "originalQuestionNumber": 7,
+        "question": "In the figure, the angles \\(a\\), \\(b\\) and \\(c\\) represent exterior angles of the triangle. What is the value of \\(a + b + c\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": []
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "18",
+            "B": "20",
+            "C": "21",
+            "D": "22",
+            "E": "30"
+        },
+        "exam": "source2",
+        "id": 11970,
+        "originalQuestionNumber": 5,
+        "question": "If seven different lines lie in a plane, what is the greatest possible number of intersections?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "8",
+            "B": "7",
+            "C": "6",
+            "D": "5",
+            "E": "4"
+        },
+        "diagramRef": "diagram1202.eps",
+        "exam": "source2",
+        "id": 11980,
+        "originalQuestionNumber": 4,
+        "question": "In the figure above, \\(x\\) is the length of \\(\\overline { BC } \\), the side of \\(\\triangle { ABC } \\) and \\(\\triangle { BCD } \\). Which of the following could be the value of x?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": []
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "25.3",
+            "B": "45.6",
+            "C": "57",
+            "D": "85.5",
+            "E": "114"
+        },
+        "exam": "source1",
+        "id": 11981,
+        "originalQuestionNumber": 6,
+        "question": "If 50 percent of 40 percent of a number is 22.8, what is the number?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "8",
+            "C": "16",
+            "D": "\\(a + 4\\)",
+            "E": "\\(2a\\)"
+        },
+        "exam": "source6",
+        "id": 11983,
+        "originalQuestionNumber": 5,
+        "question": "\\begin { gather* } 8 - a, 8, 8 + a \\end { gather* } What is the average (arithmetic mean) of the numbers in the list above?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "8",
+            "B": "14",
+            "C": "16",
+            "D": "18"
+        },
+        "exam": "source7",
+        "id": 11985,
+        "originalQuestionNumber": 7,
+        "question": "If \\frac{x^{{a}^{2}}}{x^{{b}^{2}}} = x^{16}, x > 1, and a + b = 2, what is the value of a - b?",
+        "sectionLength": -1,
+        "sectionNumber": 3,
+        "tags": []
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "3",
+            "B": "2",
+            "C": "1",
+            "D": "-1",
+            "E": "-2"
+        },
+        "exam": "source2",
+        "id": 11988,
+        "originalQuestionNumber": 9,
+        "question": "If \\(x^2 = 9\\), what is the value of \\(\\frac { 4 } { x + 1 } - \\frac { 4 } { x - 1 } \\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "30",
+            "B": "37",
+            "C": "42",
+            "D": "50",
+            "E": "60"
+        },
+        "diagramRef": "diagram1679.eps",
+        "exam": "source2",
+        "id": 11993,
+        "originalQuestionNumber": 2,
+        "question": "In the figure above, three lines intersect at a point. If \\(y = 2x - 30\\), what is the value of \\(X\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": []
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "12",
+            "E": "64"
+        },
+        "exam": "source6",
+        "id": 11997,
+        "originalQuestionNumber": 8,
+        "question": "A rectangular solid that has a width of 8, a length of 8, and a height of 12 is divided into 12 cubes, each of equal volume. What is the length of the edge of one of these cubes?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "10",
+            "E": "11"
+        },
+        "exam": "source6",
+        "id": 12003,
+        "originalQuestionNumber": 1,
+        "question": "If \\(y + 4 = 13\\), then \\(y - 2\\) =",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "7",
+            "E": "211"
+        },
+        "exam": "source1",
+        "id": 12004,
+        "originalQuestionNumber": 13,
+        "question": "The sum of two consecutive positive integers is never divisible by",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "-3",
+            "B": "-2",
+            "C": "-1",
+            "D": "0"
+        },
+        "diagramRef": "diagram605.png",
+        "exam": "source7",
+        "id": 12007,
+        "originalQuestionNumber": 16,
+        "question": "Graphs of the functions f and g are shown in the xy-plane above. For which of the following values of x does f(x) + g(x) = 0?",
+        "sectionLength": -1,
+        "sectionNumber": 4,
+        "tags": []
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "12",
+            "E": "15"
+        },
+        "exam": "source2",
+        "id": 12009,
+        "originalQuestionNumber": 5,
+        "question": "If \\((k - a)x + k = 5\\) for all values of \\(x\\), where \\(a\\) and \\(k\\) are constants, which of the following is equal to \\(a\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "9",
+            "C": "12",
+            "D": "18",
+            "E": "24"
+        },
+        "exam": "source6",
+        "id": 12013,
+        "originalQuestionNumber": 3,
+        "question": "If \\(x = y + 2\\) and y = 4, then \\(\\frac { 3 } { 2 } x\\) =",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "80",
+            "B": "81",
+            "C": "82",
+            "D": "83",
+            "E": "84"
+        },
+        "diagramRef": "diagram1490.png",
+        "exam": "source1",
+        "id": 12016,
+        "originalQuestionNumber": 3,
+        "question": "In the figure above, lines m and n are not parallel. Which of the following CANNOT be the value of x?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6",
+            "E": "8"
+        },
+        "exam": "source1",
+        "id": 12019,
+        "originalQuestionNumber": 11,
+        "question": "Lines m and n are parallel. If lines m and n are cut by three different transversals, what is the least number of points of intersection that can occur among the five lines?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "22.5",
+            "B": "45",
+            "C": "60",
+            "D": "67.5",
+            "E": "72"
+        },
+        "diagramRef": "diagram1588.eps",
+        "exam": "source2",
+        "id": 12020,
+        "originalQuestionNumber": 2,
+        "question": "In the figure above, \\(\\overline { AO } \\perp \\overline { BO } \\) and \\(y = 3x\\). What is the value of y?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": []
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "250",
+            "B": "350",
+            "C": "450",
+            "D": "1,350"
+        },
+        "exam": "source7",
+        "id": 12021,
+        "originalQuestionNumber": 19,
+        "question": "Graphene, which is used in the manufacture of integrated circuits, is so thin that a sheet weighing one ounce can cover up to 7 football fields. If a football field has an area of approximately 1 \\frac{1}{3} acres, about how many acres could 48 ounces of graphene cover?",
+        "sectionLength": -1,
+        "sectionNumber": 4,
+        "tags": []
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "8",
+            "B": "9",
+            "C": "15",
+            "D": "17",
+            "E": "19"
+        },
+        "exam": "source6",
+        "id": 12025,
+        "originalQuestionNumber": 10,
+        "question": "\\(a^3 \\times a^6 = a^c\\) \\(\\frac { (b^5)^d } { b^d } = b^40\\) In the equations above, \\(a > 1\\) and \\(b > 1\\). What is the sum of \\(c\\) and \\(d\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 9,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "33",
+            "B": "57",
+            "C": "67",
+            "D": "123",
+            "E": "147"
+        },
+        "diagramRef": "diagram1578.eps",
+        "exam": "source5",
+        "id": 12032,
+        "originalQuestionNumber": 2,
+        "question": "In the figure above, \\(x\\) =",
+        "sectionLength": 20,
+        "sectionNumber": 4,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "41",
+            "B": "37",
+            "C": "33",
+            "D": "27",
+            "E": "10"
+        },
+        "diagramRef": "diagram1511.eps",
+        "exam": "source6",
+        "id": 12033,
+        "originalQuestionNumber": 14,
+        "question": "The numbers in the Venn diagram indicate the number of elements in sets A, B and C that belong in each region. How many total items are in sets A and C combined?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "5",
+            "C": "7",
+            "D": "14",
+            "E": "28"
+        },
+        "exam": "source2",
+        "id": 12034,
+        "originalQuestionNumber": 1,
+        "question": "If \\(\\frac { 2k } { 2k + 13 } = \\frac { 14 } { 27 } \\), then \\(k\\) =",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "0",
+            "B": "0.5",
+            "C": "2.5",
+            "D": "3.5",
+            "E": "4"
+        },
+        "diagramRef": "diagram1341.eps",
+        "exam": "source2",
+        "id": 12036,
+        "originalQuestionNumber": 3,
+        "question": "The figure above shows the graph of the function \\(g\\). If \\(g(k) = 2\\), which of the following could be the value of \\(k\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "28",
+            "B": "32",
+            "C": "36",
+            "D": "48",
+            "E": "72"
+        },
+        "diagramRef": "diagram572.eps",
+        "exam": "source2",
+        "id": 12038,
+        "originalQuestionNumber": 3,
+        "question": "In the figure above, if \\(AB = BC = 4\\) and \\(\\angle { BAC } = 30^o\\), what is the value of \\(x^2 + y^2\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": []
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "6",
+            "B": "8",
+            "C": "10",
+            "D": "12",
+            "E": "14"
+        },
+        "exam": "source2",
+        "id": 12040,
+        "originalQuestionNumber": 6,
+        "question": "\\(a\\) and \\(b\\) are different positive integers and \\(a\\) is greater than \\(b\\). If \\(a^2 - b^2 = 7\\) , what is the value of \\(ab\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "31",
+            "B": "14",
+            "C": "-2",
+            "D": "-14",
+            "E": "-31"
+        },
+        "exam": "source6",
+        "id": 12043,
+        "originalQuestionNumber": 14,
+        "question": "In a sequence of numbers, the first term is 6. Each term after the first is calculated by adding 2 to the previous term and then dividing by -1. What is the value of the 101st term subtracted from the 70th term?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "256",
+            "B": "192",
+            "C": "64\\sqrt{3}",
+            "D": "16\\sqrt{3}"
+        },
+        "diagramRef": "diagram1145.png",
+        "exam": "source7",
+        "id": 12044,
+        "originalQuestionNumber": 30,
+        "question": "The figure above shows a regular hexagon with sides of length a and a square with sides of length a. If the area of the hexagon is 384\\sqrt{3} square inches, what is the area, in square inches, of the square?",
+        "sectionLength": -1,
+        "sectionNumber": 4,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "8",
+            "B": "12",
+            "C": "16",
+            "D": "20",
+            "E": "24"
+        },
+        "exam": "source6",
+        "id": 12045,
+        "originalQuestionNumber": 2,
+        "question": "Points Q, R, and S lie on \\(\\overline { XZ } \\) in such a way that Q is the midpoint of \\(\\overline { XZ } \\), R is the midpoint of \\(\\overline { XQ } \\) and S is the mid point of \\(\\overline { QZ } \\). If QS = 4, what is length of RZ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "0",
+            "B": "3",
+            "C": "4",
+            "D": "7",
+            "E": "12"
+        },
+        "exam": "source1",
+        "id": 12048,
+        "originalQuestionNumber": 4,
+        "question": "If \\(r(b) = \\frac{(b^2 - 7)}{(b + 7)}\\), what is the value of \\(r(7)\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "12",
+            "E": "13"
+        },
+        "exam": "source2",
+        "id": 12050,
+        "originalQuestionNumber": 16,
+        "question": "Let \\(FI(x)\\) be defined as the sum of the digits of the positive integer \\(x\\). For example, \\(FI(7) = 7\\) and \\(FI(123) = 6\\). For how many two-digit values of \\(x\\) does \\(FI(FI(x)) = 2\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "0",
+            "B": "4",
+            "C": "12",
+            "D": "16",
+            "E": "24"
+        },
+        "exam": "source1",
+        "id": 12051,
+        "originalQuestionNumber": 7,
+        "question": "If \\(x^2 - 4x - 12 = 0\\), what is the value of \\(2x^2 - 8x\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "4",
+            "B": "5",
+            "C": "10",
+            "D": "20",
+            "E": "25"
+        },
+        "exam": "source5",
+        "id": 12052,
+        "originalQuestionNumber": 1,
+        "question": "What is the length of each of the five equal sides of a regular pentagon if the perimeter of the pentagon is equal to the perimeter of a square whose area is 25?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "48",
+            "B": "44",
+            "C": "36",
+            "D": "24",
+            "E": "20"
+        },
+        "exam": "source6",
+        "id": 12053,
+        "originalQuestionNumber": 10,
+        "question": "A bag of candy contains chocolate hearts, vanilla hearts and gumballs. The number of pieces of heart-shaped candy is 5 times the number of gumballs. If one piece of candy is to be chosen at random from the bag, the probability that a vanilla heart is chosen is 4 times the probability that a chocolate heart will be chosen. If there are 16 vanilla hearts in the bagm what is the total number of pieces of candy in the bag?",
+        "sectionLength": 14,
+        "sectionNumber": 8,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "30",
+            "B": "35",
+            "C": "40",
+            "D": "45",
+            "E": "60"
+        },
+        "exam": "source1",
+        "id": 12056,
+        "originalQuestionNumber": 10,
+        "question": "If 20 percent of 30 percent of a positive number is equal to 15 percent of h percent of the same number, what is the value of h?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "1984",
+            "B": "1985",
+            "C": "1986",
+            "D": "1987",
+            "E": "1988"
+        },
+        "exam": "source5",
+        "id": 12060,
+        "originalQuestionNumber": 4,
+        "question": "From 1980 to 1990, the value of a share of stock of XYZ Corporation doubled every year. If in 1990 a share of the stock was worth \\$80, in what year was it worth \\$10?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-8",
+            "B": "-6",
+            "C": "-4",
+            "D": "-2",
+            "E": "2"
+        },
+        "exam": "source6",
+        "id": 12062,
+        "originalQuestionNumber": 5,
+        "question": "Which of the following is NOT a possible value of \\(2 - x\\), if \\(x\\) is a one-digit integer?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "25",
+            "B": "86",
+            "C": "101",
+            "D": "324"
+        },
+        "exam": "source7",
+        "id": 12064,
+        "originalQuestionNumber": 10,
+        "question": "The chart above shows approximations of the acceleration due to gravity in meters per second squared (\\frac{m}{sec^2}) for the eight planets in our solar system. The weight of an object on a given planet can be found by using the formula W = mg, where W is the weight of the object measured in newtons, m is the mass of the object measured in kilograms, and g is the acceleration due to gravity on the planet measured in \\frac{m}{sec^2}. What is the weight, in newtons, of an object on Mercury with a mass of 90 kilograms?",
+        "sectionLength": -1,
+        "sectionNumber": 4,
+        "tags": []
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "3",
+            "B": "3.5",
+            "C": "4",
+            "D": "4.5",
+            "E": "5"
+        },
+        "diagramRef": "diagram170.eps",
+        "exam": "source2",
+        "id": 12065,
+        "originalQuestionNumber": 16,
+        "question": "In the figure above, the line \\(m\\) is perpendicular to line \\(\\ell\\) and passes through point \\(P\\). What is the value of \\(t\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "124",
+            "B": "126",
+            "C": "128",
+            "D": "130",
+            "E": "132"
+        },
+        "exam": "source2",
+        "id": 12066,
+        "originalQuestionNumber": 6,
+        "question": "A fisherman takes his boat out to sea at an average speed of 18 miles per hour and then back to the harbor along the same route at an average speed of 14 miles per hour. If his entire trips lasts 8 hour, what is the total number of miles in the round trip?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": []
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "3",
+            "B": "33",
+            "C": "39",
+            "D": "69",
+            "E": "75"
+        },
+        "exam": "source6",
+        "id": 12075,
+        "originalQuestionNumber": 1,
+        "question": "If \\(\\sqrt { x +3 } + 3 = 9\\), then x =",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "15",
+            "B": "14",
+            "C": "9",
+            "D": "6",
+            "E": "3"
+        },
+        "exam": "source2",
+        "id": 12078,
+        "originalQuestionNumber": 15,
+        "question": "If \\(3^k + 3^k + 3^k = (27)^5\\), what is the value of \\(k\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "20",
+            "E": "25"
+        },
+        "diagramRef": "diagram682.eps",
+        "exam": "source2",
+        "id": 12081,
+        "originalQuestionNumber": 9,
+        "question": "In figure 1 above, 50 people were asked if they had seen two particular movies X and Y. Figure 2 above is another way to show which movies they have seen. How many people have seen both two movies?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "other"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "18",
+            "B": "20",
+            "C": "28",
+            "D": "34",
+            "E": "36"
+        },
+        "diagramRef": "diagram684.png",
+        "exam": "source1",
+        "id": 12084,
+        "originalQuestionNumber": 3,
+        "question": "In the figure above, if \\(a = 7c\\) and \\(b = 2c\\), what is the value of c?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "16",
+            "B": "14",
+            "C": "12",
+            "D": "4",
+            "E": "2"
+        },
+        "exam": "source1",
+        "id": 12085,
+        "originalQuestionNumber": 8,
+        "question": "If x and y are different positive integers and \\(3x + y = 17\\), the difference between the largest possible value of y and the smallest possible value of y is",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "129",
+            "B": "34",
+            "C": "24",
+            "D": "12",
+            "E": "10"
+        },
+        "exam": "source2",
+        "id": 12094,
+        "originalQuestionNumber": 12,
+        "question": "If \\(4\\sqrt { 8 } = n\\sqrt { n } \\), and if \\(n\\) and \\(m\\) are positive integers, which of the following cannot be the value of \\(m + n\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "-4",
+            "B": "-2",
+            "C": "2",
+            "D": "4",
+            "E": "6"
+        },
+        "exam": "source2",
+        "id": 12095,
+        "originalQuestionNumber": 1,
+        "question": "If \\(a = 16 - b\\) and \\(\\frac { b } { 6 } = 3\\), what is the value of \\(a\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "15",
+            "B": "50",
+            "C": "75",
+            "D": "120",
+            "E": "150"
+        },
+        "exam": "source2",
+        "id": 12099,
+        "originalQuestionNumber": 4,
+        "question": "If \\(0.1k\\) percent of \\(n\\) is 5, what is \\(3k\\) percent of \\(n\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3",
+            "E": "4"
+        },
+        "diagramRef": "diagram215.eps",
+        "exam": "source2",
+        "id": 12101,
+        "originalQuestionNumber": 7,
+        "question": "In the figure above, the graph of \\(y = f(x)\\) is shown in \\(-4 \\leq x \\leq 4\\).If \\(f(k) = 3\\), how many values of \\(k\\) are there in the interval?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": []
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "12",
+            "B": "15",
+            "C": "20",
+            "D": "22"
+        },
+        "exam": "source7",
+        "id": 12105,
+        "originalQuestionNumber": 27,
+        "question": "A rectangle was altered by increasing its length by 10 percent and decreasing its width by p percent. If these alterations decreased the area of the rectangle by 12 percent, what is the value of p?",
+        "sectionLength": -1,
+        "sectionNumber": 4,
+        "tags": []
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5",
+            "E": "6"
+        },
+        "exam": "source2",
+        "id": 12107,
+        "originalQuestionNumber": 4,
+        "question": "If \\(8^n * 4^2 = 2^10\\), what is the value of \\(n\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "8",
+            "D": "10",
+            "E": "16"
+        },
+        "exam": "source1",
+        "id": 12109,
+        "originalQuestionNumber": 3,
+        "question": "If \\(\\frac{a}{b} = 8\\) and \\(\\frac{a}{c} = 4\\), then what does c equal if \\(b = 2\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "6",
+            "B": "8",
+            "C": "10",
+            "D": "12",
+            "E": "14"
+        },
+        "diagramRef": "diagram1586.png",
+        "exam": "source1",
+        "id": 12113,
+        "originalQuestionNumber": 18,
+        "question": "In the figure above, if line l has a slope of \\(-3\\), what is the y-intercept of l?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-3\\)",
+            "B": "3",
+            "C": "5",
+            "D": "9",
+            "E": "12"
+        },
+        "exam": "source1",
+        "id": 12116,
+        "originalQuestionNumber": 2,
+        "question": "If \\(5a - b = 9\\) and \\(3a + b = 15\\), then \\(a + b =\\)",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(\\frac{1}{7}\\)",
+            "B": "\\(\\frac{2}{7}\\)",
+            "C": "1",
+            "D": "\\(\\frac{7}{3}\\)",
+            "E": "7"
+        },
+        "exam": "source1",
+        "id": 12117,
+        "originalQuestionNumber": 1,
+        "question": "If \\(\\frac{3}{x} + x = 7 + \\frac{3}{7}\\), then x can equal which of the following?",
+        "sectionLength": 18,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "32",
+            "B": "64",
+            "C": "72",
+            "D": "80",
+            "E": "84"
+        },
+        "diagramRef": "diagram276.eps",
+        "exam": "source2",
+        "id": 12120,
+        "originalQuestionNumber": 7,
+        "question": "In the figure above, the area of square ABEF is \\(\\frac { 1 } { 3 } \\) of the area of rectangle ECDF. If the area of rectangle ABCD is 256, what is the perimeter of rectangle ECDF ?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(11 \\frac{1}{2}\\)",
+            "B": "12",
+            "C": "\\(12 \\frac{1}{2}\\)",
+            "D": "13",
+            "E": "14"
+        },
+        "exam": "source1",
+        "id": 12122,
+        "originalQuestionNumber": 10,
+        "question": "If the sum of four numbers is between 53 and 57, then the average (arithmetic mean) of the four numbers could be which of the following?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-12\\)",
+            "B": "0",
+            "C": "6",
+            "D": "12",
+            "E": "36"
+        },
+        "exam": "source1",
+        "id": 12123,
+        "originalQuestionNumber": 12,
+        "question": "If \\(x = -3\\) and \\(y = 9\\), what is the value of \\(|\\sqrt[3]{xy} - y|\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "13",
+            "B": "14",
+            "C": "15",
+            "D": "16",
+            "E": "17"
+        },
+        "exam": "source1",
+        "id": 12125,
+        "originalQuestionNumber": 2,
+        "question": "If \\(x^2 = k\\), where x and k are integers, which of the following could be the value of k?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(\\frac{1}{3}\\)",
+            "B": "6",
+            "C": "9",
+            "D": "12",
+            "E": "81"
+        },
+        "exam": "source1",
+        "id": 12128,
+        "originalQuestionNumber": 1,
+        "question": "If \\(x^{\\frac{1}{2}} = 3\\), then what is the value of \\(x^2\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "3",
+            "B": "6",
+            "C": "9",
+            "D": "12",
+            "E": "24"
+        },
+        "exam": "source6",
+        "id": 12133,
+        "originalQuestionNumber": 3,
+        "question": "Points P, Q, R, S, and T lie on a line in that order. If PR = 6 and PQ = QR = RS = ST, then PT =",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5",
+            "E": "6"
+        },
+        "exam": "source1",
+        "id": 12136,
+        "originalQuestionNumber": 16,
+        "question": "How many integers are there that are greater than 30, less than 40, and have exactly two factors (excluding the number itself and 1), that are both prime?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "48",
+            "B": "56",
+            "C": "64",
+            "D": "72",
+            "E": "80"
+        },
+        "diagramRef": "diagram1078.eps",
+        "exam": "source6",
+        "id": 12137,
+        "originalQuestionNumber": 3,
+        "question": "In the figure above, CDE is an isosceles triangle and ABCE is a rectangle. If AD = 16 and DE = 4, what is the area of rectangle ABCE ?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "exam": "source6",
+        "id": 12139,
+        "originalQuestionNumber": 17,
+        "question": "Shawn creates a meal by mixing the pastas, sauces, and toppings in his kitchen. Each meal he creates consists of one type of pasta, one sauce, and one type of topping. If Shawn can make exactly 30 different meals, which of the following could NOT be the number of sauces that Shawn has?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "27",
+            "B": "30",
+            "C": "33",
+            "D": "36",
+            "E": "39"
+        },
+        "diagramRef": "diagram100.eps",
+        "exam": "source2",
+        "id": 12141,
+        "originalQuestionNumber": 13,
+        "question": "The figure above shows the graph of function \\(f\\). If point \\(P\\) is on the line, what is the area of \\(\\triangle { OAB } \\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": []
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "10",
+            "B": "\\(10 \\frac{1}{4}\\)",
+            "C": "\\(10 + \\sqrt{2}\\)",
+            "D": "14",
+            "E": "\\(10 + 4\\sqrt{2}\\)"
+        },
+        "diagramRef": "diagram589.png",
+        "exam": "source1",
+        "id": 12145,
+        "originalQuestionNumber": 18,
+        "question": "In the figure above, two squares ADGK and WXYZ overlap such that \\(\\overline{AB} = \\overline{BC} = \\overline{CD}\\), and all the triangles are isosceles. If the area ADGK is 9, what is the area of the entire figure?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "\\(a\\)",
+            "D": "\\(a^2 - a\\)",
+            "E": "\\(a^2 - a + 1\\)"
+        },
+        "exam": "source5",
+        "id": 12148,
+        "originalQuestionNumber": 3,
+        "question": "\\(\\lbrace[(a \\times a) + a] \\div a\\rbrace - a=\\)",
+        "sectionLength": 16,
+        "sectionNumber": 9,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "8",
+            "D": "16"
+        },
+        "diagramRef": "diagram650.png",
+        "exam": "source7",
+        "id": 12151,
+        "originalQuestionNumber": 24,
+        "question": "In the circle above, segment AB is a diameter. If the length of arc ADB is 8\\pi, what is the length of the radius of the circle?",
+        "sectionLength": -1,
+        "sectionNumber": 4,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "10",
+            "B": "11",
+            "C": "15",
+            "D": "19",
+            "E": "27"
+        },
+        "exam": "source6",
+        "id": 12153,
+        "originalQuestionNumber": 1,
+        "question": "What number increased by 4 is equal to 19 decreased by 4 ?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "32",
+            "B": "36",
+            "C": "45",
+            "D": "48",
+            "E": "54"
+        },
+        "exam": "source6",
+        "id": 12155,
+        "originalQuestionNumber": 10,
+        "question": "On her biology test, Cathy answered \\(\\frac { 5 } { 6 } \\) of the questions correctly. 6 correctly. If Cathy answered 18 of the first 27 questions correctly, then the total number of questions on the test must be at 1east",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "12",
+            "B": "13",
+            "C": "14",
+            "D": "15",
+            "E": "16"
+        },
+        "exam": "source1",
+        "id": 12156,
+        "originalQuestionNumber": 10,
+        "question": "If d is a positive odd integer, then (d - 1)(d - 2) could equal which of the following?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "6"
+        },
+        "exam": "source7",
+        "id": 12160,
+        "originalQuestionNumber": 10,
+        "question": "A function f satisfies f(2) = 3 and f(3) = 5. A function g satisfies g(3) = 2 and g(5) = 6. What is the value of f(g(3))?",
+        "sectionLength": -1,
+        "sectionNumber": 4,
+        "tags": []
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "6",
+            "B": "8",
+            "C": "10",
+            "D": "20",
+            "E": "35"
+        },
+        "exam": "source1",
+        "id": 12163,
+        "originalQuestionNumber": 6,
+        "question": "If a rectangle of perimeter 12 has a width that is 2 less than its length, what is its area?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "-6",
+            "B": "-4",
+            "C": "-2",
+            "D": "2",
+            "E": "8"
+        },
+        "exam": "source2",
+        "id": 12164,
+        "originalQuestionNumber": 2,
+        "question": "If \\((x - 2)^2 = 16\\), which of the following could be a value of \\(x\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "10",
+            "B": "12",
+            "C": "14",
+            "D": "15",
+            "E": "16"
+        },
+        "exam": "source5",
+        "id": 12166,
+        "originalQuestionNumber": 9,
+        "question": "A woman takes a horse out of a stable and rides it 3 miles north, 8 miles east, and then 3 miles north again to her house. How far is it, in miles, from the stable to her house?",
+        "sectionLength": 20,
+        "sectionNumber": 4,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "24",
+            "B": "28",
+            "C": "30",
+            "D": "36",
+            "E": "40"
+        },
+        "diagramRef": "diagram459.png",
+        "exam": "source1",
+        "id": 12167,
+        "originalQuestionNumber": 3,
+        "question": "What is the perimeter of the triangle above?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "5",
+            "B": "9",
+            "C": "10",
+            "D": "15",
+            "E": "20"
+        },
+        "exam": "source1",
+        "id": 12169,
+        "originalQuestionNumber": 16,
+        "question": "If the lengths of two sides of a triangle are 9 and 15, which of the following CANNOT be the length of the third side?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-5",
+            "B": "-2",
+            "C": "1",
+            "D": "7"
+        },
+        "exam": "source7",
+        "id": 12174,
+        "originalQuestionNumber": 2,
+        "question": "\\begin{gather} f(x) = \\frac{3}{2}x + b \\end{gather} In the function above, b is a constant. If f(6) = 7, what is the value of f(-2)?",
+        "sectionLength": -1,
+        "sectionNumber": 3,
+        "tags": []
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "It cannot be determined from the information given"
+        },
+        "exam": "source5",
+        "id": 12177,
+        "originalQuestionNumber": 8,
+        "question": "If \\(\\frac { a + 3 } { 3 } \\) is an integer, what is the remainder when \\(a\\) is divided by 5 ?",
+        "sectionLength": 20,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "9",
+            "B": "15",
+            "C": "18",
+            "D": "24",
+            "E": "25"
+        },
+        "exam": "source1",
+        "id": 12182,
+        "originalQuestionNumber": 3,
+        "question": "A certain pump can drain a full 375-gallon tank in 15 minutes. At this rate, how many more minutes would it take to drain a full 600-gallon tank?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "10",
+            "B": "5",
+            "C": "2",
+            "D": "\\frac{1}{2}"
+        },
+        "exam": "source7",
+        "id": 12185,
+        "originalQuestionNumber": 5,
+        "question": "If \\frac{5}{x} = \\frac{15}{x + 20}, what is the value of \\frac{x}{5}?",
+        "sectionLength": -1,
+        "sectionNumber": 3,
+        "tags": []
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "42",
+            "B": "132",
+            "C": "192",
+            "D": "251",
+            "E": "301"
+        },
+        "exam": "source5",
+        "id": 12186,
+        "originalQuestionNumber": 3,
+        "question": "When a digital clock reads 3:47, the sum of the digits is 14. How many minutes after 3:47 will the sum of the digits be 20 for the first time?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5",
+            "E": "8"
+        },
+        "exam": "source2",
+        "id": 12188,
+        "originalQuestionNumber": 10,
+        "question": "If \\(x\\), \\(y\\), and \\(z\\) are all integers where \\(-5 < x < y < z < 4\\) , which of the following is the greatest possible value of \\(xz\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "6",
+            "B": "8",
+            "C": "10",
+            "D": "12",
+            "E": "14"
+        },
+        "diagramRef": "diagram1533.eps",
+        "exam": "source6",
+        "id": 12195,
+        "originalQuestionNumber": 11,
+        "question": "In the figure above, points C and F are the midpoints of \\(\\overline { BD } \\) and \\(\\overline { AE } \\), respectively. If BC = 3 and the area of parallelogram ABDE is 48, what is the area of triangle AOF ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "-3",
+            "B": "-20",
+            "C": "-1",
+            "D": "0",
+            "E": "1"
+        },
+        "exam": "source2",
+        "id": 12196,
+        "originalQuestionNumber": 19,
+        "question": "Let the function \\(f\\) be defined by \\(f(x) = (g(x))^2 - 2g(x) - 2\\). If \\(f(2) = -3\\), what is the value of \\(g(2)\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "12",
+            "B": "16",
+            "C": "27",
+            "D": "36",
+            "E": "52"
+        },
+        "diagramRef": "diagram905.png",
+        "exam": "source1",
+        "id": 12198,
+        "originalQuestionNumber": 4,
+        "question": "In the table above, if \\(h = 3g + 4\\), what is the value of k?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": []
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "6",
+            "E": "7"
+        },
+        "diagramRef": "diagram1195.eps",
+        "exam": "source2",
+        "id": 12204,
+        "originalQuestionNumber": 20,
+        "question": "In the \\(xy-\\) coordinate plane above, the figure shows the graph of function \\(f\\), where \\(-1 \\leq x \\leq 8\\), and the function g is defined by \\(g(x) = 3f(x) - 10\\). If \\(g(a) = l4\\), which of the following could be the value of \\(a\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": []
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "12",
+            "B": "20",
+            "C": "30",
+            "D": "42",
+            "E": "60"
+        },
+        "exam": "source2",
+        "id": 12205,
+        "originalQuestionNumber": 7,
+        "question": "If the legs of right triangle \\(PQR\\) have lengths 5 and 12, what is the perimeter of a right triangle with each side twice the length of its corresponding side in \\(\\triangle { PQR } \\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "9",
+            "B": "10",
+            "C": "12",
+            "D": "13",
+            "E": "14"
+        },
+        "exam": "source6",
+        "id": 12210,
+        "originalQuestionNumber": 2,
+        "question": "\\begin { gather* } 66, 34, 18, m, 6, ... \\end { gather* } The first five terms of a sequence are shown above. In this sequence, the first term is 66 and each term after it is 1 more than \\(\\frac { 1 } { 2 } \\) the previous term. What is the value of \\(m\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "4",
+            "B": "5",
+            "C": "8",
+            "D": "10"
+        },
+        "diagramRef": "diagram1590.png",
+        "exam": "source7",
+        "id": 12211,
+        "originalQuestionNumber": 6,
+        "question": "In the xy-plane above, line l is parallel to line k. What is the value of p?",
+        "sectionLength": -1,
+        "sectionNumber": 3,
+        "tags": []
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "6",
+            "C": "7.5",
+            "D": "9",
+            "E": "9.9"
+        },
+        "exam": "source5",
+        "id": 12212,
+        "originalQuestionNumber": 6,
+        "question": "If \\(f(x) = 9x + 9^x\\), what is the value of \\(f(\\frac { 1 } { 2 } )\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "180",
+            "B": "240",
+            "C": "260",
+            "D": "280",
+            "E": "300"
+        },
+        "exam": "source6",
+        "id": 12213,
+        "originalQuestionNumber": 2,
+        "question": "In the figure above, \\(\\overline { AB } \\) and \\(\\overline { CD } \\) are parallel and intersected by \\(\\overline { EF } \\). What is the value of \\(w + y + z\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "16",
+            "B": "16.704",
+            "C": "16.763",
+            "D": "16.873",
+            "E": "17"
+        },
+        "exam": "source1",
+        "id": 12219,
+        "originalQuestionNumber": 12,
+        "question": "If a number is rounded to 16.8, which of the following could have been the original number?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "16",
+            "B": "20",
+            "C": "25",
+            "D": "30",
+            "E": "35"
+        },
+        "exam": "source1",
+        "id": 12223,
+        "originalQuestionNumber": 1,
+        "question": "A certain car needs 15 gallons to travel 300 miles. At this rate, how many gallons are needed to travel 500 miles?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "20",
+            "B": "30",
+            "C": "45",
+            "D": "50",
+            "E": "60"
+        },
+        "diagramRef": "diagram1243.png",
+        "exam": "source1",
+        "id": 12224,
+        "originalQuestionNumber": 6,
+        "question": "In the figure above, if \\(b = 2a\\) and \\(c = 3a\\), what is the value of a?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "64",
+            "B": "81",
+            "C": "100",
+            "D": "144",
+            "E": "196"
+        },
+        "diagramRef": "diagram1525.eps",
+        "exam": "source2",
+        "id": 12225,
+        "originalQuestionNumber": 16,
+        "question": "In the figure above, ABCD and AEFG are squares with integer-length sides of \\(b\\) and \\(a\\) respectively. If the area of the shaded region is 28, what is the area of square ABCD?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "geometry"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "16",
+            "E": "32"
+        },
+        "exam": "source6",
+        "id": 12228,
+        "originalQuestionNumber": 16,
+        "question": "In the function \\(f(x) = (x^c)(x^\\frac { 1 } { c } )\\), \\(c\\) is a nonzero constant. If \\(f(2) = 4\\sqrt { 2 } \\), what is the value of \\(c\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "144",
+            "B": "72",
+            "C": "36",
+            "D": "18",
+            "E": "12"
+        },
+        "exam": "source2",
+        "id": 12233,
+        "originalQuestionNumber": 10,
+        "question": "If \\(k\\) is a positive integer, what is the smallest value of k for which \\((12k)^\\frac { 1 } { 3 } \\) is an integer?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "24",
+            "B": "28",
+            "C": "32",
+            "D": "33",
+            "E": "36"
+        },
+        "exam": "source1",
+        "id": 12238,
+        "originalQuestionNumber": 2,
+        "question": "On a certain test, if a student answers 80 to 90 percent of the questions correctly, he will receive a letter grade of B. If there are 40 questions on the test, what is the minimum number of questions the student can answer correctly to receive a grade of B?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "open"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "6",
+            "C": "16",
+            "D": "80"
+        },
+        "exam": "source7",
+        "id": 12242,
+        "originalQuestionNumber": 4,
+        "question": "If 16 + 4x is 10 more than 14, what is the value of 8x?",
+        "sectionLength": -1,
+        "sectionNumber": 4,
+        "tags": []
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "6",
+            "D": "9",
+            "E": "12"
+        },
+        "exam": "source5",
+        "id": 12247,
+        "originalQuestionNumber": 1,
+        "question": "If \\(3x = 36\\), then \\(\\frac { x } { 3 } \\) =",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    }
+]
