@@ -4,7 +4,6 @@ from keras import layers
 from keras.layers import LSTM
 from keras.models import Sequential
 
-
 class CharacterTable(object):
     """Given a set of characters:
     + Encode them to a one-hot integer representation
@@ -88,21 +87,24 @@ def preproces_data(data):
     return questions, answers
 
 
-questions, answers = preproces_data(data)
+unpad_questions, unpad_answers = preproces_data(data)
 
 print('Quick look at data:')
 for i in range(5):
-    print('question: ', questions[i])
-    print('answer: ', answers[i], '\n')
+    print('question: ', unpad_questions[i])
+    print('answer: ', unpad_answers[i], '\n')
 print('\n')
 
-maxlen_x = max([len(str(i)) for i in questions])
-maxlen_y = max([len(str(i)) for i in answers])
+maxlen_x = max([len(str(i)) for i in unpad_questions])
+maxlen_y = max([len(str(i)) for i in unpad_answers])
 
 print("Max length of questions: ", maxlen_x)
 print("Max length of answers: ", maxlen_y)
 
 print('\n')
+
+questions = [i + ' ' * (maxlen_x - len(i)) for i in unpad_questions]
+answers = [i + ' ' * (maxlen_y - len(i)) for i in unpad_answers]
 
 print('Vectorization...')
 x = np.zeros((len(questions), maxlen_x, len(chars)), dtype=np.bool)
@@ -151,7 +153,7 @@ for iteration in range(1, 50):
     print('Iteration', iteration)
     model.fit(x_train, y_train,
               batch_size=BATCH_SIZE,
-              epochs=1,
+              epochs=10,
               validation_data=(x_val, y_val))
     # Select 10 samples from the validation set at random so we can visualize
     # errors.
