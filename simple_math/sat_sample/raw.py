@@ -85,6 +85,10 @@ def preproces_data(data):
         and "choices" not in item:
             continue
 
+        len_choices = [len(i) for k, i in item['choices'].items()]
+        if max(len_choices) > 3:
+            continue
+
         questions.append(item['question'])
         answers.append(item['choices'][item['answer']])
     return questions, answers
@@ -142,7 +146,7 @@ LAYERS = 1
 
 print('Build model...')
 model = Sequential()
-model.add(Embedding(input_dim=len(chars) + 1, output_dim=HIDDEN_SIZE, input_length=maxlen_x))
+model.add(Embedding(input_dim=len(chars) + 1, output_dim=HIDDEN_SIZE, input_length=maxlen_x, mask_zero=True))
 model.add(LSTM(HIDDEN_SIZE, input_shape=(maxlen_x, len(chars))))
 model.add(layers.RepeatVector(maxlen_y))
 for _ in range(LAYERS):
@@ -159,7 +163,7 @@ for iteration in range(1, 50):
     print('Iteration', iteration)
     model.fit(x_train, y_train,
               batch_size=BATCH_SIZE,
-              epochs=1,
+              epochs=10,
               validation_data=(x_val, y_val))
     # Select 10 samples from the validation set at random so we can visualize
     # errors.
