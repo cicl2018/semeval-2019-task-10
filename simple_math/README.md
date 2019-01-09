@@ -4,3 +4,8 @@
 - code is [here](https://github.com/wojciechz/learning_to_execute), but it is writen in lua.
 
 - I will try this model with our data. See if it works.
+
+
+- I have tried this model to our data, but I don't think it is working. See /simple_math/raw.py
+
+- Also, I have tridd this with simple algebra like "If x + 12 = 45, what is the value of x?". It is learning but not so good. I will try to run this with a large dataset and more iteration. See simple_algebra.py
