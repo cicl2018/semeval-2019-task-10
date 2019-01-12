@@ -89,7 +89,7 @@ def preproces_data(data):
         if max(len_choices) > 3:
             continue
 
-        questions.append(item['question'])
+        questions.append(item['question'][::-1])
         answers.append(item['choices'][item['answer']])
     return questions, answers
 

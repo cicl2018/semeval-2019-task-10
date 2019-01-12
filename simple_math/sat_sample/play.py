@@ -1,16 +1,17 @@
 import json
 
 with open('train.json') as f:
-    data_train  = json.load(f)
+    data_train = json.load(f)
 
-with open('dev.json') as f:
-    data_dev = json.load(f)
+max = 0
+max_1 = 0
+max_2 = 0
+for data in data_train:
+    if len(data['question']) > max:
+        max_3 = max_2
+        max_2 = max_1
+        max_1 = max
+        max = len(data['question'])
 
-data = data_train + data_dev
-chars = sorted(set(str(data)))
 
-
-
-print(len(data), len(data_train), len(data_dev))
-
-print(chars)
+print(max, max_1, max_2, max_3)
