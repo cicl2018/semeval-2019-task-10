@@ -1,0 +1,572 @@
+[
+    {
+        "answer": "C",
+        "choices": {
+            "A": "4",
+            "B": "7",
+            "C": "9",
+            "D": "18",
+            "E": "It cannot be determined from the information given."
+        },
+        "exam": "source1",
+        "id": 10990,
+        "originalQuestionNumber": 12,
+        "question": "If a linear function passes through the points \\((1, a)\\), \\((2, b)\\), and \\((4,18)\\), what is the value of \\(\\frac{3}{2}b - a\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "16",
+            "B": "9",
+            "C": "5",
+            "D": "4",
+            "E": "0"
+        },
+        "exam": "source2",
+        "id": 11279,
+        "originalQuestionNumber": 7,
+        "question": "If \\(\\sqrt { ab } = 6\\), where a and b are positive integers, which of the following could NOT be a value of \\(a - b\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(\\frac{15}{2}\\)",
+            "B": "\\(\\frac{75}{2}\\)",
+            "C": "32",
+            "D": "38",
+            "E": "40"
+        },
+        "exam": "source1",
+        "id": 11940,
+        "originalQuestionNumber": 11,
+        "question": "If y is directly proportional to x and if \\(y = 30\\) when \\(x = 6\\), what is the value of y when \\(x = 8\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "\\(-30\\)",
+            "B": "20",
+            "C": "30",
+            "D": "40",
+            "E": "450"
+        },
+        "exam": "source1",
+        "id": 10256,
+        "originalQuestionNumber": 9,
+        "question": "If \\(x^2 + x = 20\\), which of the following is a possible value of \\(x^2 - x\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "13",
+            "B": "6",
+            "C": "3",
+            "D": "-3",
+            "E": "-6"
+        },
+        "exam": "source6",
+        "id": 11043,
+        "originalQuestionNumber": 6,
+        "question": "If \\(a\\) is 4 greater than \\(b\\) and \\(a^2 + b^2 = 10\\), what is the value of \\(ab\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "-4",
+            "B": "-2",
+            "C": "0",
+            "D": "2",
+            "E": "4"
+        },
+        "exam": "source6",
+        "id": 11460,
+        "originalQuestionNumber": 4,
+        "question": "What is the value of \\(m\\) if \\(\\frac { 4 } { 3m - 2 } = \\frac { 4 } { m + 6 } \\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-15",
+            "B": "-5",
+            "C": "\\(\\frac { -15 } { 7 } \\)",
+            "D": "5",
+            "E": "15"
+        },
+        "exam": "source6",
+        "id": 10164,
+        "originalQuestionNumber": 2,
+        "question": "If \\(5k + 8 = -7 + 2k\\), what is the value of \\(3k\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "\\(\\frac{5}{6}\\)",
+            "B": "5",
+            "C": "9",
+            "D": "13",
+            "E": "36"
+        },
+        "exam": "source1",
+        "id": 10274,
+        "originalQuestionNumber": 8,
+        "question": "If \\(\\frac{p + q}{s} = 9\\), \\(\\frac{q}{p} = 4\\), and \\(\\sqrt{q} = 6\\), what is the value of s?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "0",
+            "B": "3",
+            "C": "37",
+            "D": "77",
+            "E": "300"
+        },
+        "exam": "source5",
+        "id": 10596,
+        "originalQuestionNumber": 14,
+        "question": "In the sequence 1, 2, 3, -4, 1, 2, 3, -4, ... , the numbers 1, 2, 3, -4 repeat indefinitely. What is the sum of the first 150 terms?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3",
+            "E": "more than 3"
+        },
+        "exam": "source5",
+        "id": 10675,
+        "originalQuestionNumber": 8,
+        "question": "For how many positive numbers \\(a\\) is it true that \\(a \\times a \\times a = a + a + a\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "38",
+            "B": "37",
+            "C": "25",
+            "D": "20",
+            "E": "18"
+        },
+        "exam": "source2",
+        "id": 10444,
+        "originalQuestionNumber": 11,
+        "question": "In how many integers from 1 to 200 does the digit 9 appear at least once?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-5\\)",
+            "B": "\\(-2\\)",
+            "C": "1",
+            "D": "5",
+            "E": "8"
+        },
+        "exam": "source1",
+        "id": 11326,
+        "originalQuestionNumber": 1,
+        "question": "If t is 5 more than s, and s is 3 less than r, what is t when \\(r = 3\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "15",
+            "B": "16",
+            "C": "18",
+            "D": "53",
+            "E": "66"
+        },
+        "exam": "source1",
+        "id": 10516,
+        "originalQuestionNumber": 16,
+        "question": "If the sum of the consecutive integers from \\(-15\\) to x, inclusive, is 51, what is the value of x ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "6",
+            "E": "12"
+        },
+        "exam": "source1",
+        "id": 10927,
+        "originalQuestionNumber": 3,
+        "question": "If \\(\\frac{q}{r} = 4\\), \\(\\frac{q}{s} = 6\\), and \\(s = 2\\), what is the value of r?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "\\(p\\)",
+            "D": "\\(p^2\\)",
+            "E": "\\(p^3\\)"
+        },
+        "exam": "source6",
+        "id": 11288,
+        "originalQuestionNumber": 2,
+        "question": "If \\(p > 0\\), then \\(p^3(\\frac { 1 } { p } -\\frac { 1 } { p } )\\) =",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "-3",
+            "B": "-1",
+            "C": "\\(\\frac { 3 } { 4 } \\)",
+            "D": "1",
+            "E": "3"
+        },
+        "exam": "source6",
+        "id": 10402,
+        "originalQuestionNumber": 4,
+        "question": "If \\(a = \\frac { 4 } { 3 } \\), then \\(\\frac { 4 } { a } - \\frac { a } { a - 1 } \\) =",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3",
+            "E": "4"
+        },
+        "exam": "source6",
+        "id": 10006,
+        "originalQuestionNumber": 12,
+        "question": "If \\(3y^4 + xy - x^2 = y^2 - 25\\) and \\(y = 0\\), how many possible values of \\(x\\) are there?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "8",
+            "D": "12",
+            "E": "16"
+        },
+        "exam": "source6",
+        "id": 11038,
+        "originalQuestionNumber": 11,
+        "question": "If \\(a + b - c = d + 6\\), \\(c - b = 8\\), and \\(3a = 2 - d\\), what is the value of \\(a\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 9,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "1",
+            "B": "9",
+            "C": "15",
+            "D": "24",
+            "E": "40"
+        },
+        "exam": "source1",
+        "id": 10008,
+        "originalQuestionNumber": 14,
+        "question": "For all real numbers x and y, let \\(\\star\\) be defined by \\(x \\star y = x^2 - y\\). What is the value of \\(4 \\star (3 \\star 2)\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "5",
+            "C": "7",
+            "D": "14",
+            "E": "28"
+        },
+        "exam": "source2",
+        "id": 12034,
+        "originalQuestionNumber": 1,
+        "question": "If \\(\\frac { 2k } { 2k + 13 } = \\frac { 14 } { 27 } \\), then \\(k\\) =",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "4",
+            "B": "8",
+            "C": "12",
+            "D": "16",
+            "E": "32"
+        },
+        "exam": "source2",
+        "id": 11073,
+        "originalQuestionNumber": 12,
+        "question": "If a positive number a is 150 percent of \\(4p\\), and if \\(p\\) is 25 percent of \\(8b\\), then what is the value of \\(\\frac { a } { b } \\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "\\(\\frac { 49 } { 121 } \\)",
+            "B": "\\(\\frac { 7 } { 11 } \\)",
+            "C": "1",
+            "D": "\\(\\frac { 11 } { 7 } \\)",
+            "E": "\\(\\frac { 121 } { 49 } \\)"
+        },
+        "exam": "source5",
+        "id": 11147,
+        "originalQuestionNumber": 2,
+        "question": "If \\(a(\\frac { 7 } { 11 } ) = (\\frac { 7 } { 11 } )b\\), then \\(\\frac { a } { b } \\) =",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "3",
+            "B": "2",
+            "C": "1",
+            "D": "-1",
+            "E": "-2"
+        },
+        "exam": "source2",
+        "id": 11988,
+        "originalQuestionNumber": 9,
+        "question": "If \\(x^2 = 9\\), what is the value of \\(\\frac { 4 } { x + 1 } - \\frac { 4 } { x - 1 } \\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "-4",
+            "B": "-2",
+            "C": "2",
+            "D": "4",
+            "E": "6"
+        },
+        "exam": "source2",
+        "id": 12095,
+        "originalQuestionNumber": 1,
+        "question": "If \\(a = 16 - b\\) and \\(\\frac { b } { 6 } = 3\\), what is the value of \\(a\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "32",
+            "B": "34",
+            "C": "36",
+            "D": "38",
+            "E": "40"
+        },
+        "exam": "source1",
+        "id": 10088,
+        "originalQuestionNumber": 1,
+        "question": "If \\(4x + 2 = 26\\), then \\(4x + 8 =\\)",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6",
+            "E": "7"
+        },
+        "exam": "source6",
+        "id": 11452,
+        "originalQuestionNumber": 1,
+        "question": "When 28 is divided by 8, the remainder is the same as that obtained when 53 is divided by which of the following numbers?",
+        "sectionLength": 20,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "16",
+            "B": "22",
+            "C": "23",
+            "D": "32",
+            "E": "36"
+        },
+        "exam": "source1",
+        "id": 10710,
+        "originalQuestionNumber": 9,
+        "question": "The percent increase from 6 to 16 is equal to the percent increase from 12 to what number?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "\\(x + 4\\)",
+            "E": "\\(x + 8\\)"
+        },
+        "exam": "source1",
+        "id": 11005,
+        "originalQuestionNumber": 9,
+        "question": "The value of \\(x + 6\\) is how much greater than the value of \\(x - 2\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5",
+            "E": "6"
+        },
+        "exam": "source1",
+        "id": 10442,
+        "originalQuestionNumber": 3,
+        "question": "If \\(a + 2 > 5\\) and \\(a - 4 < 1\\), which of the following could be a value for a?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "5",
+            "C": "11",
+            "D": "33",
+            "E": "34"
+        },
+        "exam": "source1",
+        "id": 10716,
+        "originalQuestionNumber": 1,
+        "question": "What is the fewest number of 3s that can be multiplied together to yield a number greater than 100?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    }
+]
