@@ -1,6 +1,6 @@
 import numpy as np
 import json
-from encode import InputChars, OutputChars, Colors
+from encode import InputChars, OutputChars
 
 
 def random_num(digits=3):
@@ -30,6 +30,7 @@ def create_choices(ans, gap):
     choices_dict['C'] = str(choices[2])
     choices_dict['D'] = str(choices[3])
     choices_dict['E'] = str(choices[4])
+    answer  = 'A'
     if choices[0] == ans:
         answer = 'A'
     if choices[1] == ans:
@@ -67,7 +68,8 @@ if __name__ == '__main__':
     generate our datasets
     """
     print('Generating data...')
-    while len(questions) < TRAINING_SIZE:
+    print('+')
+    for i in range(0, TRAINING_SIZE):
         a, b = random_num(DIGITS), random_num(DIGITS)
         c = random_variable(list('xyz'))
 
@@ -79,11 +81,97 @@ if __name__ == '__main__':
         ques = 'If {} + {} = {}, what is the value of {}?'.format(c, a, b, c)
         ans = b - a
 
-        if REVERSE:
-            ques = ques[::-1]
+        choice_options, choice_ans = create_choices(ans, 1)
 
-        if DOUBLE:
-            ques += ques
+        questions.append(ques)
+        choices.append(choice_options)
+        answers.append(choice_ans)
+
+    for i in range(0, TRAINING_SIZE):
+        a, b = random_num(DIGITS), random_num(DIGITS)
+        c = random_variable(list('xyz'))
+
+        key = a, b, c
+        if key in seen:
+            continue
+        seen.add(key)
+
+        ques = '{} + {} = {}'.format(c, a, b)
+        ans = b - a
+
+        choice_options, choice_ans = create_choices(ans, 1)
+
+        questions.append(ques)
+        choices.append(choice_options)
+        answers.append(choice_ans)
+
+    print('-')
+    for i in range(0, TRAINING_SIZE):
+        a, b = random_num(DIGITS), random_num(DIGITS)
+        c = random_variable(list('xyz'))
+
+        key = a, b, c
+        if key in seen:
+            continue
+        seen.add(key)
+
+        ques = 'If {} - {} = {}, what is the value of {}?'.format(c, a, b, c)
+        ans = b + a
+
+        choice_options, choice_ans = create_choices(ans, 1)
+
+        questions.append(ques)
+        choices.append(choice_options)
+        answers.append(choice_ans)
+
+    for i in range(0, TRAINING_SIZE):
+        a, b = random_num(DIGITS), random_num(DIGITS)
+        c = random_variable(list('xyz'))
+
+        key = a, b, c
+        if key in seen:
+            continue
+        seen.add(key)
+
+        ques = '{} - {} = {}'.format(c, a, b)
+        ans = b + a
+
+        choice_options, choice_ans = create_choices(ans, 1)
+
+        questions.append(ques)
+        choices.append(choice_options)
+        answers.append(choice_ans)
+
+    print('^')
+    for i in range(0, TRAINING_SIZE):
+        a, b = random_num(1), random_num(1)
+        c = random_variable(list('xyz'))
+
+        key = a, b, c
+        if key in seen:
+            continue
+        seen.add(key)
+
+        ques = 'If {}^{} = {}, what is the value of {}?'.format(c, a, b, c)
+        ans = b ** (1 / a)
+
+        choice_options, choice_ans = create_choices(ans, 1)
+
+        questions.append(ques)
+        choices.append(choice_options)
+        answers.append(choice_ans)
+
+    for i in range(0, TRAINING_SIZE):
+        a, b = random_num(1), random_num(1)
+        c = random_variable(list('xyz'))
+
+        key = a, b, c
+        if key in seen:
+            continue
+        seen.add(key)
+
+        ques = '{}^{} = {}'.format(c, a, b)
+        ans = b ** (1 / a)
 
         choice_options, choice_ans = create_choices(ans, 1)
 
@@ -93,12 +181,14 @@ if __name__ == '__main__':
 
     dataset = []
 
-    for i in range(0, TRAINING_SIZE):
+    for i in range(0, len(questions)):
         data = dict()
         data['question'] = questions[i]
         data['answer'] = answers[i]
         data['choices'] = choices[i]
         dataset.append(data)
+
+    np.random.shuffle(dataset)
 
     output_json_string = json.dumps(dataset, indent=4)
     with open('train.json', 'w+') as f:

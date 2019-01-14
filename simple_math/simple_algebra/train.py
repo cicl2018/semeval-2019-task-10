@@ -8,33 +8,42 @@ from process_json import *
 from encode import *
 
 
+questions_train = []
+answers_train = []
+
 """
 process data from dataset
 """
-with open('train.json', 'r') as f:
-    dataset_train = json.load(f)
+print("loading data...")
+questions, answers = process_data('train.json', double=True, reverse=True)
 
-questions, answers = process_data('train.json')
+questions_train += questions
+answers_train += answers
+
+questions, answers = process_data('short_tag.json', double=False, reverse=False)
+
+questions_train += questions
+answers_train += answers
 
 """
 Transfrom questions into vectors and pad_them
 """
-unpad_questions = [input_table.encode(i) for i in questions]
+unpad_questions = [input_table.encode(i) for i in questions_train]
 x = pad_sequences(unpad_questions, MAX_LENGTH_Q)
 
 """
 Encode the answer in to one-hot vectors
 """
-pad_answers = [i + ' ' * (MAX_LENGTH_A - len(i)) for i in answers]
-y = np.zeros((len(answers), MAX_LENGTH_A, len(output_chars)), dtype=np.bool)
-for i, sentence in enumerate(answers):
+pad_answers = [i + ' ' * (MAX_LENGTH_A - len(i)) for i in answers_train]
+y = np.zeros((len(answers_train), MAX_LENGTH_A, len(output_chars)), dtype=np.bool)
+for i, sentence in enumerate(answers_train):
     y[i] = output_table.encode(sentence, MAX_LENGTH_A)
 
 x_train = x
 y_train = y
 
-HIDDEN_SIZE = 512
-BATCH_SIZE = 512
+HIDDEN_SIZE = 128
+BATCH_SIZE = 128
 LAYERS = 1
 
 print('Build model...')
@@ -76,7 +85,7 @@ for iteration in range(1, 30):
         print(guess)
 
 
-model.save('simple_plus_model.h5')
+model.save('simple_model.h5')
 
 
 
