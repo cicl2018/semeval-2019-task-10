@@ -54,55 +54,39 @@ def choose_ans(cal_answer, choice):
 
 trained_model = load_model('simple_model.h5')
 
-questions, answers, choices, correct_choices = process_data('train.json', 100, predict=True)
+questions_train = []
+answers_train = []
+
+"""
+process data from dataset
+"""
+print("loading data...")
+questions, answers = process_data('train.json', double=True, reverse=True)
+
+questions_train += questions
+answers_train += answers
+
+questions, answers = process_data('short_tag.json', double=False, reverse=False)
+
+questions_train += questions
+answers_train += answers
 
 """
 Transfrom questions into vectors and pad_them
 """
-unpad_questions = [input_table.encode(i) for i in questions]
+unpad_questions = [input_table.encode(i) for i in questions_train]
 x = pad_sequences(unpad_questions, MAX_LENGTH_Q)
 
 """
 Encode the answer in to one-hot vectors
 """
-pad_answers = [i + ' ' * (MAX_LENGTH_A - len(i)) for i in answers]
-y = np.zeros((len(answers), MAX_LENGTH_A, len(output_chars)), dtype=np.bool)
-for i, sentence in enumerate(answers):
+pad_answers = [i + ' ' * (MAX_LENGTH_A - len(i)) for i in answers_train]
+y = np.zeros((len(answers_train), MAX_LENGTH_A, len(output_chars)), dtype=np.bool)
+for i, sentence in enumerate(answers_train):
     y[i] = output_table.encode(sentence, MAX_LENGTH_A)
 
 x_train = x
 y_train = y
-
-total = 0
-matches = 0
-
-# print('Start predicting...')
-# preds = trained_model.predict_classes(x_train, verbose=0)
-# print('Predicting end')
-
-# for i in range(len(x_train)):
-#     # correct = output_table.decode(y_train[0])
-#     questions = x_train[i]
-#     preds = trained_model.predict_classes(questions, verbose=0)
-#
-#     correct_ans = answers[i]
-#     correct_choice = correct_choices[i]
-#     choice = choices[i]
-#     guess = output_table.decode(preds[0], calc_argmax=False)
-#
-#     guess_choice = choose_ans(guess, choice)
-#
-#     total += 1
-#     if guess_choice == correct_choice:
-#         matches += 1
-#
-#     print("correct ans:\t", correct_ans,
-#           "\tcorrect_choice:\t", correct_choice,
-#           # "\tchoice:\t", choice,
-#           "\tguess:\t", guess,
-#           "\tguess_choice:\t", guess_choice)
-#
-# print("Train set exact acc: ", matches / total)
 
 # Select 10 samples from the validation set at random so we can visualize
 # errors.
@@ -120,4 +104,3 @@ for i in range(10):
     else:
         print(Colors.fail + '☒' + Colors.close, end=' ')
     print(guess)
-
