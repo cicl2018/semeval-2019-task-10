@@ -1,3 +1,6 @@
 *.zip
 .idea/
 .DS_Store
+simple_math/close_tag_sat/dev.json
+simple_math/close_tag_sat/train.json
+simple_math/close_tag_sat/well_trained_model.h5
