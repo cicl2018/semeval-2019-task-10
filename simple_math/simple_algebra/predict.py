@@ -61,7 +61,7 @@ answers_train = []
 process data from dataset
 """
 print("loading data...")
-questions, answers, choices, correct_choices = process_data('short_tag.json', predict=True, double=False, reverse=True)
+questions, answers, choices, correct_choices = process_data('short_dev.json', predict=True, double=False, reverse=True)
 
 questions_train += questions
 answers_train += answers
@@ -115,12 +115,12 @@ for i in range(len(x_train)):
     guess_choice = choose_ans(guess, choice_options)
 
     # print('Q', question, end=' ')
-    print('T', correct, end=' ')
-    if correct == guess:
-        print(Colors.ok + '☑' + Colors.close, end=' ')
-    else:
-        print(Colors.fail + '☒' + Colors.close, end=' ')
-    print(guess)
+    # print('T', correct, end=' ')
+    # if correct == guess:
+    #     print(Colors.ok + '☑' + Colors.close, end=' ')
+    # else:
+    #     print(Colors.fail + '☒' + Colors.close, end=' ')
+    # print(guess)
 
     if guess_choice == correct_choice:
         match += 1

@@ -20,7 +20,7 @@ print("loading data...")
 # questions_train += questions
 # answers_train += answers
 
-questions, answers = process_data('short_tag.json', double=False, reverse=True)
+questions, answers = process_data('short_train.json', double=False, reverse=True)
 
 questions_train += questions
 answers_train += answers
@@ -41,6 +41,7 @@ for i, sentence in enumerate(answers_train):
 
 x_train = x
 y_train = y
+
 
 HIDDEN_SIZE = 128
 BATCH_SIZE = 128

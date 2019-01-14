@@ -1,0 +1,5189 @@
+[
+    {
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "5",
+            "C": "7",
+            "D": "14",
+            "E": "28"
+        },
+        "exam": "source2",
+        "id": 12034,
+        "originalQuestionNumber": 1,
+        "question": "If \\(\\frac { 2k } { 2k + 13 } = \\frac { 14 } { 27 } \\), then \\(k\\) =",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "12",
+            "E": "15"
+        },
+        "exam": "source2",
+        "id": 12009,
+        "originalQuestionNumber": 5,
+        "question": "If \\((k - a)x + k = 5\\) for all values of \\(x\\), where \\(a\\) and \\(k\\) are constants, which of the following is equal to \\(a\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "10",
+            "B": "8",
+            "C": "5",
+            "D": "-3",
+            "E": "-4"
+        },
+        "exam": "source2",
+        "id": 10856,
+        "originalQuestionNumber": 1,
+        "question": "If \\( |k-5| \\leq 8 \\), which of the following CANNOT be the value of \\(k\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6",
+            "E": "9"
+        },
+        "exam": "source6",
+        "id": 10541,
+        "originalQuestionNumber": 8,
+        "question": "The integer 90 can be expressed as the sum of \\(z\\) consecutive integers. The value of z could be any of the following EXCEPT",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "5",
+            "D": "6",
+            "E": "8"
+        },
+        "exam": "source2",
+        "id": 10120,
+        "originalQuestionNumber": 18,
+        "question": "If \\(2^a = k\\), \\(k^b = m\\), and \\(m^c = 16\\), what is the value of \\(a \\dot b \\dot c\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "\\(-4\\)",
+            "B": "\\(-2\\)",
+            "C": "0",
+            "D": "2",
+            "E": "4"
+        },
+        "exam": "source1",
+        "id": 11229,
+        "originalQuestionNumber": 11,
+        "question": "If \\(\\frac{4}{\\sqrt{r + 4}} = 2\\), what is the value of r?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "200",
+            "B": "250",
+            "C": "300",
+            "D": "350",
+            "E": "400"
+        },
+        "exam": "source2",
+        "id": 10671,
+        "originalQuestionNumber": 16,
+        "question": "According to the function \\(p(n) = \\frac { 2 } { 3 } n + 100\\), if \\(n\\) increases by 300, by how much does \\(p\\) increase?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "6",
+            "B": "8",
+            "C": "12",
+            "D": "18",
+            "E": "32"
+        },
+        "exam": "source6",
+        "id": 11306,
+        "originalQuestionNumber": 1,
+        "question": "Which of the following is NOT a factor of \\(9^2 - 9 \\)?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "40",
+            "B": "36",
+            "C": "32",
+            "D": "28",
+            "E": "24"
+        },
+        "exam": "source2",
+        "id": 11563,
+        "originalQuestionNumber": 16,
+        "question": "Let the \\(n\\)th term of a sequence \\(a_n\\) be defined by \\(a_n = 4n + 2\\). What is the value of \\((a_{50} - a_{40})\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "11",
+            "B": "22",
+            "C": "30",
+            "D": "41",
+            "E": "60"
+        },
+        "exam": "source6",
+        "id": 11271,
+        "originalQuestionNumber": 8,
+        "question": "If \\(w + x = 5 \\) and \\(y + z = 6\\), what is the value of \\(wy + xz + wz + xy\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 9,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "6",
+            "B": "8",
+            "C": "12",
+            "D": "32",
+            "E": "64"
+        },
+        "exam": "source5",
+        "id": 11640,
+        "originalQuestionNumber": 11,
+        "question": "If \\(f(x) = x^ { \\frac { 1 } { 2 } } + x^ { \\frac { 1 } { 4 } } \\), what is the value of \\(f(16)\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-3",
+            "B": "-2",
+            "C": "3",
+            "D": "4",
+            "E": "9"
+        },
+        "exam": "source6",
+        "id": 10639,
+        "originalQuestionNumber": 5,
+        "question": "If \\(|x - 6| = x^2\\), then \\(x\\) could equal which of the following?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "6",
+            "B": "12",
+            "C": "18",
+            "D": "24",
+            "E": "32"
+        },
+        "exam": "source1",
+        "id": 10603,
+        "originalQuestionNumber": 2,
+        "question": "If \\(8 \\times 27 \\times 64 = r^3\\), what is the value of r?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "exam": "source2",
+        "id": 11821,
+        "originalQuestionNumber": 1,
+        "question": "If A is the set of positive odd integers less than 9, and B is the set of prime numbers, how many integers will be in both sets?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "0",
+            "B": "3",
+            "C": "6",
+            "D": "7",
+            "E": "35"
+        },
+        "exam": "source1",
+        "id": 11158,
+        "originalQuestionNumber": 10,
+        "question": "If \\(f(x) = \\frac{x^3 - 6}{x^2 - 2x + 6}\\), then what is \\(f(6)\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "It cannot be determined from the information given"
+        },
+        "exam": "source5",
+        "id": 12177,
+        "originalQuestionNumber": 8,
+        "question": "If \\(\\frac { a + 3 } { 3 } \\) is an integer, what is the remainder when \\(a\\) is divided by 5 ?",
+        "sectionLength": 20,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "-4",
+            "B": "-2",
+            "C": "0",
+            "D": "2",
+            "E": "4"
+        },
+        "exam": "source6",
+        "id": 10158,
+        "originalQuestionNumber": 2,
+        "question": "If \\(y < 0\\) and \\((x + 2)(y - 4) = 0\\), then \\(x\\) =",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "1",
+            "B": "3",
+            "C": "5",
+            "D": "25",
+            "E": "125"
+        },
+        "exam": "source1",
+        "id": 11046,
+        "originalQuestionNumber": 16,
+        "question": "What is the least positive integer a for which 25a is the cube of an integer?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "-25",
+            "B": "-5",
+            "C": "-3",
+            "D": "3",
+            "E": "25"
+        },
+        "exam": "source6",
+        "id": 10445,
+        "originalQuestionNumber": 6,
+        "question": "If \\(x - y = 5 \\)and \\(x^2 + y^2 = 15\\), what is the value of \\(xy\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "1",
+            "B": "3",
+            "C": "5",
+            "D": "8",
+            "E": "9"
+        },
+        "exam": "source1",
+        "id": 11389,
+        "originalQuestionNumber": 3,
+        "question": "If \\(9\\sqrt{x} + 7 = 16\\), \\(x =\\)",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "3",
+            "B": "33",
+            "C": "39",
+            "D": "69",
+            "E": "75"
+        },
+        "exam": "source6",
+        "id": 12075,
+        "originalQuestionNumber": 1,
+        "question": "If \\(\\sqrt { x +3 } + 3 = 9\\), then x =",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "-12",
+            "B": "0",
+            "C": "12",
+            "D": "24",
+            "E": "36"
+        },
+        "exam": "source5",
+        "id": 10655,
+        "originalQuestionNumber": 1,
+        "question": "If \\((w + 12) - 12 = 12\\), \\(w\\) =",
+        "sectionLength": 18,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(\\frac{1}{7}\\)",
+            "B": "\\(\\frac{2}{7}\\)",
+            "C": "1",
+            "D": "\\(\\frac{7}{3}\\)",
+            "E": "7"
+        },
+        "exam": "source1",
+        "id": 12117,
+        "originalQuestionNumber": 1,
+        "question": "If \\(\\frac{3}{x} + x = 7 + \\frac{3}{7}\\), then x can equal which of the following?",
+        "sectionLength": 18,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "8",
+            "D": "12",
+            "E": "16"
+        },
+        "exam": "source6",
+        "id": 11038,
+        "originalQuestionNumber": 11,
+        "question": "If \\(a + b - c = d + 6\\), \\(c - b = 8\\), and \\(3a = 2 - d\\), what is the value of \\(a\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 9,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "0",
+            "B": "9",
+            "C": "18",
+            "D": "20",
+            "E": "298"
+        },
+        "exam": "source5",
+        "id": 10410,
+        "originalQuestionNumber": 2,
+        "question": "The equation \\(|10 - \\sqrt { x } | = 7\\) has two solutions. What is the sum of these solutions?",
+        "sectionLength": 18,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "exam": "source2",
+        "id": 10373,
+        "originalQuestionNumber": 3,
+        "question": "If \\(\\frac { 100 - n } { 25 } \\) is a positive integer, for how many possible positive values of \\(n\\) is the statement true?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "4",
+            "B": "16",
+            "C": "\\(16 \\sqrt { 2 } \\)",
+            "D": "32",
+            "E": "64"
+        },
+        "exam": "source6",
+        "id": 11736,
+        "originalQuestionNumber": 2,
+        "question": "If \\(|frac { \\sqrt { x } } { 2 } | = 2\\sqrt { 2 } \\), what is the value of \\(x\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "3",
+            "B": "2",
+            "C": "1",
+            "D": "0",
+            "E": "-1"
+        },
+        "exam": "source2",
+        "id": 11838,
+        "originalQuestionNumber": 12,
+        "question": "If \\(k = (\\frac { 1 } { 64 } )^ { \\frac { 1 } { m } } \\), where \\(k\\) is a positive integer, which of the following could be the value of \\(m\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(11 \\frac{1}{2}\\)",
+            "B": "12",
+            "C": "\\(12 \\frac{1}{2}\\)",
+            "D": "13",
+            "E": "14"
+        },
+        "exam": "source1",
+        "id": 11915,
+        "originalQuestionNumber": 12,
+        "question": "If the sum of 4 numbers is between 53 and 57, then the average (arithmetic mean) of the 4 numbers could be which of the following?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "0",
+            "B": "3",
+            "C": "4",
+            "D": "7",
+            "E": "12"
+        },
+        "exam": "source1",
+        "id": 12048,
+        "originalQuestionNumber": 4,
+        "question": "If \\(r(b) = \\frac{(b^2 - 7)}{(b + 7)}\\), what is the value of \\(r(7)\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "18",
+            "B": "36",
+            "C": "72",
+            "D": "144",
+            "E": "260"
+        },
+        "exam": "source5",
+        "id": 11340,
+        "originalQuestionNumber": 14,
+        "question": "If \\(f(x) = x^2 + \\sqrt { x } \\) and \\(g(x) = f(4x)\\), what is the value of \\(g(4)\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 9,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "6",
+            "D": "9",
+            "E": "12"
+        },
+        "exam": "source5",
+        "id": 12247,
+        "originalQuestionNumber": 1,
+        "question": "If \\(3x = 36\\), then \\(\\frac { x } { 3 } \\) =",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "25.3",
+            "B": "45.6",
+            "C": "57",
+            "D": "85.5",
+            "E": "114"
+        },
+        "exam": "source1",
+        "id": 11981,
+        "originalQuestionNumber": 6,
+        "question": "If 50 percent of 40 percent of a number is 22.8, what is the number?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(-7\\)",
+            "B": "\\(-6\\)",
+            "C": "2",
+            "D": "3",
+            "E": "4"
+        },
+        "exam": "source1",
+        "id": 11114,
+        "originalQuestionNumber": 9,
+        "question": "The absolute value of a certain integer is greater than 3 and less than 6. Which of the following could NOT be 2 less than the integer?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "\\(\\frac{2}{7}\\)",
+            "B": "\\(\\frac{5}{7}\\)",
+            "C": "1",
+            "D": "\\(\\frac{7}{5}\\)",
+            "E": "\\(\\frac{49}{25}\\)"
+        },
+        "exam": "source1",
+        "id": 10554,
+        "originalQuestionNumber": 3,
+        "question": "If \\(\\frac{x}{y} = \\frac{5}{7}\\), what is the value of \\(\\frac{7x}{5y}\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "0.9",
+            "B": "1.4",
+            "C": "9",
+            "D": "14",
+            "E": "90"
+        },
+        "exam": "source1",
+        "id": 10060,
+        "originalQuestionNumber": 5,
+        "question": "If \\(0.4x + 2 = 5.6\\), what is the value of x?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "16",
+            "B": "9",
+            "C": "5",
+            "D": "4",
+            "E": "0"
+        },
+        "exam": "source2",
+        "id": 11279,
+        "originalQuestionNumber": 7,
+        "question": "If \\(\\sqrt { ab } = 6\\), where a and b are positive integers, which of the following could NOT be a value of \\(a - b\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "4",
+            "B": "7",
+            "C": "8",
+            "D": "10",
+            "E": "12"
+        },
+        "exam": "source1",
+        "id": 10674,
+        "originalQuestionNumber": 5,
+        "question": "If \\(x^{\\frac{y}{2}} = 64\\), where x and y are positive integers, \\(x < 64\\), \\(y > 3\\), and \\(x > y\\), what is the value of \\(x + y\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "22",
+            "B": "24",
+            "C": "28",
+            "D": "30",
+            "E": "33"
+        },
+        "exam": "source6",
+        "id": 10770,
+        "originalQuestionNumber": 18,
+        "question": "If \\(m\\) and \\(n\\) are integers and \\((x + m)(x + n) = x^2 + 11x + c\\), what is the greatest possible value of \\(c\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "6",
+            "E": "12"
+        },
+        "exam": "source1",
+        "id": 10927,
+        "originalQuestionNumber": 3,
+        "question": "If \\(\\frac{q}{r} = 4\\), \\(\\frac{q}{s} = 6\\), and \\(s = 2\\), what is the value of r?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "20",
+            "E": "25"
+        },
+        "exam": "source1",
+        "id": 10747,
+        "originalQuestionNumber": 2,
+        "question": "If you add some number j to 50, and then divide this sum by j, the result is 3. What is the value of j?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "10.25",
+            "B": "14.5",
+            "C": "17",
+            "D": "18.25",
+            "E": "19"
+        },
+        "exam": "source1",
+        "id": 11180,
+        "originalQuestionNumber": 11,
+        "question": "If the average (arithmetic mean) of 14 consecutive integers is 20.5, what is the average of the first seven integers?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "900",
+            "B": "700",
+            "C": "500",
+            "D": "0.007",
+            "E": "0.005"
+        },
+        "exam": "source1",
+        "id": 11370,
+        "originalQuestionNumber": 4,
+        "question": "If 0.05 percent of n is 5, what is 5 percent of n?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "-3",
+            "B": "-20",
+            "C": "-1",
+            "D": "0",
+            "E": "1"
+        },
+        "exam": "source2",
+        "id": 12196,
+        "originalQuestionNumber": 19,
+        "question": "Let the function \\(f\\) be defined by \\(f(x) = (g(x))^2 - 2g(x) - 2\\). If \\(f(2) = -3\\), what is the value of \\(g(2)\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "4",
+            "B": "8",
+            "C": "12",
+            "D": "16",
+            "E": "32"
+        },
+        "exam": "source2",
+        "id": 11073,
+        "originalQuestionNumber": 12,
+        "question": "If a positive number a is 150 percent of \\(4p\\), and if \\(p\\) is 25 percent of \\(8b\\), then what is the value of \\(\\frac { a } { b } \\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "9",
+            "C": "12",
+            "D": "18",
+            "E": "24"
+        },
+        "exam": "source6",
+        "id": 12013,
+        "originalQuestionNumber": 3,
+        "question": "If \\(x = y + 2\\) and y = 4, then \\(\\frac { 3 } { 2 } x\\) =",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "\\(p\\)",
+            "D": "\\(p^2\\)",
+            "E": "\\(p^3\\)"
+        },
+        "exam": "source6",
+        "id": 11288,
+        "originalQuestionNumber": 2,
+        "question": "If \\(p > 0\\), then \\(p^3(\\frac { 1 } { p } -\\frac { 1 } { p } )\\) =",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "0",
+            "B": "\\(\\frac { 1 } { 2 } \\)",
+            "C": "1",
+            "D": "\\(\\frac { 3 } { 2 } \\)",
+            "E": "5"
+        },
+        "exam": "source2",
+        "id": 10115,
+        "originalQuestionNumber": 1,
+        "question": "If \\(x = 5 + y\\) and \\(x = 5 - y\\), what is the value of \\(y\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "5",
+            "D": "6",
+            "E": "There are no solutions"
+        },
+        "exam": "source5",
+        "id": 11369,
+        "originalQuestionNumber": 8,
+        "question": "If \\(f(x) = x + 5\\), which of the following is a solution of \\(f(3a) + 2 = f(2a) + 3\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "13",
+            "B": "14",
+            "C": "15",
+            "D": "16",
+            "E": "17"
+        },
+        "exam": "source2",
+        "id": 11214,
+        "originalQuestionNumber": 5,
+        "question": "If \\(-3 \\leq m \\leq -1\\) and \\(0 \\leq n \\leq 2\\), what is the greatest possible value of \\(mn\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "-2",
+            "B": "-1",
+            "C": "0",
+            "D": "1",
+            "E": "2"
+        },
+        "exam": "source2",
+        "id": 10247,
+        "originalQuestionNumber": 7,
+        "question": "If\\( x^2 = 3\\), what is the value of \\(\\frac { 1 } { x } + 1 - \\frac { 1 } { x } - 1\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "84",
+            "B": "77",
+            "C": "49",
+            "D": "42",
+            "E": "35"
+        },
+        "exam": "source1",
+        "id": 11087,
+        "originalQuestionNumber": 12,
+        "question": "If the average (arithmetic mean) of 7 numbers is greater than 7 and less than 12, which of the following could be the sum of the 7 numbers?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "24",
+            "B": "36",
+            "C": "40",
+            "D": "48",
+            "E": "60"
+        },
+        "exam": "source6",
+        "id": 10409,
+        "originalQuestionNumber": 1,
+        "question": "Which of the following numbers disproves the statement \"A number that is divisible by 4 and 8 is also divisible by 12\"?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "4",
+            "B": "8",
+            "C": "16",
+            "D": "20",
+            "E": "The answer can not be determined from this information."
+        },
+        "exam": "source1",
+        "id": 11826,
+        "originalQuestionNumber": 15,
+        "question": "If \\(3a + 5b - 4c = 12\\) and \\(a + 3b - 2c = -4\\), what is the value of \\(a - b\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "\\(\\frac { 1 } { 4 } \\)",
+            "B": "1",
+            "C": "4",
+            "D": "8",
+            "E": "16"
+        },
+        "exam": "source5",
+        "id": 11901,
+        "originalQuestionNumber": 3,
+        "question": "What positive number n satisfies the equation \\((16)(16)(16)n = \\frac { (64)(64) } { n } \\)?",
+        "sectionLength": 18,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "10",
+            "B": "12",
+            "C": "14",
+            "D": "16",
+            "E": "18"
+        },
+        "exam": "source2",
+        "id": 10852,
+        "originalQuestionNumber": 1,
+        "question": "If a = 5b + 3, how much greater is a when b = 9 than when b = 7?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6",
+            "E": "7"
+        },
+        "exam": "source6",
+        "id": 11452,
+        "originalQuestionNumber": 1,
+        "question": "When 28 is divided by 8, the remainder is the same as that obtained when 53 is divided by which of the following numbers?",
+        "sectionLength": 20,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "2.5",
+            "B": "20",
+            "C": "35",
+            "D": "40",
+            "E": "70"
+        },
+        "exam": "source1",
+        "id": 11105,
+        "originalQuestionNumber": 9,
+        "question": "If \\(q = \\frac{5}{4}st\\), what is the value of t when \\(s = 2\\) and \\(q = 50\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "4",
+            "B": "6",
+            "C": "9",
+            "D": "11",
+            "E": "32"
+        },
+        "exam": "source1",
+        "id": 11689,
+        "originalQuestionNumber": 3,
+        "question": "What is the value of x if \\(2x + 3y = 11\\) and \\(2x - y = 7\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "20",
+            "B": "18",
+            "C": "8",
+            "D": "6",
+            "E": "4"
+        },
+        "exam": "source2",
+        "id": 11203,
+        "originalQuestionNumber": 19,
+        "question": "If \\(2 \\leq p \\leq 6\\) and \\(1 \\leq q \\leq 12\\), what is the smallest value of \\((p + q)^2 - (p - q)^2\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "1",
+            "B": "9",
+            "C": "15",
+            "D": "24",
+            "E": "40"
+        },
+        "exam": "source1",
+        "id": 10008,
+        "originalQuestionNumber": 14,
+        "question": "For all real numbers x and y, let \\(\\star\\) be defined by \\(x \\star y = x^2 - y\\). What is the value of \\(4 \\star (3 \\star 2)\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-4\\)",
+            "B": "\\(-\\sqrt[6]{4}\\)",
+            "C": "\\(\\sqrt[6]{4}\\)",
+            "D": "4",
+            "E": "\\(4^6\\)"
+        },
+        "exam": "source1",
+        "id": 10831,
+        "originalQuestionNumber": 4,
+        "question": "If \\(x^6 + 4 = x^6 + w\\), then \\(w =\\)",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "a",
+            "D": "\\(a^b\\)",
+            "E": "c"
+        },
+        "exam": "source6",
+        "id": 10923,
+        "originalQuestionNumber": 15,
+        "question": "If \\(a^b = 0\\), \\(c^b = c\\), \\(bc \\neq 0\\), and \\(c \\neq 1\\), what must be the value of \\(bc^a\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "0",
+            "B": "10",
+            "C": "11",
+            "D": "19",
+            "E": "30"
+        },
+        "exam": "source1",
+        "id": 10840,
+        "originalQuestionNumber": 15,
+        "question": "If set A is \\{3,5,7,11,19\\} and set B consists of all the even numbers between 1 and 11, how many elements are in the union of the two sets?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "4",
+            "D": "8",
+            "E": "16"
+        },
+        "exam": "source6",
+        "id": 10415,
+        "originalQuestionNumber": 13,
+        "question": "If \\(\\frac { b^x } { 2 } = 8\\), then \\(\\frac { b^x } { 2 } \\) =",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "1",
+            "B": "4",
+            "C": "5",
+            "D": "8",
+            "E": "9"
+        },
+        "exam": "source1",
+        "id": 10530,
+        "originalQuestionNumber": 1,
+        "question": "What is the hundredths digit in the number 123,456.789?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "10",
+            "B": "11",
+            "C": "12",
+            "D": "13",
+            "E": "14"
+        },
+        "exam": "source2",
+        "id": 10329,
+        "originalQuestionNumber": 9,
+        "question": "If \\((x + y)^2 - (x - y)^2 = 72\\), where \\(x\\) and \\(y\\) are positive integers, which of the following could be a value of \\(x + y\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "-120",
+            "B": "-15",
+            "C": "0",
+            "D": "15",
+            "E": "120"
+        },
+        "exam": "source5",
+        "id": 10918,
+        "originalQuestionNumber": 1,
+        "question": "What is the absolute value of the product of all the integers from -6 to 3, inclusive?",
+        "sectionLength": 18,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(\\frac{25}{2}\\)",
+            "B": "\\(\\frac{19}{2}\\)",
+            "C": "11",
+            "D": "5",
+            "E": "50"
+        },
+        "exam": "source1",
+        "id": 11216,
+        "originalQuestionNumber": 4,
+        "question": "If \\(4(n + 6) = 44\\), what is the value of n?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "0",
+            "B": "\\(\\frac { 1 } { 3 } \\)",
+            "C": "2",
+            "D": "\\(\\frac { 7 } { 2 } \\)",
+            "E": "4"
+        },
+        "exam": "source6",
+        "id": 11041,
+        "originalQuestionNumber": 1,
+        "question": "If \\(x^3 = 1\\), what is the value of \\(\\frac { x^2 + 3 } { x } \\) ?",
+        "sectionLength": 8,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "13",
+            "B": "46",
+            "C": "77",
+            "D": "103",
+            "E": "113"
+        },
+        "exam": "source6",
+        "id": 10777,
+        "originalQuestionNumber": 4,
+        "question": "If \\(f(c) = \\frac { 9 } { 5 } c + 32\\), then what is the value of \\(f(25)\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5",
+            "E": "6"
+        },
+        "exam": "source6",
+        "id": 10598,
+        "originalQuestionNumber": 14,
+        "question": "If \\(x\\) and \\(y\\) are positive integers, \\((3^x)^y = 81\\), and \\(3^x + 3^y = 84\\), which of the following could be the value of \\(x\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "20",
+            "E": "25"
+        },
+        "exam": "source2",
+        "id": 11827,
+        "originalQuestionNumber": 4,
+        "question": "The average (arithmetic mean) of \\(2a\\) and \\(b\\) is 15 and the average of \\(2a\\),\\(b\\), and \\(3c\\) is 20. What is the value of \\(c\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "0",
+            "B": "3",
+            "C": "37",
+            "D": "77",
+            "E": "300"
+        },
+        "exam": "source5",
+        "id": 10596,
+        "originalQuestionNumber": 14,
+        "question": "In the sequence 1, 2, 3, -4, 1, 2, 3, -4, ... , the numbers 1, 2, 3, -4 repeat indefinitely. What is the sum of the first 150 terms?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "6",
+            "B": "12",
+            "C": "34",
+            "D": "38",
+            "E": "40"
+        },
+        "exam": "source6",
+        "id": 10678,
+        "originalQuestionNumber": 1,
+        "question": "If \\(3x + 1 = 19\\), then \\(6x - 2 \\)=",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "10",
+            "B": "15",
+            "C": "30",
+            "D": "45",
+            "E": "70"
+        },
+        "exam": "source2",
+        "id": 11426,
+        "originalQuestionNumber": 5,
+        "question": "The average of \\(p\\) and \\(q\\) is 5, and the average of \\(p^2\\) and \\(q^2\\) is 35. What is the value of \\(pq\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "28",
+            "B": "30",
+            "C": "32",
+            "D": "34",
+            "E": "36"
+        },
+        "exam": "source1",
+        "id": 11456,
+        "originalQuestionNumber": 1,
+        "question": "If \\(5x + 3 = 21\\), then \\(5x + 10 =\\)",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-8",
+            "B": "-6",
+            "C": "-4",
+            "D": "-2",
+            "E": "2"
+        },
+        "exam": "source6",
+        "id": 12062,
+        "originalQuestionNumber": 5,
+        "question": "Which of the following is NOT a possible value of \\(2 - x\\), if \\(x\\) is a one-digit integer?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "-1",
+            "B": "0",
+            "C": "1",
+            "D": "2",
+            "E": "3"
+        },
+        "exam": "source2",
+        "id": 10003,
+        "originalQuestionNumber": 19,
+        "question": "If x = 1 = kx, for which of the following values of k will the equation have NO solution?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "0.01",
+            "B": "0.1",
+            "C": "1",
+            "D": "10",
+            "E": "100"
+        },
+        "exam": "source1",
+        "id": 11748,
+        "originalQuestionNumber": 1,
+        "question": "If \\((0.0013)x = 0.013\\), then \\(x =\\)",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-12\\)",
+            "B": "0",
+            "C": "6",
+            "D": "12",
+            "E": "36"
+        },
+        "exam": "source1",
+        "id": 12123,
+        "originalQuestionNumber": 12,
+        "question": "If \\(x = -3\\) and \\(y = 9\\), what is the value of \\(|\\sqrt[3]{xy} - y|\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "6",
+            "B": "15",
+            "C": "21",
+            "D": "39",
+            "E": "56"
+        },
+        "exam": "source2",
+        "id": 11322,
+        "originalQuestionNumber": 10,
+        "question": "Which of the following CANNOT be written as the sum of three consecutive integers?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(11 \\frac{1}{2}\\)",
+            "B": "12",
+            "C": "\\(12 \\frac{1}{2}\\)",
+            "D": "13",
+            "E": "14"
+        },
+        "exam": "source1",
+        "id": 12122,
+        "originalQuestionNumber": 10,
+        "question": "If the sum of four numbers is between 53 and 57, then the average (arithmetic mean) of the four numbers could be which of the following?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8",
+            "E": "9"
+        },
+        "exam": "source2",
+        "id": 11633,
+        "originalQuestionNumber": 4,
+        "question": "If \\(k\\) is an integer and \\(\\frac { k + 5 } { 30 } < \\frac { 7 } { 20 } < \\frac { k } { 10 } \\), then \\(k\\) =",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "12",
+            "B": "13",
+            "C": "14",
+            "D": "15",
+            "E": "16"
+        },
+        "exam": "source1",
+        "id": 12156,
+        "originalQuestionNumber": 10,
+        "question": "If d is a positive odd integer, then (d - 1)(d - 2) could equal which of the following?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "38",
+            "B": "37",
+            "C": "25",
+            "D": "20",
+            "E": "18"
+        },
+        "exam": "source2",
+        "id": 10444,
+        "originalQuestionNumber": 11,
+        "question": "In how many integers from 1 to 200 does the digit 9 appear at least once?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-1",
+            "B": "\\(-\\frac { 1 } { 2 } \\)",
+            "C": "0",
+            "D": "\\(\\frac { 1 } { 2 } \\)",
+            "E": "1"
+        },
+        "exam": "source5",
+        "id": 11700,
+        "originalQuestionNumber": 1,
+        "question": "If \\(2x + 4x + 6x = -12\\) ,then \\(x\\) =",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "10",
+            "B": "12",
+            "C": "15",
+            "D": "20",
+            "E": "25"
+        },
+        "exam": "source1",
+        "id": 10285,
+        "originalQuestionNumber": 14,
+        "question": "How many different positive two-digit integers are there such that the tens digit is greater than 5 and the units digit is odd?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "-4",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "6"
+        },
+        "exam": "source6",
+        "id": 10094,
+        "originalQuestionNumber": 1,
+        "question": "If \\( 6\\frac { a } { b } + 3 = 21\\) , what is the value of \\(\\frac { a } { b } \\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "-4",
+            "B": "-2",
+            "C": "0",
+            "D": "2",
+            "E": "4"
+        },
+        "exam": "source2",
+        "id": 10212,
+        "originalQuestionNumber": 1,
+        "question": "If \\(|x - 5| = 2x - 1\\), which of the following is the value of \\(x\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "200",
+            "B": "300",
+            "C": "400",
+            "D": "1000",
+            "E": "More than 1000"
+        },
+        "exam": "source2",
+        "id": 10405,
+        "originalQuestionNumber": 13,
+        "question": "How many integers greater than 199, when doubled, will yield a 3-digit integer?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "70",
+            "B": "90",
+            "C": "120",
+            "D": "150",
+            "E": "185"
+        },
+        "exam": "source1",
+        "id": 10042,
+        "originalQuestionNumber": 5,
+        "question": "If 125 percent of x is 150, what is x percent of 75?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-22\\)",
+            "B": "\\(-18\\)",
+            "C": "\\(-17\\)",
+            "D": "18",
+            "E": "22"
+        },
+        "exam": "source1",
+        "id": 10825,
+        "originalQuestionNumber": 7,
+        "question": "If \\((2x^2 + 5x - 3)(4x - 1) = ax^3 + bx^2 + cx + d\\) for all values of x, what is the value of b?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "\\(-30\\)",
+            "B": "20",
+            "C": "30",
+            "D": "40",
+            "E": "450"
+        },
+        "exam": "source1",
+        "id": 10256,
+        "originalQuestionNumber": 9,
+        "question": "If \\(x^2 + x = 20\\), which of the following is a possible value of \\(x^2 - x\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "3",
+            "B": "6",
+            "C": "9",
+            "D": "12",
+            "E": "15"
+        },
+        "exam": "source2",
+        "id": 10527,
+        "originalQuestionNumber": 6,
+        "question": "If the average (arithmetic mean) of \\(p\\), \\(q\\), and 10 is 12, and the average of \\(2p\\), \\(q\\), and 7 is 13, what is the value of p?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "\\(x + 4\\)",
+            "E": "\\(x + 8\\)"
+        },
+        "exam": "source1",
+        "id": 11005,
+        "originalQuestionNumber": 9,
+        "question": "The value of \\(x + 6\\) is how much greater than the value of \\(x - 2\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "6",
+            "B": "12",
+            "C": "24",
+            "D": "36",
+            "E": "48"
+        },
+        "exam": "source2",
+        "id": 10546,
+        "originalQuestionNumber": 5,
+        "question": "For the function \\(f\\), \\(y = f(x)\\) is inversely proportional to \\(x\\). If \\(f(5) = 24\\), what is the value of \\(f(10)\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-4",
+            "B": "-1",
+            "C": "6",
+            "D": "8",
+            "E": "36"
+        },
+        "exam": "source2",
+        "id": 11488,
+        "originalQuestionNumber": 1,
+        "question": "If \\(3\\sqrt { k^2 } + 8 = 20\\), which of the following could be the value of \\(k\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "25",
+            "B": "26",
+            "C": "256",
+            "D": "676",
+            "E": "677"
+        },
+        "exam": "source5",
+        "id": 11652,
+        "originalQuestionNumber": 9,
+        "question": "The first term of a sequence is 1 and every term after the first one is 1 more than the square of the preceding term. What is the fifth term?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "5",
+            "C": "6",
+            "D": "8",
+            "E": "12"
+        },
+        "exam": "source1",
+        "id": 11578,
+        "originalQuestionNumber": 2,
+        "question": "When 2x is subtracted from 48 and the difference is divided by \\(x + 3\\), the result is 4. What is the value of x?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "5",
+            "B": "18",
+            "C": "25",
+            "D": "36",
+            "E": "40"
+        },
+        "exam": "source1",
+        "id": 11296,
+        "originalQuestionNumber": 12,
+        "question": "The nth term of a sequence is defined to be \\(5n + 2\\). The 35th term is how much greater than the 30th term?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8",
+            "E": "10"
+        },
+        "exam": "source1",
+        "id": 10011,
+        "originalQuestionNumber": 3,
+        "question": "If \\(x + 2y = 14\\), \\(y = z + 2\\), and \\(z = 4\\), then what is the value of x?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(\\frac{1}{3}\\)",
+            "B": "6",
+            "C": "9",
+            "D": "12",
+            "E": "81"
+        },
+        "exam": "source1",
+        "id": 12128,
+        "originalQuestionNumber": 1,
+        "question": "If \\(x^{\\frac{1}{2}} = 3\\), then what is the value of \\(x^2\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "5",
+            "E": "6"
+        },
+        "exam": "source2",
+        "id": 10133,
+        "originalQuestionNumber": 9,
+        "question": "When positive integers \\(a\\) and \\(b\\) are divided by 7, the remainders are 4 and 2 respectively. If \\(ab\\) is divided by 7, what is the remainder?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "16",
+            "B": "14",
+            "C": "12",
+            "D": "10",
+            "E": "8"
+        },
+        "exam": "source2",
+        "id": 11788,
+        "originalQuestionNumber": 8,
+        "question": "If \\((p - 1)^2 = 64\\) and \\((q - 1)^2 = 36\\), what is the greatest possible value of \\((p - q)\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3",
+            "E": "4"
+        },
+        "exam": "source1",
+        "id": 11932,
+        "originalQuestionNumber": 13,
+        "question": "If \\(2^{2x - 3} = 8\\), then what is the value of x?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "8",
+            "D": "15",
+            "E": "16"
+        },
+        "exam": "source2",
+        "id": 10468,
+        "originalQuestionNumber": 13,
+        "question": "If \\(f = 1 + 2 + 4 + 8 + 16\\) and \\(g = \\frac { 1 } { 2 } f + \\frac { 1 } { 2 } \\), then \\(f\\) exceeds \\(g\\) by",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "15",
+            "B": "50",
+            "C": "75",
+            "D": "120",
+            "E": "150"
+        },
+        "exam": "source2",
+        "id": 12099,
+        "originalQuestionNumber": 4,
+        "question": "If \\(0.1k\\) percent of \\(n\\) is 5, what is \\(3k\\) percent of \\(n\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "0.01",
+            "B": "0.1",
+            "C": "1",
+            "D": "10",
+            "E": "100"
+        },
+        "exam": "source1",
+        "id": 10650,
+        "originalQuestionNumber": 2,
+        "question": "If \\((0.0013)x = 0.013\\), then \\(x =\\)",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-5\\)",
+            "B": "\\(-2\\)",
+            "C": "1",
+            "D": "5",
+            "E": "8"
+        },
+        "exam": "source1",
+        "id": 11326,
+        "originalQuestionNumber": 1,
+        "question": "If t is 5 more than s, and s is 3 less than r, what is t when \\(r = 3\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(2 \\frac { 1 } { 3 } \\)",
+            "B": "7",
+            "C": "\\(9 \\frac { 2 } { 3 } \\)",
+            "D": "14",
+            "E": "21"
+        },
+        "exam": "source6",
+        "id": 10619,
+        "originalQuestionNumber": 3,
+        "question": "What is nine times y if 4 more than three times y is equal to 11 ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3",
+            "E": "more than 3"
+        },
+        "exam": "source5",
+        "id": 10675,
+        "originalQuestionNumber": 8,
+        "question": "For how many positive numbers \\(a\\) is it true that \\(a \\times a \\times a = a + a + a\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "210",
+            "B": "390",
+            "C": "490",
+            "D": "810",
+            "E": "990"
+        },
+        "exam": "source5",
+        "id": 11957,
+        "originalQuestionNumber": 12,
+        "question": "If \\(f(x) = x^2 - 3x\\) and \\(g(x) = f(3x)\\), what is \\(g(-10)\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "28",
+            "B": "50",
+            "C": "90",
+            "D": "105",
+            "E": "135"
+        },
+        "exam": "source1",
+        "id": 10387,
+        "originalQuestionNumber": 2,
+        "question": "Which of the following is divisible by 5 and 7, but is NOT divisible by 10?",
+        "sectionLength": 18,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8",
+            "E": "10"
+        },
+        "exam": "source2",
+        "id": 10108,
+        "originalQuestionNumber": 1,
+        "question": "If \\(4(x + y) - 2(x + y) = 12\\), then \\(x + y =\\)",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-4\\)",
+            "B": "10",
+            "C": "18",
+            "D": "26",
+            "E": "36"
+        },
+        "exam": "source1",
+        "id": 10875,
+        "originalQuestionNumber": 3,
+        "question": "If \\(a - 2b = 10\\), \\(b - 3c = 5\\), and \\(c = 1\\), what is the value of a?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(\\frac{1}{2}\\)",
+            "B": "2",
+            "C": "4",
+            "D": "16",
+            "E": "256"
+        },
+        "exam": "source1",
+        "id": 11029,
+        "originalQuestionNumber": 5,
+        "question": "If \\(x^{\\frac{1}{2}} = 4\\), then what is the value of \\(x^2\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "32",
+            "B": "34",
+            "C": "36",
+            "D": "38",
+            "E": "40"
+        },
+        "exam": "source1",
+        "id": 10194,
+        "originalQuestionNumber": 1,
+        "question": "If \\(4x + 2 = 26\\), then \\(4x + 8\\) =",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-9",
+            "B": "-8",
+            "C": "-3",
+            "D": "1",
+            "E": "2"
+        },
+        "exam": "source6",
+        "id": 11298,
+        "originalQuestionNumber": 2,
+        "question": "If \\(|x + 3| > 5\\), which of the following is a possible value of \\(x\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "3",
+            "B": "2",
+            "C": "0",
+            "D": "-3",
+            "E": "-4"
+        },
+        "exam": "source6",
+        "id": 11864,
+        "originalQuestionNumber": 6,
+        "question": "If \\(7 + x < 5 \\)and \\(3 + x < 0\\), which of the following could be the value of \\(x\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "-10",
+            "B": "-5",
+            "C": "0",
+            "D": "5",
+            "E": "10"
+        },
+        "exam": "source5",
+        "id": 10000,
+        "originalQuestionNumber": 1,
+        "question": "If \\(a - 5 = O\\), what is the value of \\(a + 5\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "12",
+            "E": "It cannot be determined from the information given."
+        },
+        "exam": "source2",
+        "id": 11245,
+        "originalQuestionNumber": 6,
+        "question": "If \\(12x + 5 = k + (k + m)x\\) for any value of \\(x\\), where \\(k\\) and \\(m\\) are constants, what is the value of \\(m\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-6",
+            "B": "-2",
+            "C": "\\(\\frac { 1 } { 4 } \\)",
+            "D": "\\(\\frac { 2 } { 3 } \\)",
+            "E": "6"
+        },
+        "exam": "source6",
+        "id": 11015,
+        "originalQuestionNumber": 11,
+        "question": "What is the value of \\(b\\) if \\(1 - \\frac { 4 } { b } = \\frac { 5 } { 3 } \\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "4.6",
+            "D": "7.25",
+            "E": "49"
+        },
+        "exam": "source1",
+        "id": 10346,
+        "originalQuestionNumber": 8,
+        "question": "If \\(d(w) = \\sqrt{w^2 + 1}\\) for all real values of w, which of the following is NOT a possible value of \\(d(w)\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(1\\frac{1}{2}\\)",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "\\(4\\frac{1}{2}\\)"
+        },
+        "exam": "source1",
+        "id": 11786,
+        "originalQuestionNumber": 12,
+        "question": "The average (arithmetic mean) of six numbers is 6. If 3 is subtracted from each of four of the numbers, what is the new average?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(-p\\)",
+            "B": "\\(-q\\)",
+            "C": "\\(pq\\)",
+            "D": "2",
+            "E": "1"
+        },
+        "exam": "source2",
+        "id": 10109,
+        "originalQuestionNumber": 15,
+        "question": "If \\(p < q < 0\\), which of the following must be less than \\(\\frac { p } { q } \\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-4",
+            "B": "-2",
+            "C": "-\\(\\frac { 3 } { 8 } \\)",
+            "D": "0",
+            "E": "\\(\\frac { 3 } { 8 } \\)"
+        },
+        "exam": "source5",
+        "id": 10868,
+        "originalQuestionNumber": 14,
+        "question": "If \\(f(x) = 3x + 8\\), for what value of a is \\(f(a) = a\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "9",
+            "B": "18",
+            "C": "27",
+            "D": "36",
+            "E": "48"
+        },
+        "exam": "source6",
+        "id": 10842,
+        "originalQuestionNumber": 16,
+        "question": "If \\(m\\) and \\(n\\) are constants, what is the value of \\(n\\) if the equation \\((x + 9)(x + m) = x^2 + 4mx + n\\) is true for all values of \\(x\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "exam": "source1",
+        "id": 10666,
+        "originalQuestionNumber": 17,
+        "question": "When 20 is divided by the positive integer x, the remainder is 2. For how many different values of x is this true?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "100",
+            "B": "180",
+            "C": "198",
+            "D": "199",
+            "E": "200"
+        },
+        "exam": "source5",
+        "id": 10185,
+        "originalQuestionNumber": 8,
+        "question": "Consider the sequence 1, 2, 3, 1, 2, 3, 1, 2, 3, ... . What is the sum of the first 100 terms?",
+        "sectionLength": 16,
+        "sectionNumber": 9,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "2.4",
+            "B": "14",
+            "C": "15",
+            "D": "20",
+            "E": "60"
+        },
+        "exam": "source5",
+        "id": 11926,
+        "originalQuestionNumber": 1,
+        "question": "If \\(3x = 12\\), \\(5x =\\)",
+        "sectionLength": 20,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "10",
+            "E": "11"
+        },
+        "exam": "source6",
+        "id": 12003,
+        "originalQuestionNumber": 1,
+        "question": "If \\(y + 4 = 13\\), then \\(y - 2\\) =",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(\\sqrt { n } \\)",
+            "B": "\\(\\sqrt { n^2 } \\)",
+            "C": "\\(\\frac { 1 } { \\sqrt { n } } \\)",
+            "D": "\\(\\frac { 1 } { \\sqrt { n^2 } } \\)",
+            "E": "1"
+        },
+        "exam": "source5",
+        "id": 11432,
+        "originalQuestionNumber": 4,
+        "question": "For all positive numbers \\(a\\) and \\(b\\), let \\(a \\square b = \\sqrt { ab } \\). If \\(n > 1\\), what does \\(n \\square \\frac { 1 } { n } \\) equal?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "0",
+            "B": "9",
+            "C": "12",
+            "D": "16",
+            "E": "18"
+        },
+        "exam": "source1",
+        "id": 10732,
+        "originalQuestionNumber": 11,
+        "question": "If the sum of three numbers is 27, what is the average (arithmetic mean) of the three numbers?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-36\\)",
+            "B": "\\(-28\\)",
+            "C": "\\(-4\\)",
+            "D": "4",
+            "E": "36"
+        },
+        "exam": "source1",
+        "id": 10031,
+        "originalQuestionNumber": 17,
+        "question": "If \\(r = -2\\) and \\(s = 5\\), what is the value of \\(r^2 (2r + s)\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "-32",
+            "B": "-10",
+            "C": "-6",
+            "D": "-4",
+            "E": "-2"
+        },
+        "exam": "source6",
+        "id": 11762,
+        "originalQuestionNumber": 8,
+        "question": "If \\(a < 0\\) and \\((a - 4)^2 = 36\\), what is \\(a\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-4",
+            "B": "-3",
+            "C": "3",
+            "D": "4",
+            "E": "6"
+        },
+        "exam": "source6",
+        "id": 10550,
+        "originalQuestionNumber": 1,
+        "question": "If \\(2x + 10 = 16\\), what is the value of \\(2x -10\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7",
+            "E": "8"
+        },
+        "exam": "source2",
+        "id": 11181,
+        "originalQuestionNumber": 2,
+        "question": "\\(XY + YX = 88\\) In the addition problem above, X and Y are distinct positive integers. How many different integer values of X are possible?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "8",
+            "B": "10",
+            "C": "12",
+            "D": "16",
+            "E": "64"
+        },
+        "exam": "source6",
+        "id": 10508,
+        "originalQuestionNumber": 5,
+        "question": "If \\(a^3 = 4\\), what is the value of \\(a^6\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-5\\)",
+            "B": "\\(-\\frac{19}{6}\\)",
+            "C": "\\(-3\\)",
+            "D": "5",
+            "E": "15"
+        },
+        "exam": "source1",
+        "id": 11006,
+        "originalQuestionNumber": 14,
+        "question": "If \\(|12r - 2| = 58\\) and \\(|3r + 2| = 17\\), then what is the value of r?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "81",
+            "B": "117",
+            "C": "153",
+            "D": "189",
+            "E": "225"
+        },
+        "exam": "source1",
+        "id": 11656,
+        "originalQuestionNumber": 8,
+        "question": "If \\(x^2 + y^2 = 153\\) and \\(xy = 36\\), what is the value of \\((x - y)^2\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "13",
+            "B": "6",
+            "C": "3",
+            "D": "-3",
+            "E": "-6"
+        },
+        "exam": "source6",
+        "id": 11043,
+        "originalQuestionNumber": 6,
+        "question": "If \\(a\\) is 4 greater than \\(b\\) and \\(a^2 + b^2 = 10\\), what is the value of \\(ab\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "33",
+            "B": "34",
+            "C": "66",
+            "D": "67",
+            "E": "68"
+        },
+        "exam": "source1",
+        "id": 11301,
+        "originalQuestionNumber": 13,
+        "question": "The lowest integer of a set of consecutive integers is \\(-33\\). If the sum of these integers is 34, how many integers are in the set?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "4",
+            "E": "It cannot be determined from the information given."
+        },
+        "exam": "source6",
+        "id": 11715,
+        "originalQuestionNumber": 7,
+        "question": "If \\(j, k, l, m,\\) and \\(n\\) are consecutive integers and \\(j < k < l < m < n\\), then what is the value of \\((j + n) - (k + m)\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "5",
+            "D": "7",
+            "E": "9"
+        },
+        "exam": "source2",
+        "id": 10181,
+        "originalQuestionNumber": 8,
+        "question": "If \\(m^ { 2a } x m^b = m^6\\) and \\(\\frac { m^a } { m^b } = \\frac { 1 } { m^3 } \\), what is the value of \\(a + b\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8",
+            "E": "10"
+        },
+        "exam": "source2",
+        "id": 10277,
+        "originalQuestionNumber": 1,
+        "question": "If \\(\\frac { 3 } { 2x - 4 } = \\frac { 3 } { x } \\), what is the value of \\(x\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-5\\)",
+            "B": "\\(-\\sqrt[3]{5}\\)",
+            "C": "\\(\\sqrt[3]{5}\\)",
+            "D": "5",
+            "E": "15"
+        },
+        "exam": "source1",
+        "id": 10276,
+        "originalQuestionNumber": 1,
+        "question": "If \\(a^3 - b = a^3 - 5\\), then \\(b =\\)",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "39",
+            "B": "41",
+            "C": "42",
+            "D": "45",
+            "E": "81"
+        },
+        "exam": "source1",
+        "id": 11174,
+        "originalQuestionNumber": 2,
+        "question": "If \\(\\frac{y}{y - 3} = \\frac{42}{39}\\), then what does y equal?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "6",
+            "B": "12",
+            "C": "54",
+            "D": "108",
+            "E": "162"
+        },
+        "exam": "source6",
+        "id": 11805,
+        "originalQuestionNumber": 17,
+        "question": "For all numbers a and b, let a \\(\\Phi b = a^2b + ab^2\\). What is the value of \\((1 \\Phi 2) \\Phi 3\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "20",
+            "B": "27",
+            "C": "32",
+            "D": "33",
+            "E": "40"
+        },
+        "exam": "source1",
+        "id": 10107,
+        "originalQuestionNumber": 2,
+        "question": "The average (arithmetic mean) of 7,20, and x is 20. What is the value of x ?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "28",
+            "B": "42",
+            "C": "58",
+            "D": "78",
+            "E": "108"
+        },
+        "exam": "source5",
+        "id": 10070,
+        "originalQuestionNumber": 2,
+        "question": "What is the value of \\(2x^2 - 3x - 7\\) when \\(x = -5\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "12",
+            "B": "13",
+            "C": "14",
+            "D": "15",
+            "E": "16"
+        },
+        "exam": "source1",
+        "id": 10356,
+        "originalQuestionNumber": 6,
+        "question": "If d is a positive integer, then \\((d - 1)(d + 1)\\) could equal which of the following?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "3",
+            "B": "6",
+            "C": "12",
+            "D": "18",
+            "E": "24"
+        },
+        "exam": "source2",
+        "id": 11115,
+        "originalQuestionNumber": 2,
+        "question": "If \\(2(ax + bx) = 48\\), what is the value of \\(x\\) when \\(a + b = 8\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "38",
+            "B": "37",
+            "C": "25",
+            "D": "20",
+            "E": "18"
+        },
+        "exam": "source2",
+        "id": 11867,
+        "originalQuestionNumber": 11,
+        "question": "In how many integers from 1 to 200 does the digit 9 appear at least once?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "840",
+            "B": "280",
+            "C": "252",
+            "D": "175",
+            "E": "84"
+        },
+        "exam": "source1",
+        "id": 11339,
+        "originalQuestionNumber": 6,
+        "question": "40 percent of 210 is the same as \\(33 \\frac{1}{3}\\) percent of what number?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "1",
+            "B": "3",
+            "C": "5",
+            "D": "8",
+            "E": "9"
+        },
+        "exam": "source1",
+        "id": 11269,
+        "originalQuestionNumber": 1,
+        "question": "If \\(\\frac{\\sqrt{x} + n}{\\sqrt{x} + 9} = 1\\), then \\(n =\\)",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "0",
+            "B": "4",
+            "C": "12",
+            "D": "16",
+            "E": "24"
+        },
+        "exam": "source1",
+        "id": 12051,
+        "originalQuestionNumber": 7,
+        "question": "If \\(x^2 - 4x - 12 = 0\\), what is the value of \\(2x^2 - 8x\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "None",
+            "B": "1",
+            "C": "More than 1 but less than 142",
+            "D": "142",
+            "E": "More than 142"
+        },
+        "exam": "source5",
+        "id": 11069,
+        "originalQuestionNumber": 4,
+        "question": "How many primes less than 1000 are divisible by 7?",
+        "sectionLength": 16,
+        "sectionNumber": 9,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "32",
+            "B": "34",
+            "C": "36",
+            "D": "38",
+            "E": "40"
+        },
+        "exam": "source1",
+        "id": 10088,
+        "originalQuestionNumber": 1,
+        "question": "If \\(4x + 2 = 26\\), then \\(4x + 8 =\\)",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6",
+            "E": "7"
+        },
+        "exam": "source2",
+        "id": 11264,
+        "originalQuestionNumber": 7,
+        "question": "If \\(k\\) is an integer and 4 is the remainder when \\(k^2 + 3\\) is divided by 7, which of the following could be the value of \\(k\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3",
+            "E": "4"
+        },
+        "exam": "source1",
+        "id": 11619,
+        "originalQuestionNumber": 14,
+        "question": "For all u and v, let \\(\\triangledown\\) be defined by \\(u \\triangledown v = u - v + 2\\). What is the value of \\((2 \\triangledown 3) \\triangledown 1\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "4",
+            "B": "7",
+            "C": "9",
+            "D": "18",
+            "E": "It cannot be determined from the information given."
+        },
+        "exam": "source1",
+        "id": 10990,
+        "originalQuestionNumber": 12,
+        "question": "If a linear function passes through the points \\((1, a)\\), \\((2, b)\\), and \\((4,18)\\), what is the value of \\(\\frac{3}{2}b - a\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "6",
+            "E": "9"
+        },
+        "exam": "source1",
+        "id": 10150,
+        "originalQuestionNumber": 19,
+        "question": "If m and n are positive integers and \\(2m + 3n = 15\\), what is the sum of all possible values of m ?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "1",
+            "B": "3",
+            "C": "5",
+            "D": "7",
+            "E": "9"
+        },
+        "exam": "source2",
+        "id": 11385,
+        "originalQuestionNumber": 2,
+        "question": "If \\(4 < \\sqrt { 6k } < 5\\), then \\(k\\) =",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "20",
+            "B": "21",
+            "C": "22",
+            "D": "23",
+            "E": "24"
+        },
+        "exam": "source2",
+        "id": 10564,
+        "originalQuestionNumber": 8,
+        "question": "The smallest integer of a set of even consecutive integers is -20. If the sum of these integers is 72, how many integers are in this set?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "16",
+            "B": "22",
+            "C": "23",
+            "D": "32",
+            "E": "36"
+        },
+        "exam": "source1",
+        "id": 10710,
+        "originalQuestionNumber": 9,
+        "question": "The percent increase from 6 to 16 is equal to the percent increase from 12 to what number?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "1",
+            "B": "3",
+            "C": "5",
+            "D": "7",
+            "E": "9"
+        },
+        "exam": "source1",
+        "id": 10160,
+        "originalQuestionNumber": 7,
+        "question": "If \\(f(x) = 3x - 8\\) and \\(g(x) = \\sqrt{2x^2 + 7}\\), what is the value of \\(f(g(3))\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "0",
+            "B": "2",
+            "C": "4",
+            "D": "9",
+            "E": "16"
+        },
+        "exam": "source6",
+        "id": 10052,
+        "originalQuestionNumber": 12,
+        "question": "If \\(\\frac { 2x + 10\\sqrt { x } + 12 } { \\sqrt { x } + 3 } = 3\\sqrt { x } \\), what is the value of \\(x\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(-\\frac { 5 } { 3 } \\)",
+            "B": "\\(-\\frac { 3 } { 5 } \\)",
+            "C": "0",
+            "D": "\\(\\frac { 5 } { 3 } \\)",
+            "E": "3"
+        },
+        "exam": "source5",
+        "id": 10972,
+        "originalQuestionNumber": 7,
+        "question": "If \\(f(x) = 3 + \\frac { 5 } { x } \\) , which of the following CANNOT be a value of \\(f(x)\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "6",
+            "B": "9",
+            "C": "14",
+            "D": "20",
+            "E": "34"
+        },
+        "exam": "source6",
+        "id": 11068,
+        "originalQuestionNumber": 4,
+        "question": "\\(a + b + c = 4\\) \\(d + e = 5 \\) What is the value of \\(ae + ce + bd + be + cd + ad\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "8",
+            "C": "16",
+            "D": "\\(a + 4\\)",
+            "E": "\\(2a\\)"
+        },
+        "exam": "source6",
+        "id": 11983,
+        "originalQuestionNumber": 5,
+        "question": "\\begin { gather* } 8 - a, 8, 8 + a \\end { gather* } What is the average (arithmetic mean) of the numbers in the list above?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "exam": "source1",
+        "id": 11057,
+        "originalQuestionNumber": 9,
+        "question": "If \\(4^{4x + 6} = 64^{2x}\\), what is the value of x?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "8",
+            "B": "24",
+            "C": "27",
+            "D": "30",
+            "E": "36"
+        },
+        "exam": "source1",
+        "id": 10526,
+        "originalQuestionNumber": 10,
+        "question": "If r is a multiple of both 12 and 18, which of the following must be a factor of r ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "52",
+            "B": "44",
+            "C": "28",
+            "D": "20",
+            "E": "16"
+        },
+        "exam": "source1",
+        "id": 11522,
+        "originalQuestionNumber": 6,
+        "question": "If \\(x \\wedge y\\) is defined by the expression \\((x - y)^x + (x + y)^y\\), what is the value of \\(4 \\wedge 2\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "-3",
+            "B": "0",
+            "C": "3",
+            "D": "6",
+            "E": "9"
+        },
+        "exam": "source2",
+        "id": 10664,
+        "originalQuestionNumber": 1,
+        "question": "If \\(p + q - 2 = 5 \\), what is the value of \\(p + q - 7\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "-16",
+            "B": "-8",
+            "C": "0",
+            "D": "8",
+            "E": "16"
+        },
+        "exam": "source5",
+        "id": 11362,
+        "originalQuestionNumber": 3,
+        "question": "If \\(8 - (8 - m) = 8\\), then \\(m\\) =",
+        "sectionLength": 20,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "-2",
+            "B": "-1",
+            "C": "0",
+            "D": "1",
+            "E": "2"
+        },
+        "exam": "source2",
+        "id": 11048,
+        "originalQuestionNumber": 11,
+        "question": "If \\(3^ { x^2 + y^2 } = \\frac { 1 } { 9^xy } \\), what is the value of \\(x + y\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "-6",
+            "B": "-4",
+            "C": "-2",
+            "D": "2",
+            "E": "8"
+        },
+        "exam": "source2",
+        "id": 12164,
+        "originalQuestionNumber": 2,
+        "question": "If \\((x - 2)^2 = 16\\), which of the following could be a value of \\(x\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "4",
+            "B": "10",
+            "C": "18",
+            "D": "24",
+            "E": "60"
+        },
+        "exam": "source6",
+        "id": 10861,
+        "originalQuestionNumber": 1,
+        "question": "Each of the following is a factor of 120 EXCEPT",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "7",
+            "E": "8"
+        },
+        "exam": "source6",
+        "id": 10599,
+        "originalQuestionNumber": 4,
+        "question": "Which of the following is a product of 3 consecutive integers?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "-12",
+            "B": "\\(-9 \\frac { 1 } { 3 } \\)",
+            "C": "6",
+            "D": "\\(9 \\frac { 1 } { 3 } \\)",
+            "E": "12"
+        },
+        "exam": "source6",
+        "id": 11942,
+        "originalQuestionNumber": 12,
+        "question": "If \\((x + y)(x - y) + (4 - y)(2 - y) = 0\\), then what is the value of \\(y\\) when \\(x\\) equals 8 ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "-30",
+            "B": "-14",
+            "C": "-10",
+            "D": "0",
+            "E": "10"
+        },
+        "exam": "source6",
+        "id": 10139,
+        "originalQuestionNumber": 10,
+        "question": "If \\(|3x - 6| = 36\\), what is one possible value of \\(x\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "More than 4"
+        },
+        "exam": "source2",
+        "id": 11769,
+        "originalQuestionNumber": 1,
+        "question": "If \\(|x| < 5\\) and \\(|x| > 2\\), how many integers satisfy both of the two inequalities?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "\\(\\frac{5}{6}\\)",
+            "B": "5",
+            "C": "9",
+            "D": "13",
+            "E": "36"
+        },
+        "exam": "source1",
+        "id": 10274,
+        "originalQuestionNumber": 8,
+        "question": "If \\(\\frac{p + q}{s} = 9\\), \\(\\frac{q}{p} = 4\\), and \\(\\sqrt{q} = 6\\), what is the value of s?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "18",
+            "B": "28",
+            "C": "38",
+            "D": "66",
+            "E": "76"
+        },
+        "exam": "source6",
+        "id": 11338,
+        "originalQuestionNumber": 15,
+        "question": "\\(3a - b = 11\\) \\(4b + 2c = 27\\) Based on the equation above, what is the value of \\( 6a + 6b + 4c\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "8",
+            "D": "9",
+            "E": "19.25"
+        },
+        "exam": "source5",
+        "id": 10498,
+        "originalQuestionNumber": 6,
+        "question": "If \\((a^ { \\frac { 1 } { 2 } } )^3 (a^3)^ { \\frac { 1 } { 2 } } = a^n\\), then \\(n\\) =",
+        "sectionLength": 16,
+        "sectionNumber": 9,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "8",
+            "C": "18",
+            "D": "36",
+            "E": "72"
+        },
+        "exam": "source1",
+        "id": 10892,
+        "originalQuestionNumber": 8,
+        "question": "If \\(\\frac{a}{b} = 4\\), \\(a = 8c\\), and \\(c = 9\\), what is the value of b?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "0",
+            "B": "2",
+            "C": "3",
+            "D": "5",
+            "E": "6"
+        },
+        "exam": "source2",
+        "id": 10702,
+        "originalQuestionNumber": 9,
+        "question": "For a linear function \\(f\\), \\(f(1) = 8\\) and \\(f(7) = -10\\). If \\(f(k) = 5\\), what is the value of \\(k\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "2.5",
+            "B": "20",
+            "C": "35",
+            "D": "40",
+            "E": "70"
+        },
+        "exam": "source1",
+        "id": 11016,
+        "originalQuestionNumber": 14,
+        "question": "If \\(q = \\frac{5}{4}st\\), what is the value of t when \\(s = 2\\) and \\(q = 50\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "35",
+            "B": "45",
+            "C": "55",
+            "D": "75",
+            "E": "95"
+        },
+        "exam": "source5",
+        "id": 11010,
+        "originalQuestionNumber": 1,
+        "question": "If \\(2x - 1 = 9\\), what is \\(10x - 5\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 9,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "\\(-1\\)",
+            "B": "0",
+            "C": "1",
+            "D": "2",
+            "E": "4"
+        },
+        "exam": "source1",
+        "id": 11518,
+        "originalQuestionNumber": 2,
+        "question": "If \\(x = 1\\) and \\(y = -1\\), then \\(x^2 + 2xy + y^2 =\\)",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "9",
+            "B": "21",
+            "C": "30",
+            "D": "42",
+            "E": "48"
+        },
+        "exam": "source6",
+        "id": 10431,
+        "originalQuestionNumber": 12,
+        "question": "If \\(f(x) = 4x - 8\\) and \\(g(x) = 3x^2 + 7\\), then \\(f(g(3))\\) =",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "\\(-3\\)",
+            "B": "0",
+            "C": "1",
+            "D": "2",
+            "E": "3"
+        },
+        "exam": "source1",
+        "id": 11536,
+        "originalQuestionNumber": 1,
+        "question": "If \\(f(x) = x^{-3} + x^3\\), at which of the following values of x is \\(f(x)\\) undefined?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "1",
+            "B": "\\(\\frac{19}{4}\\)",
+            "C": "6",
+            "D": "\\(\\frac{29}{4}\\)",
+            "E": "19"
+        },
+        "exam": "source1",
+        "id": 10149,
+        "originalQuestionNumber": 1,
+        "question": "If \\(4(x + 5) = 24\\), then what is the value of x?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "exam": "source2",
+        "id": 11822,
+        "originalQuestionNumber": 3,
+        "question": "If \\(8 \\times a^2x = a^ { 2x + 3 } \\) , what is the value of \\(a\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "8",
+            "B": "4",
+            "C": "\\(2\\sqrt{2}\\)",
+            "D": "2",
+            "E": "\\(\\sqrt{2}\\)"
+        },
+        "exam": "source1",
+        "id": 10128,
+        "originalQuestionNumber": 1,
+        "question": "If \\(2\\sqrt{4n^2} + 7 = 39\\), what is the value of n?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "8",
+            "D": "32",
+            "E": "64"
+        },
+        "exam": "source6",
+        "id": 11138,
+        "originalQuestionNumber": 11,
+        "question": "If \\(ab = 8\\), \\(bc = 4\\) and \\(ac = 2\\), and \\(c > O\\), then what is the value of \\(abc\\) ?",
+        "sectionLength": 14,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5",
+            "E": "6"
+        },
+        "exam": "source1",
+        "id": 10442,
+        "originalQuestionNumber": 3,
+        "question": "If \\(a + 2 > 5\\) and \\(a - 4 < 1\\), which of the following could be a value for a?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "5",
+            "D": "7",
+            "E": "211"
+        },
+        "exam": "source1",
+        "id": 12004,
+        "originalQuestionNumber": 13,
+        "question": "The sum of two consecutive positive integers is never divisible by",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "12",
+            "B": "14",
+            "C": "30",
+            "D": "33",
+            "E": "35"
+        },
+        "exam": "source1",
+        "id": 11938,
+        "originalQuestionNumber": 20,
+        "question": "The least integer of a set of consecutive even integers is \\(-30\\). If the sum of these integers is 66, how many integers are in the set?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "6",
+            "C": "8",
+            "D": "14",
+            "E": "18"
+        },
+        "exam": "source6",
+        "id": 10648,
+        "originalQuestionNumber": 11,
+        "question": "If \\(n = \\frac { 3m + 2 } { 2 } \\) and the value of m is decreased by 4, then the value of n is decreased by how much?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "23",
+            "B": "17",
+            "C": "16",
+            "D": "11",
+            "E": "3"
+        },
+        "exam": "source1",
+        "id": 10059,
+        "originalQuestionNumber": 5,
+        "question": "The average (arithmetic mean) of x and y is 7, and the average of x, y, and z is 10. What is the value of z?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-5",
+            "B": "0",
+            "C": "5",
+            "D": "7",
+            "E": "9"
+        },
+        "exam": "source2",
+        "id": 11706,
+        "originalQuestionNumber": 1,
+        "question": "If \\(|t| = 2\\), what is the value of \\((t + 3)(t - 3)\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "-3",
+            "B": "0",
+            "C": "2",
+            "D": "3",
+            "E": "6"
+        },
+        "exam": "source6",
+        "id": 11819,
+        "originalQuestionNumber": 12,
+        "question": "If \\(\\frac { z } { 3 } - \\frac { 5 } { 6 } = |\\frac { z } { 3 } - \\frac { 5 } { 6 } |\\), what is the least possible integer value of \\(z\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 9,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "15",
+            "B": "14",
+            "C": "9",
+            "D": "6",
+            "E": "3"
+        },
+        "exam": "source2",
+        "id": 12078,
+        "originalQuestionNumber": 15,
+        "question": "If \\(3^k + 3^k + 3^k = (27)^5\\), what is the value of \\(k\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "-36",
+            "B": "-6",
+            "C": "6",
+            "D": "36",
+            "E": "There is no value of x that satisfies the equation"
+        },
+        "exam": "source5",
+        "id": 10790,
+        "originalQuestionNumber": 3,
+        "question": "If \\(25 - 3\\sqrt { x } = 7\\), what is the value of \\(x\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "2",
+            "B": "5",
+            "C": "7",
+            "D": "10",
+            "E": "52"
+        },
+        "exam": "source6",
+        "id": 10501,
+        "originalQuestionNumber": 4,
+        "question": "83 \\(\\frac { - AB } { 31 } \\) In the correctly solved subtraction problem above, A and B represent digits. What is the value of \\(A \\times B\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "0",
+            "B": "5",
+            "C": "10",
+            "D": "20",
+            "E": "30"
+        },
+        "exam": "source5",
+        "id": 10794,
+        "originalQuestionNumber": 13,
+        "question": "What is the greatest value of \\(x\\) that is a solution of the following equation? \\(|x - 5| + 10 = 15\\)",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "10",
+            "B": "11",
+            "C": "15",
+            "D": "19",
+            "E": "27"
+        },
+        "exam": "source6",
+        "id": 12153,
+        "originalQuestionNumber": 1,
+        "question": "What number increased by 4 is equal to 19 decreased by 4 ?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "16",
+            "B": "20",
+            "C": "24",
+            "D": "28",
+            "E": "32"
+        },
+        "exam": "source6",
+        "id": 10566,
+        "originalQuestionNumber": 1,
+        "question": "If \\(3x = 8\\), what is the value of \\(3(8 - x)\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-7\\)",
+            "B": "\\(-1\\)",
+            "C": "\\(\\frac{1}{2}\\)",
+            "D": "1",
+            "E": "7"
+        },
+        "exam": "source1",
+        "id": 10548,
+        "originalQuestionNumber": 13,
+        "question": "If \\(\\frac{14x}{\\sqrt{2x + 2}} = 7\\), what is one possible value of x?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "20",
+            "B": "25",
+            "C": "30",
+            "D": "35",
+            "E": "40"
+        },
+        "exam": "source6",
+        "id": 11396,
+        "originalQuestionNumber": 1,
+        "question": "If \\(\\frac { a - b - 5 } { 2 } = 10\\), then what is the value of \\(a - b\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "10",
+            "B": "12",
+            "C": "15",
+            "D": "21",
+            "E": "36"
+        },
+        "exam": "source6",
+        "id": 11658,
+        "originalQuestionNumber": 9,
+        "question": "If, for all integers \\(x\\) and \\(y\\), \\(x \\ddagger y\\) is defined by \\(x \\ddagger y = x + y \\times x\\), what is the value of \\(3 \\ddagger 4\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "-5",
+            "B": "-3",
+            "C": "-1",
+            "D": "1",
+            "E": "3"
+        },
+        "exam": "source6",
+        "id": 10993,
+        "originalQuestionNumber": 11,
+        "question": "If \\(7^ { x+3 } + 7^2 = 98\\), what is \\(x \\)?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "8",
+            "C": "80",
+            "D": "81",
+            "E": "82"
+        },
+        "exam": "source1",
+        "id": 11740,
+        "originalQuestionNumber": 2,
+        "question": "If \\(\\sqrt{x} = 3\\), then \\(x^2 - 1 =\\)",
+        "sectionLength": 18,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "-4",
+            "B": "-2",
+            "C": "0",
+            "D": "2",
+            "E": "4"
+        },
+        "exam": "source6",
+        "id": 11460,
+        "originalQuestionNumber": 4,
+        "question": "What is the value of \\(m\\) if \\(\\frac { 4 } { 3m - 2 } = \\frac { 4 } { m + 6 } \\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "20",
+            "B": "14",
+            "C": "12",
+            "D": "8",
+            "E": "2"
+        },
+        "exam": "source2",
+        "id": 10361,
+        "originalQuestionNumber": 4,
+        "question": "If k is a positive integer, then \\(\\frac { 2^ { k+5 } } { 2^4 } \\)\\(a + b\\) is an odd integer, which of the following must be an even integer?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "2",
+            "B": "3.5",
+            "C": "6",
+            "D": "8.5",
+            "E": "10"
+        },
+        "exam": "source2",
+        "id": 11172,
+        "originalQuestionNumber": 9,
+        "question": "If \\(2^ { a + b } = 8\\) and \\(3^ { a - b } = 81\\), what is the value of \\(a\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "15",
+            "B": "22",
+            "C": "71",
+            "D": "78",
+            "E": "484"
+        },
+        "exam": "source1",
+        "id": 11671,
+        "originalQuestionNumber": 4,
+        "question": "If \\(m^2 + 7 = 29\\), then \\(m^2 - 7 =\\)",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "0",
+            "B": "\\(\\frac { 1 } { 2 } \\)",
+            "C": "1",
+            "D": "b",
+            "E": "\\(\\frac { 1 } { b } \\)"
+        },
+        "exam": "source2",
+        "id": 10940,
+        "originalQuestionNumber": 6,
+        "question": "If \\(ab = k\\), \\(b = ka\\),and \\(k \\neq 0\\), which of the following could be equal to \\(a\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "-6",
+            "B": "-7",
+            "C": "6",
+            "D": "8",
+            "E": "9"
+        },
+        "exam": "source2",
+        "id": 11075,
+        "originalQuestionNumber": 4,
+        "question": "If \\(2 < |x - 4| < 5\\), which of the following could be the value of \\(x\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "0",
+            "B": "10",
+            "C": "18",
+            "D": "28",
+            "E": "54"
+        },
+        "exam": "source6",
+        "id": 11653,
+        "originalQuestionNumber": 13,
+        "question": "If \\(w\\) is a positive odd integer, which of the following gives a possible value of the product of one more than \\(w\\) and 2 less than \\(w\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-5\\)",
+            "B": "\\(-2\\)",
+            "C": "1",
+            "D": "5",
+            "E": "8"
+        },
+        "exam": "source1",
+        "id": 10218,
+        "originalQuestionNumber": 3,
+        "question": "If t is 5 more than s, and s is 3 less than r, what is t when \\(r = 3\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(-6\\)",
+            "B": "\\(\\frac{1}{6}\\)",
+            "C": "6",
+            "D": "18",
+            "E": "216"
+        },
+        "exam": "source1",
+        "id": 10027,
+        "originalQuestionNumber": 12,
+        "question": "If \\(x^{-\\frac{2}{3}} = \\frac{1}{36}\\), then what does x equal?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "15",
+            "B": "16",
+            "C": "18",
+            "D": "53",
+            "E": "66"
+        },
+        "exam": "source1",
+        "id": 10516,
+        "originalQuestionNumber": 16,
+        "question": "If the sum of the consecutive integers from \\(-15\\) to x, inclusive, is 51, what is the value of x ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "5",
+            "C": "11",
+            "D": "33",
+            "E": "34"
+        },
+        "exam": "source1",
+        "id": 10716,
+        "originalQuestionNumber": 1,
+        "question": "What is the fewest number of 3s that can be multiplied together to yield a number greater than 100?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3",
+            "E": "4"
+        },
+        "exam": "source6",
+        "id": 10006,
+        "originalQuestionNumber": 12,
+        "question": "If \\(3y^4 + xy - x^2 = y^2 - 25\\) and \\(y = 0\\), how many possible values of \\(x\\) are there?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "-3",
+            "B": "0",
+            "C": "1",
+            "D": "2",
+            "E": "4"
+        },
+        "exam": "source6",
+        "id": 11327,
+        "originalQuestionNumber": 4,
+        "question": "If \\(x = -3\\), then \\(||x - 2| - |2 + x||\\) =",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-6\\)",
+            "B": "\\(-4\\)",
+            "C": "\\(-2\\)",
+            "D": "0",
+            "E": "2"
+        },
+        "exam": "source1",
+        "id": 10294,
+        "originalQuestionNumber": 13,
+        "question": "If \\(f(x) = \\sqrt{x^2 - 4}\\), then \\(f(x)\\) is undefined for which of the following values of x?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "3",
+            "B": "-3",
+            "C": "-13",
+            "D": "-15",
+            "E": "-30"
+        },
+        "exam": "source6",
+        "id": 11618,
+        "originalQuestionNumber": 2,
+        "question": "If \\(3d - 2q = 17\\) and \\(2d + 2q = -32\\), what is the value of \\(10d\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "-2",
+            "B": "5",
+            "C": "7",
+            "D": "14",
+            "E": "16"
+        },
+        "exam": "source6",
+        "id": 10586,
+        "originalQuestionNumber": 10,
+        "question": "If \\(-3 \\leq x \\leq 4\\), which of the following is NOT a possible value for \\(f(x)\\) in the function \\(f(x) = x^2 - 2\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 4,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "100",
+            "B": "180",
+            "C": "250",
+            "D": "360",
+            "E": "420"
+        },
+        "exam": "source1",
+        "id": 11052,
+        "originalQuestionNumber": 2,
+        "question": "If the average (arithmetic mean) of 6 numbers is greater than 30 and less than 60, which of the following could be the sum of the 6 numbers?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-15",
+            "B": "-5",
+            "C": "\\(\\frac { -15 } { 7 } \\)",
+            "D": "5",
+            "E": "15"
+        },
+        "exam": "source6",
+        "id": 10164,
+        "originalQuestionNumber": 2,
+        "question": "If \\(5k + 8 = -7 + 2k\\), what is the value of \\(3k\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "6",
+            "E": "9"
+        },
+        "exam": "source6",
+        "id": 10048,
+        "originalQuestionNumber": 10,
+        "question": "If 299 is divisible by \\(2B\\), and \\(B\\) represents a positive digit, what is the value of \\(B\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "2",
+            "B": "4",
+            "C": "8",
+            "D": "10",
+            "E": "16"
+        },
+        "exam": "source1",
+        "id": 12109,
+        "originalQuestionNumber": 3,
+        "question": "If \\(\\frac{a}{b} = 8\\) and \\(\\frac{a}{c} = 4\\), then what does c equal if \\(b = 2\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "3",
+            "B": "2",
+            "C": "1",
+            "D": "-1",
+            "E": "-2"
+        },
+        "exam": "source2",
+        "id": 11988,
+        "originalQuestionNumber": 9,
+        "question": "If \\(x^2 = 9\\), what is the value of \\(\\frac { 4 } { x + 1 } - \\frac { 4 } { x - 1 } \\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "3",
+            "B": "4",
+            "C": "5",
+            "D": "6",
+            "E": "8"
+        },
+        "exam": "source2",
+        "id": 10699,
+        "originalQuestionNumber": 6,
+        "question": "If \\(m^a \\times m^b = m^5\\) and \\((m^2a)^b = m^12\\), which of the following could be a value of \\(a\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "9",
+            "B": "12",
+            "C": "18",
+            "D": "27",
+            "E": "36"
+        },
+        "exam": "source2",
+        "id": 11512,
+        "originalQuestionNumber": 6,
+        "question": "If \\(a\\) and \\(b\\) are positive integers, and \\(3^a \\times 3^b = 27\\), what is the value of \\(3^a + 3^b\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7",
+            "E": "9"
+        },
+        "exam": "source1",
+        "id": 10906,
+        "originalQuestionNumber": 4,
+        "question": "The four-digit number 7,X7X is divisible by 3 if X is replaced by which of the following digits?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "exam": "source5",
+        "id": 10485,
+        "originalQuestionNumber": 4,
+        "question": "Let \\(f(x) = \\frac { \\sqrt { x - \\pi } } { x - 4 } \\). What is the smallest integer for which \\(f(x)\\) is defined?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5",
+            "E": "8"
+        },
+        "exam": "source2",
+        "id": 12188,
+        "originalQuestionNumber": 10,
+        "question": "If \\(x\\), \\(y\\), and \\(z\\) are all integers where \\(-5 < x < y < z < 4\\) , which of the following is the greatest possible value of \\(xz\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "\\(a\\)",
+            "D": "\\(a^2 - a\\)",
+            "E": "\\(a^2 - a + 1\\)"
+        },
+        "exam": "source5",
+        "id": 12148,
+        "originalQuestionNumber": 3,
+        "question": "\\(\\lbrace[(a \\times a) + a] \\div a\\rbrace - a=\\)",
+        "sectionLength": 16,
+        "sectionNumber": 9,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "12",
+            "B": "15",
+            "C": "18",
+            "D": "20",
+            "E": "24"
+        },
+        "exam": "source5",
+        "id": 10260,
+        "originalQuestionNumber": 2,
+        "question": "If \\(\\frac { 3 } { 4 } \\) of a number is 7 more than \\(\\frac { 1 } { 6 } \\) of the number, what is \\(\\frac { 5 } { 3 } \\) of the number?",
+        "sectionLength": 18,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "3",
+            "B": "6",
+            "C": "12",
+            "D": "13",
+            "E": "76"
+        },
+        "exam": "source6",
+        "id": 10507,
+        "originalQuestionNumber": 8,
+        "question": "What is the sum of the prime factors of 42 ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "-2",
+            "B": "-1",
+            "C": "0",
+            "D": "1",
+            "E": "2"
+        },
+        "exam": "source6",
+        "id": 10912,
+        "originalQuestionNumber": 3,
+        "question": "If \\(f(x) = |x| + 2\\), which of the following is the LEAST possible value of \\(f(x)\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(\\frac{15}{2}\\)",
+            "B": "\\(\\frac{75}{2}\\)",
+            "C": "32",
+            "D": "38",
+            "E": "40"
+        },
+        "exam": "source1",
+        "id": 11940,
+        "originalQuestionNumber": 11,
+        "question": "If y is directly proportional to x and if \\(y = 30\\) when \\(x = 6\\), what is the value of y when \\(x = 8\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "16",
+            "E": "32"
+        },
+        "exam": "source6",
+        "id": 12228,
+        "originalQuestionNumber": 16,
+        "question": "In the function \\(f(x) = (x^c)(x^\\frac { 1 } { c } )\\), \\(c\\) is a nonzero constant. If \\(f(2) = 4\\sqrt { 2 } \\), what is the value of \\(c\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "\\(-1\\)",
+            "B": "0",
+            "C": "1",
+            "D": "2",
+            "E": "3"
+        },
+        "exam": "source1",
+        "id": 11725,
+        "originalQuestionNumber": 3,
+        "question": "If \\(a^2 - 16 = b^2\\), and \\(2a = 10\\), which of the following could be a value for b?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "32",
+            "B": "24",
+            "C": "20",
+            "D": "12",
+            "E": "8"
+        },
+        "exam": "source6",
+        "id": 10557,
+        "originalQuestionNumber": 12,
+        "question": "What number is 18 more than 25\\% of itself?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "45",
+            "B": "90",
+            "C": "450",
+            "D": "500",
+            "E": "900"
+        },
+        "exam": "source2",
+        "id": 11033,
+        "originalQuestionNumber": 5,
+        "question": "What is the sum of 15 consecutive integers if the middle integer is 60?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "24",
+            "B": "4",
+            "C": "\\(\\frac { 5 } { 7 } \\)",
+            "D": "-4",
+            "E": "-7"
+        },
+        "exam": "source6",
+        "id": 11774,
+        "originalQuestionNumber": 9,
+        "question": "If \\(6s - 2t = 10\\) and \\(s - 5t = 14\\), what is the value of \\(5s + 3t\\) ?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "\\(-1\\)",
+            "B": "14",
+            "C": "19",
+            "D": "26",
+            "E": "32"
+        },
+        "exam": "source1",
+        "id": 11377,
+        "originalQuestionNumber": 1,
+        "question": "If \\(3x + 2 = 14\\), what is the value of \\(5x - 6\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "-3",
+            "B": "-1",
+            "C": "\\(\\frac { 3 } { 4 } \\)",
+            "D": "1",
+            "E": "3"
+        },
+        "exam": "source6",
+        "id": 10402,
+        "originalQuestionNumber": 4,
+        "question": "If \\(a = \\frac { 4 } { 3 } \\), then \\(\\frac { 4 } { a } - \\frac { a } { a - 1 } \\) =",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "\\(-1\\)",
+            "B": "1",
+            "C": "2",
+            "D": "3",
+            "E": "5"
+        },
+        "exam": "source1",
+        "id": 11215,
+        "originalQuestionNumber": 13,
+        "question": "If a and b are integers and \\(2a + 5b = 15\\), which of the following CANNOT be a value of b?",
+        "sectionLength": 20,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "129",
+            "B": "34",
+            "C": "24",
+            "D": "12",
+            "E": "10"
+        },
+        "exam": "source2",
+        "id": 12094,
+        "originalQuestionNumber": 12,
+        "question": "If \\(4\\sqrt { 8 } = n\\sqrt { n } \\), and if \\(n\\) and \\(m\\) are positive integers, which of the following cannot be the value of \\(m + n\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "-2",
+            "B": "0",
+            "C": "2",
+            "D": "\\(\\frac { a + b } { a - b } \\)",
+            "E": "\\(\\frac { a - b } { b - a } \\)"
+        },
+        "exam": "source5",
+        "id": 10749,
+        "originalQuestionNumber": 19,
+        "question": "If \\(a^2 \\neq b^2\\), then \\(\\frac { a^2 - b^2 } { b^2 - a^2 } + \\frac { a - b } { b - a } \\) =",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "7",
+            "B": "11",
+            "C": "\\(3x + 7\\)",
+            "D": "\\(3x + 11\\)",
+            "E": "\\(6x + 7\\)"
+        },
+        "exam": "source1",
+        "id": 11349,
+        "originalQuestionNumber": 16,
+        "question": "The value of \\(3x + 9\\) is how much more than the value of \\(3x - 2\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "70",
+            "B": "80",
+            "C": "90",
+            "D": "100",
+            "E": "110"
+        },
+        "exam": "source1",
+        "id": 11148,
+        "originalQuestionNumber": 3,
+        "question": "If the average (arithmetic mean) of 8 numbers is greater than 10 and less than 12, which of the following could be the sum of the 8 numbers?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "-2",
+            "B": "-1",
+            "C": "0",
+            "D": "2",
+            "E": "4"
+        },
+        "exam": "source2",
+        "id": 11107,
+        "originalQuestionNumber": 2,
+        "question": "If \\(|1 - 2k| = k + 4\\), which of the following could be the value of \\(k\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "11",
+            "E": "12"
+        },
+        "exam": "source6",
+        "id": 10267,
+        "originalQuestionNumber": 9,
+        "question": "The average (arithmetic mean) of three consecutive even integers \\(a\\), \\(b\\), and \\(c\\) is 8. What is the median of a, b, c, and 20 ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "5",
+            "E": "6"
+        },
+        "exam": "source1",
+        "id": 10307,
+        "originalQuestionNumber": 7,
+        "question": "If \\(f(x) = \\frac{x + 4}{x}\\) and \\(g(x) = x^2 - 6\\), what is the difference between \\(f(x)\\) and \\(g(x)\\) when \\(x = 2\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7",
+            "E": "8"
+        },
+        "exam": "source1",
+        "id": 11368,
+        "originalQuestionNumber": 8,
+        "question": "How many three-digit integers less than 400 are there such that the sum of the hundreds and units digits is equal to the square of the tens digit?",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "10",
+            "B": "12",
+            "C": "30",
+            "D": "40",
+            "E": "80"
+        },
+        "exam": "source6",
+        "id": 11509,
+        "originalQuestionNumber": 3,
+        "question": "\\(r = 4c - d\\) \\(t = (c +1)r\\) If r and t are defined by the equations above, what is the value of \\(t\\) when \\(c = 3\\) and \\(d = 2\\) ?",
+        "sectionLength": 18,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-9\\)",
+            "B": "\\(-\\sqrt[3]{9}\\)",
+            "C": "\\(\\sqrt[3]{9}\\)",
+            "D": "3",
+            "E": "9"
+        },
+        "exam": "source1",
+        "id": 11910,
+        "originalQuestionNumber": 2,
+        "question": "If \\(-a^3 + b^2 = -a^3 + 9\\), then b could equal which of the following?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "\\(-3\\)",
+            "B": "3",
+            "C": "5",
+            "D": "9",
+            "E": "12"
+        },
+        "exam": "source1",
+        "id": 12116,
+        "originalQuestionNumber": 2,
+        "question": "If \\(5a - b = 9\\) and \\(3a + b = 15\\), then \\(a + b =\\)",
+        "sectionLength": 18,
+        "sectionNumber": 5,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "1",
+            "B": "3",
+            "C": "27",
+            "D": "30",
+            "E": "36"
+        },
+        "exam": "source1",
+        "id": 11868,
+        "originalQuestionNumber": 15,
+        "question": "When the sum of the odd integers from 5 to 27, inclusive, is subtracted from the sum of the even integers from 8 to 30, inclusive, the result is",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "10",
+            "B": "20",
+            "C": "50",
+            "D": "100",
+            "E": "200"
+        },
+        "exam": "source2",
+        "id": 11227,
+        "originalQuestionNumber": 1,
+        "question": "If \\(k = 10\\), what is the value of \\(\\frac { 2k(k + 1) - 2k(k - 1) } { 4 } \\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "D",
+        "choices": {
+            "A": "-1",
+            "B": "1",
+            "C": "10",
+            "D": "100",
+            "E": "1,000"
+        },
+        "exam": "source6",
+        "id": 10860,
+        "originalQuestionNumber": 1,
+        "question": "If \\(\\sqrt { x } = \\frac { x } { 10 } \\) and \\(x > 0\\), what is the value of \\(x\\) ?",
+        "sectionLength": 16,
+        "sectionNumber": 8,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "E",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "10",
+            "D": "14",
+            "E": "24"
+        },
+        "exam": "source1",
+        "id": 10116,
+        "originalQuestionNumber": 4,
+        "question": "In the equation \\(y = kx\\), \\(x = 4\\) when \\(y = 6\\) and k is a constant. What is the value of y when \\(x = 16\\)?",
+        "sectionLength": 18,
+        "sectionNumber": 6,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "A",
+        "choices": {
+            "A": "50",
+            "B": "30",
+            "C": "25",
+            "D": "12.5",
+            "E": "6.25"
+        },
+        "exam": "source2",
+        "id": 10532,
+        "originalQuestionNumber": 11,
+        "question": "If y is inversely proportional to \\(x\\), and \\(y = 25\\) when \\(x = 10\\), what is the value of \\(y\\) when \\(x = 20\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+        },
+        "exam": "source2",
+        "id": 10393,
+        "originalQuestionNumber": 11,
+        "question": "If \\(\\frac { 4 } { p } \\) percent of a positive number is equal to \\(p\\) percent of the same number, what is the value of \\(p\\)?",
+        "sectionLength": 16,
+        "sectionNumber": 7,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "C",
+        "choices": {
+            "A": "None",
+            "B": "4",
+            "C": "5",
+            "D": "7",
+            "E": "Infinitely many"
+        },
+        "exam": "source5",
+        "id": 10523,
+        "originalQuestionNumber": 7,
+        "question": "For how many integers, \\(x\\), is the function \\(f(x) = \\sqrt { x^2 - 9 } \\) undefined?",
+        "sectionLength": 18,
+        "sectionNumber": 2,
+        "tags": [
+            "closed"
+        ]
+    },
+    {
+        "answer": "B",
+        "choices": {
+            "A": "0",
+            "B": "1",
+            "C": "\\(a^{-4}\\)",
+            "D": "a",
+            "E": "\\(a^4\\)"
+        },
+        "exam": "source1",
+        "id": 11250,
+        "originalQuestionNumber": 17,
+        "question": "If a is a positive number, which of the following is equal to \\(a^2 \\times a^{-2}\\)?",
+        "sectionLength": 20,
+        "sectionNumber": 3,
+        "tags": [
+            "closed"
+        ]
+    }
+]
