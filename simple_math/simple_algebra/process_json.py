@@ -32,6 +32,10 @@ def process_data(file, size=0, predict=False, double=True, reverse=True):
         for data in dataset:
             question = data['question']
             question = str(question).replace("\\", "")
+            if double:
+                question = question + question
+            if reverse:
+                question = question[::-1]
             questions.append(question)
 
             answer = data['choices'][data['answer']]

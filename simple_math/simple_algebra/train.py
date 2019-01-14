@@ -1,7 +1,7 @@
 import numpy as np
 from keras import layers
 from keras.layers import LSTM, Embedding
-from keras.models import Sequential
+from keras.models import Sequential, load_model
 from keras.preprocessing.sequence import pad_sequences
 import json
 from process_json import *
@@ -15,12 +15,12 @@ answers_train = []
 process data from dataset
 """
 print("loading data...")
-questions, answers = process_data('train.json', double=True, reverse=True)
+# questions, answers = process_data('train.json', double=True, reverse=True)
+#
+# questions_train += questions
+# answers_train += answers
 
-questions_train += questions
-answers_train += answers
-
-questions, answers = process_data('short_tag.json', double=False, reverse=False)
+questions, answers = process_data('short_tag.json', double=False, reverse=True)
 
 questions_train += questions
 answers_train += answers
@@ -47,25 +47,27 @@ BATCH_SIZE = 128
 LAYERS = 1
 
 print('Build model...')
-model = Sequential()
-model.add(Embedding(input_dim=len(input_chars) + 1, output_dim=HIDDEN_SIZE, input_length=MAX_LENGTH_Q, mask_zero=True))
-model.add(LSTM(HIDDEN_SIZE, input_shape=(MAX_LENGTH_Q, len(input_chars))))
-model.add(layers.RepeatVector(MAX_LENGTH_A))
-for _ in range(LAYERS):
-    model.add(LSTM(HIDDEN_SIZE, return_sequences=True))
-model.add(layers.TimeDistributed(layers.Dense(len(output_chars), activation='softmax')))
-model.compile(loss='categorical_crossentropy',
-              optimizer='adam',
-              metrics=['accuracy'])
-model.summary()
+# model = Sequential()
+# model.add(Embedding(input_dim=len(input_chars) + 1, output_dim=HIDDEN_SIZE, input_length=MAX_LENGTH_Q, mask_zero=True))
+# model.add(LSTM(HIDDEN_SIZE, input_shape=(MAX_LENGTH_Q, len(input_chars))))
+# model.add(layers.RepeatVector(MAX_LENGTH_A))
+# for _ in range(LAYERS):
+#     model.add(LSTM(HIDDEN_SIZE, return_sequences=True))
+# model.add(layers.TimeDistributed(layers.Dense(len(output_chars), activation='softmax')))
+# model.compile(loss='categorical_crossentropy',
+#               optimizer='adam',
+#               metrics=['accuracy'])
+# model.summary()
 
-for iteration in range(1, 30):
+model = load_model("simple_model.h5")
+
+for iteration in range(1, 10):
     print()
     print('-' * 50)
     print('Iteration', iteration)
     model.fit(x_train, y_train,
               batch_size=BATCH_SIZE,
-              epochs=1)
+              epochs=20)
 
     # Select 10 samples from the validation set at random so we can visualize
     # errors.
@@ -85,7 +87,7 @@ for iteration in range(1, 30):
         print(guess)
 
 
-model.save('simple_model.h5')
+model.save('simple_plus_model.h5')
 
 
 

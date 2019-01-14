@@ -52,7 +52,7 @@ def choose_ans(cal_answer, choice):
     return choice
 
 
-trained_model = load_model('simple_model.h5')
+trained_model = load_model('simple_plus_model.h5')
 
 questions_train = []
 answers_train = []
@@ -61,15 +61,15 @@ answers_train = []
 process data from dataset
 """
 print("loading data...")
-questions, answers = process_data('train.json', double=True, reverse=True)
+questions, answers, choices, correct_choices = process_data('short_tag.json', predict=True, double=False, reverse=True)
 
 questions_train += questions
 answers_train += answers
 
-questions, answers = process_data('short_tag.json', double=False, reverse=False)
-
-questions_train += questions
-answers_train += answers
+# questions, answers = process_data('short_tag.json', double=False, reverse=False)
+#
+# questions_train += questions
+# answers_train += answers
 
 """
 Transfrom questions into vectors and pad_them
@@ -88,19 +88,42 @@ for i, sentence in enumerate(answers_train):
 x_train = x
 y_train = y
 
-# Select 10 samples from the validation set at random so we can visualize
-# errors.
-for i in range(10):
-    ind = np.random.randint(0, len(x_train))
-    rowx, rowy = x_train[np.array([ind])], y_train[np.array([ind])]
+total = 0
+match = 0
+
+for i in range(len(x_train)):
+    rowx, rowy = x_train[np.array([i])], y_train[np.array([i])]
     preds = trained_model.predict_classes(rowx, verbose=0)
     # q = char_table.decode(rowx[0])
+    # Questions
+    question = questions[i]
+    question = question[::-1]
+
+    # Choices for question
+    choice_options = choices[i]
+
+    # Correct sequence answer for question
     correct = output_table.decode(rowy[0])
+
+    # Correct choice answer for question
+    correct_choice = correct_choices[i]
+
+    # Out guess for sequence ans
     guess = output_table.decode(preds[0], calc_argmax=False)
-    # print('Q', q, end=' ')
+
+    #Our guess for choice
+    guess_choice = choose_ans(guess, choice_options)
+
+    # print('Q', question, end=' ')
     print('T', correct, end=' ')
     if correct == guess:
         print(Colors.ok + '☑' + Colors.close, end=' ')
     else:
         print(Colors.fail + '☒' + Colors.close, end=' ')
     print(guess)
+
+    if guess_choice == correct_choice:
+        match += 1
+    total += 1
+
+print("Training data acc: ", match/total)
