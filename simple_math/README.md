@@ -1,16 +1,20 @@
 
-- A little bit mass here
+#### A cleaned up version is in close_tag_sat
 
-- First, I have trained our model with both actually questions and make-up questions and save the model
+##### Libraries:
+1. encode.py: encode and decode sequence to vec
+2. process_json_data.py: pre-process data in json into list
 
-- Then, I over trained our model again with only actual questions, where it will fit prefect with train data. Since the model cannot directly learn from sat questions, I believe this is good.
+- A full reproduction is as follow:
+1. First generate make-up questions, using prepare_data.py. makeup_questios.json will generate.
+2. Pre-train the model with pre_train.py, where it will train the model with makeup questions, and save model in pre_trained_model.h5
+3. Pre-process original sat questions, which resulting only numeric answer question and questions no longer than 150 characters
+4. Split sat into train and dev by split_data.py, which will generate train.json and dev.json
+5. Train model with sat questions a lot, by train.py, which saves to well_trained_model.h5
+6. Run predict.py to see the result
+7. Repeat 4 to 6 for small testing
 
-- Then, I test with our dev data, which results in 33% accuracy, which is good I think
 
-- For testing:
-1. run split_data.py first to split data into train and dev
-2. run train.py to train data
-3. run predict.py to see the result of dev data
 
 
 ============================================
