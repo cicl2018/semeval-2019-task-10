@@ -46,7 +46,7 @@ def create_choices(ans, gap):
 
 
 if __name__ == '__main__':
-    TRAINING_SIZE = 100000
+    TRAINING_SIZE = 1000
     VARIABLES = list('abcdefghijklmnopqrstuvwxyz')
 
     questions = []
@@ -157,28 +157,30 @@ if __name__ == '__main__':
 
         if a == 0 or b == 0:
             continue
+        if a > 5 or b > 5:
+            continue
         key = a, b, c
         if key in seen:
             continue
         seen.add(key)
 
-        ques = 'If {}^{} = {}, what is the value of {}?'.format(c, a, b, c)
-        ans = b ** (1 / a)
-
-        choice_options, choice_ans = create_choices(ans, 1)
-
-        questions.append(ques)
-        choices.append(choice_options)
-        answers.append(choice_ans)
-
-        ques = 'If {}^{} = {}, what is the value of {}?'.format(c, b, a, c)
-        ans = a ** (1 / b)
-
-        choice_options, choice_ans = create_choices(ans, 1)
-
-        questions.append(ques)
-        choices.append(choice_options)
-        answers.append(choice_ans)
+        # ques = 'If {}^{} = {}, what is the value of {}?'.format(c, a, b, c)
+        # ans = b ** (1 / a)
+        #
+        # choice_options, choice_ans = create_choices(ans, 1)
+        #
+        # questions.append(ques)
+        # choices.append(choice_options)
+        # answers.append(choice_ans)
+        #
+        # ques = 'If {}^{} = {}, what is the value of {}?'.format(c, b, a, c)
+        # ans = a ** (1 / b)
+        #
+        # choice_options, choice_ans = create_choices(ans, 1)
+        #
+        # questions.append(ques)
+        # choices.append(choice_options)
+        # answers.append(choice_ans)
 
         ques = 'If {}^{} = {}, what is the value of {}?'.format(a, b, c, c)
         ans = a ** b
@@ -208,6 +210,8 @@ if __name__ == '__main__':
         dataset.append(data)
 
     np.random.shuffle(dataset)
+
+    print(len(dataset))
 
     output_json_string = json.dumps(dataset)
     with open('makeup_questions.json', 'w+') as f:
