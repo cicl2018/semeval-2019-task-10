@@ -65,7 +65,7 @@ model.summary()
 
 # model = load_model("simple_model.h5")
 
-for iteration in range(1, 2):
+for iteration in range(1, 100):
     print()
     print('-' * 50)
     print('Iteration', iteration)
