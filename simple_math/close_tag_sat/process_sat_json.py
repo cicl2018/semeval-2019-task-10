@@ -11,7 +11,8 @@ def is_number(s):
     return match
 
 
-with open('original_closed_tag.json', 'r') as f:
+# with open('original_closed_tag.json', 'r') as f:
+with open('sat.train.json', 'r') as f:
     dataset = json.load(f)
 
 new_data = []
