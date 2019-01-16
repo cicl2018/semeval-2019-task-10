@@ -5,7 +5,7 @@ print('Preparing chars...')
 with open('makeup_questions.json') as f:
     data_train = json.load(f)
 
-with open('original_closed_tag.json') as f:
+with open('sat.train.json') as f:
     data_dev = json.load(f)
 
 data_all = data_train + data_dev
