@@ -46,7 +46,7 @@ def create_choices(ans, gap):
 
 
 if __name__ == '__main__':
-    TRAINING_SIZE = 1000
+    TRAINING_SIZE = 10000
     VARIABLES = list('abcdefghijklmnopqrstuvwxyz')
 
     questions = []
