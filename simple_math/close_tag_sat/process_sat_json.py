@@ -18,7 +18,7 @@ with open('sat.train.json', 'r') as f:
 new_data = []
 
 for data in dataset:
-    if 'choices' in data and len(data['question']) < 150:
+    if 'choices' in data and len(data['question']) < 650:
         answer = data['choices'][data['answer']]
         if is_number(answer):
             new_data.append(data)

@@ -15,7 +15,7 @@ print('Preparing chars end')
 input_table = InputChars(input_chars)
 output_chars = "0123456789- [],"
 output_table = OutputChars(output_chars)
-MAX_LENGTH_Q = 150
+MAX_LENGTH_Q = 650
 MAX_LENGTH_A = 5
 
 
