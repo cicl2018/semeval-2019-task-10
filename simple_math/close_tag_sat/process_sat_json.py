@@ -23,6 +23,7 @@ for data in dataset:
         if is_number(answer):
             new_data.append(data)
 
+print(len(new_data))
 
 new_data_output = json.dumps(new_data, indent=4)
 
