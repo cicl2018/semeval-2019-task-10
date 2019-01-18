@@ -2,6 +2,8 @@
 #### A cleaned up version is in close_tag_sat
 
 ##### Libraries:
+- all config are in config.py
+
 1. encode.py: encode and decode sequence to vec
 2. process_json_data.py: pre-process data in json into list
 
@@ -30,3 +32,10 @@
 - I have tried this model to our data, but I don't think it is working. See /simple_math/raw.py
 
 - Also, I have tridd this with simple algebra like "If x + 12 = 45, what is the value of x?". It is learning but not so good. I will try to run this with a large dataset and more iteration. See simple_algebra.py
+
+
+===========================================
+
+##### Stats
+
+1. 40_600k_650

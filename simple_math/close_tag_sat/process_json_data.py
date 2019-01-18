@@ -1,22 +1,6 @@
 import json
 from encode import InputChars, OutputChars
-
-print('Preparing chars...')
-with open('makeup_questions.json') as f:
-    data_train = json.load(f)
-
-with open('sat.train.json') as f:
-    data_dev = json.load(f)
-
-data_all = data_train + data_dev
-input_chars = sorted(set(str(data_all)))
-print('Preparing chars end')
-
-input_table = InputChars(input_chars)
-output_chars = "0123456789- [],"
-output_table = OutputChars(output_chars)
-MAX_LENGTH_Q = 650
-MAX_LENGTH_A = 5
+from config import *
 
 
 def process_data(file, size=0, predict=False, double=True, reverse=True):
@@ -83,4 +67,3 @@ def process_chars(char_list):
         chars.union(set(data))
 
     return chars
-

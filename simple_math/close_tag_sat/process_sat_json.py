@@ -1,5 +1,6 @@
 import json
 import re
+from config import *
 
 
 def is_number(s):
@@ -18,7 +19,7 @@ with open('sat.train.json', 'r') as f:
 new_data = []
 
 for data in dataset:
-    if 'choices' in data and len(data['question']) < 650:
+    if 'choices' in data and len(data['question']) < MAX_LENGTH_Q:
         answer = data['choices'][data['answer']]
         if is_number(answer):
             new_data.append(data)

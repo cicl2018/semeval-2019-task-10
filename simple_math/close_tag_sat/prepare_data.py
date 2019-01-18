@@ -1,6 +1,7 @@
 import numpy as np
 import json
 from encode import InputChars, OutputChars
+from config import *
 
 
 def random_num(digits=3):
@@ -46,7 +47,6 @@ def create_choices(ans, gap):
 
 
 if __name__ == '__main__':
-    TRAINING_SIZE = 10000
     VARIABLES = list('abcdefghijklmnopqrstuvwxyz')
 
     questions = []

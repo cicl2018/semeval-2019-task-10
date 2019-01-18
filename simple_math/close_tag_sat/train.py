@@ -6,6 +6,7 @@ from keras.preprocessing.sequence import pad_sequences
 import json
 from process_json_data import *
 from encode import *
+from config import *
 
 
 questions_train = []
@@ -28,30 +29,29 @@ answers_train += answers
 """
 Transfrom questions into vectors and pad_them
 """
-unpad_questions = [input_table.encode(i) for i in questions_train]
+unpad_questions = [INPUT_TABLE.encode(i) for i in questions_train]
 x = pad_sequences(unpad_questions, MAX_LENGTH_Q)
 
 """
 Encode the answer in to one-hot vectors
 """
 pad_answers = [i + ' ' * (MAX_LENGTH_A - len(i)) for i in answers_train]
-y = np.zeros((len(answers_train), MAX_LENGTH_A, len(output_chars)), dtype=np.bool)
+y = np.zeros((len(answers_train), MAX_LENGTH_A, len(OUTPUT_CHARS)), dtype=np.bool)
 for i, sentence in enumerate(answers_train):
-    y[i] = output_table.encode(sentence, MAX_LENGTH_A)
+    y[i] = OUTPUT_TABLE.encode(sentence, MAX_LENGTH_A)
 
 x_train = x
 y_train = y
 
 
 HIDDEN_SIZE = 128
-BATCH_SIZE = 1024
 LAYERS = 1
 
 print('Load model...')
 
-model = load_model("pre_trained_model_40_600k_650.h5")
+model = load_model(PRE_TRAIN_MODEL)
 
-for iteration in range(1, 40):
+for iteration in range(1, TRAIN_ITER):
     print()
     print('-' * 50)
     print('Iteration', iteration)
@@ -66,8 +66,8 @@ for iteration in range(1, 40):
         rowx, rowy = x_train[np.array([ind])], y_train[np.array([ind])]
         preds = model.predict_classes(rowx, verbose=0)
         # q = char_table.decode(rowx[0])
-        correct = output_table.decode(rowy[0])
-        guess = output_table.decode(preds[0], calc_argmax=False)
+        correct = OUTPUT_TABLE.decode(rowy[0])
+        guess = OUTPUT_TABLE.decode(preds[0], calc_argmax=False)
         # print('Q', q, end=' ')
         print('T', correct, end=' ')
         if correct == guess:
@@ -77,7 +77,7 @@ for iteration in range(1, 40):
         print(guess)
 
 
-model.save('well_trained_model_40_600k_650_40.h5')
+model.save(TRAINED_MODEL)
 
 
 
