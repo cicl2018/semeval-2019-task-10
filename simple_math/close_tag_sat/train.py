@@ -44,14 +44,14 @@ y_train = y
 
 
 HIDDEN_SIZE = 128
-BATCH_SIZE = 128
+BATCH_SIZE = 1024
 LAYERS = 1
 
 print('Load model...')
 
-model = load_model("pre_trained_model.h5")
+model = load_model("pre_trained_model_40_600k_650.h5")
 
-for iteration in range(1, 10):
+for iteration in range(1, 40):
     print()
     print('-' * 50)
     print('Iteration', iteration)
@@ -77,7 +77,7 @@ for iteration in range(1, 10):
         print(guess)
 
 
-model.save('well_trained_model.h5')
+model.save('well_trained_model_40_600k_650_40.h5')
 
 
 
