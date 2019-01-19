@@ -34,8 +34,11 @@ class InputChars:
     def encode(self, s):
         return [self.to_index(c) for c in s]
 
+    # if unseen char, treat as space
     def to_index(self, c):
-        return self.char_indices[c] + 1
+        if c in self.char_indices:
+            return self.char_indices[c] + 1
+        return self.char_indices[" "] + 1
 
 
 class Colors:
