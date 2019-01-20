@@ -1,5 +1,6 @@
 import re
 import json
+import numpy
 
 def preprocessing_answers(answer):
 	begin_of_re = '(?:(?<=\\s)|(?<=^))'
@@ -138,6 +139,44 @@ def extracting_answers(line):
 			# add array with quantity and possibly its unit to the array of all quantities
 			quantities.append(quantity)
 
+	# this block turns latex fractions into floats
+	for quantity in quantities:
+		number1_found = False
+		number2_found = False
+		if quantity[0].startswith("\\frac"):
+			fraction = quantity[0]
+			print("fraction found")
+			for i in range(4, len(fraction)):
+				if fraction[i] == '{' and not number1_found:
+					print('n1 start')
+					start_index = i
+				if fraction[i] == '}' and not number1_found:
+					end_index = i
+					number1_found = True
+					print("n1 found")
+				if number1_found:
+					print(start_index, end_index)
+					number1 = fraction[start_index + 2: end_index - 1]
+					print(number1)
+					break
+
+			for i in range(end_index + 1, len(fraction)):
+				if fraction[i] == '{' and number1_found and not number2_found:
+					print('n2 start')
+					start_index = i
+				if fraction[i] == '}' and number1_found:
+					end_index = i
+					number2_found = True
+					print("number2 found")
+				if number2_found:
+					number2 = fraction[start_index + 2: end_index - 1]
+					print(number2)
+					break
+
+			if number1_found and number2_found and number1.isdigit() and number2.isdigit():
+				quantity[0] = str(numpy.round(int(number1) / int(number2), decimals=2))
+				print(quantity[0])
+
 	return quantities
 
 def extracting_questions(arr):
@@ -222,6 +261,43 @@ def extracting_questions(arr):
 		new_quantity = {}
 		# write quantities and possibly their units to new_quantity; add new_quantity to array of quantities
 		for quantity in quantities:
+			#this block turns latex fractions into floats
+			number1_found = False
+			number2_found = False
+			if quantity[0].startswith("\\frac"):
+				fraction = quantity[0]
+				print("fraction found")
+				for i in range(4, len(fraction)):
+					if fraction[i] == '{' and not number1_found:
+						print('n1 start')
+						start_index = i
+					if fraction[i] == '}' and not number1_found:
+						end_index = i
+						number1_found = True
+						print("n1 found")
+					if number1_found:
+						print(start_index, end_index)
+						number1 = fraction[start_index + 2 : end_index - 1]
+						print(number1)
+						break
+
+				for i in range(end_index + 1, len(fraction)):
+					if fraction[i] == '{' and number1_found and not number2_found:
+						print('n2 start')
+						start_index = i
+					if fraction[i] == '}' and number1_found:
+						end_index = i
+						number2_found = True
+						print("number2 found")
+					if number2_found:
+						number2 = fraction[start_index + 2: end_index - 1]
+						print(number2)
+						break
+
+				if number1_found and number2_found and number1.isdigit() and number2.isdigit():
+					quantity[0] = str(numpy.round(int(number1) / int(number2), decimals=2))
+					print(quantity[0])
+			#block ends
 			# print(quantity[0] + ' ' + quantity[1] + ', ')
 			new_quantity['value'] = quantity[0]
 			new_quantity['unit'] = quantity[1]
@@ -249,11 +325,11 @@ def extracting_questions(arr):
 # extracting([testline])
 
 # running on whole training set
-with open('../semeval-2019-task-10-master/data_analysis/open_tag.json') as file:
+with open('../data_analysis/open_tag.json') as file:
 	questions = json.load(file)
 
 new_questions = preprocessing_questions(questions)
 new_questions = extracting_questions(new_questions)
 
 with open('./modified_questions.json', 'w') as file:
-	json.dump(new_questions, file)
+	json.dump(new_questions, file, indent= 4)
