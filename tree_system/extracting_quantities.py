@@ -255,6 +255,9 @@ def latex_to_decimal(string):
 	number0_found = False
 	number1_found = False
 	number2_found = False
+	if string[0].isdigit():
+		number0 = string[0]
+		number0_found = True
 	if "\\frac" in string:
 		fraction = string
 		for i in range(4, len(fraction)):
