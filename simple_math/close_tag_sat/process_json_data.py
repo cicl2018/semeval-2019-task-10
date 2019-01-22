@@ -22,6 +22,9 @@ def process_data(file, size=0, predict=False, double=True, reverse=True):
                 question = question[::-1]
             questions.append(question)
 
+            if "choices" not in data:
+                continue
+
             answer = data['choices'][data['answer']]
             answers.append(answer)
 
