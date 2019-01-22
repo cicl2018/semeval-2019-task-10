@@ -139,47 +139,11 @@ def extracting_answers(line):
 			# add array with quantity and possibly its unit to the array of all quantities
 			quantities.append(quantity)
 
-	# this block turns latex fractions into floats
 	for quantity in quantities:
-		number0_found = False
-		number1_found = False
-		number2_found = False
 		if "\\frac" in quantity[0]:
-			fraction = quantity[0]
-			if fraction[0].isdigit():
-				number0 = fraction[0]
-				number0_found = True
-			for i in range(4, len(fraction)):
-				if fraction[i] == '{' and not number1_found:
-					start_index = i
-				if fraction[i] == '}' and not number1_found:
-					end_index = i
-					number1_found = True
-				if number1_found:
-					number1 = fraction[start_index + 2: end_index - 1]
-					if not number1.isdigit():
-						number1 = fraction[start_index + 1: end_index]
-					break
-
-			for i in range(end_index + 1, len(fraction)):
-				if fraction[i] == '{' and number1_found and not number2_found:
-					start_index = i
-				if fraction[i] == '}' and number1_found:
-					end_index = i
-					number2_found = True
-				if number2_found:
-					number2 = fraction[start_index + 2: end_index - 1]
-					if not number2.isdigit():
-						number2 = fraction[start_index + 1: end_index]
-					break
-
-			if number1_found and number2_found and number1.isdigit() and number2.isdigit():
-				if number0_found:
-					quantity[0] = str(int(number0) + numpy.round(int(number1) / int(number2), decimals=2))
-					number0_found = False
-				else:
-					quantity[0] = str(numpy.round(int(number1) / int(number2), decimals=2))
-	# block ends
+			new_quantity = latex_to_decimal(quantity)
+			quantities.remove(quantity)
+			quantities.append(new_quantity)
 
 	return quantities
 
@@ -265,46 +229,8 @@ def extracting_questions(arr):
 		new_quantity = {}
 		# write quantities and possibly their units to new_quantity; add new_quantity to array of quantities
 		for quantity in quantities:
-			#this block turns latex fractions into floats
-			number0_found = False
-			number1_found = False
-			number2_found = False
 			if "\\frac" in quantity[0]:
-				fraction = quantity[0]
-				if fraction[0].isdigit():
-					number0 = fraction[0]
-					number0_found = True
-				for i in range(4, len(fraction)):
-					if fraction[i] == '{' and not number1_found:
-						start_index = i
-					if fraction[i] == '}' and not number1_found:
-						end_index = i
-						number1_found = True
-					if number1_found:
-						number1 = fraction[start_index + 2 : end_index - 1]
-						if not number1.isdigit():
-							number1 = fraction[start_index + 1 : end_index]
-						break
-
-				for i in range(end_index + 1, len(fraction)):
-					if fraction[i] == '{' and number1_found and not number2_found:
-						start_index = i
-					if fraction[i] == '}' and number1_found:
-						end_index = i
-						number2_found = True
-					if number2_found:
-						number2 = fraction[start_index + 2: end_index - 1]
-						if not number2.isdigit():
-							number2 = fraction[start_index + 1 : end_index]
-						break
-
-				if number1_found and number2_found and number1.isdigit() and number2.isdigit():
-					if number0_found:
-						quantity[0] = str(int(number0) + numpy.round(int(number1) / int(number2), decimals=2))
-						number0_found = False
-					else:
-						quantity[0] = str(numpy.round(int(number1) / int(number2), decimals=2))
-			#block ends
+				quantity = latex_to_decimal(quantity)
 
 			# print(quantity[0] + ' ' + quantity[1] + ', ')
 			new_quantity['value'] = quantity[0]
@@ -332,7 +258,52 @@ def extracting_questions(arr):
 # testline = 'Last Christmas $1.50, $2,000, $20, 1.5%, 2,000%, 20%, \\$30, 30\\%, 13-inch, 13.5-inch, 3,000-inch, 56, 3.5, 3,000, \\(13 \\frac{1}{16}\\), \\(n = (x)2^{\\frac{t}{3}}\\), \\(p\\), m I gave your my heart'
 # extracting([testline])
 
-# running on whole training set
+
+def latex_to_decimal(quantity):
+	"""
+	Function that turns a quantity containing latex fractions into the corresponding decimal
+	"""
+	number0_found = False
+	number1_found = False
+	number2_found = False
+	fraction = quantity[0]
+	if fraction[0].isdigit():
+		number0 = fraction[0]
+		number0_found = True
+	for i in range(4, len(fraction)):
+		if fraction[i] == '{' and not number1_found:
+			start_index = i
+		if fraction[i] == '}' and not number1_found:
+			end_index = i
+			number1_found = True
+		if number1_found:
+			number1 = fraction[start_index + 2: end_index - 1]
+			if not number1.isdigit():
+				number1 = fraction[start_index + 1: end_index]
+			break
+
+	for i in range(end_index + 1, len(fraction)):
+		if fraction[i] == '{' and number1_found and not number2_found:
+			start_index = i
+		if fraction[i] == '}' and number1_found:
+			end_index = i
+			number2_found = True
+		if number2_found:
+			number2 = fraction[start_index + 2: end_index - 1]
+			if not number2.isdigit():
+				number2 = fraction[start_index + 1: end_index]
+			break
+
+	if number1_found and number2_found and number1.isdigit() and number2.isdigit():
+		if number0_found:
+			quantity[0] = str(int(number0) + numpy.round(int(number1) / int(number2), decimals=2))
+			number0_found = False
+		else:
+			quantity[0] = str(numpy.round(int(number1) / int(number2), decimals=2))
+
+	return quantity
+
+
 with open('../data_analysis/open_tag.json') as file:
 	questions = json.load(file)
 
