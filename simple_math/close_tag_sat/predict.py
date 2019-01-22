@@ -171,6 +171,8 @@ total = 0
 match = 0
 
 for i in range(len(x_train)):
+    print(i, "/", len(x_train), end="\r")
+
     rowx, rowy = x_train[np.array([i])], y_train[np.array([i])]
     preds = trained_model.predict_classes(rowx, verbose=0)
     # q = char_table.decode(rowx[0])
