@@ -25,21 +25,6 @@
         "error": 1
     },
     {
-        "id": 30008,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30009,
-        "answer": "B",
-        "error": 2
-    },
-    {
-        "id": 30010,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30011,
         "answer": "A",
         "error": 0
@@ -48,11 +33,6 @@
         "id": 30013,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30014,
-        "answer": "A",
-        "error": 2
     },
     {
         "id": 30018,
@@ -70,11 +50,6 @@
         "error": 0
     },
     {
-        "id": 30021,
-        "answer": "B",
-        "error": 3
-    },
-    {
         "id": 30022,
         "answer": "A",
         "error": 1
@@ -83,21 +58,6 @@
         "id": 30023,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30024,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30025,
-        "answer": "D",
-        "error": 5
-    },
-    {
-        "id": 30026,
-        "answer": "A",
-        "error": 5
     },
     {
         "id": 30027,
@@ -115,11 +75,6 @@
         "error": 1
     },
     {
-        "id": 30035,
-        "answer": "D",
-        "error": 3
-    },
-    {
         "id": 30038,
         "answer": "B",
         "error": 1
@@ -135,26 +90,6 @@
         "error": 0
     },
     {
-        "id": 30043,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30044,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30045,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30046,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30048,
         "answer": "A",
         "error": 1
@@ -165,64 +100,9 @@
         "error": 1
     },
     {
-        "id": 30050,
-        "answer": "D",
-        "error": 2
-    },
-    {
-        "id": 30051,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30052,
         "answer": "D",
         "error": 0
-    },
-    {
-        "id": 30053,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30055,
-        "answer": "C",
-        "error": 3
-    },
-    {
-        "id": 30059,
-        "answer": "A",
-        "error": 2
-    },
-    {
-        "id": 30063,
-        "answer": "A",
-        "error": 2
-    },
-    {
-        "id": 30064,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30066,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30069,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30070,
-        "answer": "A",
-        "error": 2
-    },
-    {
-        "id": 30072,
-        "answer": "B",
-        "error": 3
     },
     {
         "id": 30077,
@@ -250,19 +130,9 @@
         "error": 1
     },
     {
-        "id": 30085,
-        "answer": "A",
-        "error": 2
-    },
-    {
         "id": 30086,
         "answer": "A",
         "error": 0
-    },
-    {
-        "id": 30087,
-        "answer": "D",
-        "error": 3
     },
     {
         "id": 30088,
@@ -275,16 +145,6 @@
         "error": 1
     },
     {
-        "id": 30097,
-        "answer": "A",
-        "error": 2
-    },
-    {
-        "id": 30101,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30102,
         "answer": "B",
         "error": 0
@@ -293,11 +153,6 @@
         "id": 30103,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30106,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30107,
@@ -315,11 +170,6 @@
         "error": 1
     },
     {
-        "id": 30115,
-        "answer": "B",
-        "error": 3
-    },
-    {
         "id": 30116,
         "answer": "A",
         "error": 1
@@ -335,11 +185,6 @@
         "error": 1
     },
     {
-        "id": 30119,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30120,
         "answer": "B",
         "error": 1
@@ -348,11 +193,6 @@
         "id": 30121,
         "answer": "C",
         "error": 1
-    },
-    {
-        "id": 30125,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30126,
@@ -390,11 +230,6 @@
         "error": 1
     },
     {
-        "id": 30137,
-        "answer": "A",
-        "error": 2
-    },
-    {
         "id": 30138,
         "answer": "A",
         "error": 1
@@ -420,29 +255,9 @@
         "error": 1
     },
     {
-        "id": 30146,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30147,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30148,
-        "answer": "A",
-        "error": 5
-    },
-    {
-        "id": 30149,
-        "answer": "A",
-        "error": 5
-    },
-    {
-        "id": 30150,
-        "answer": "A",
-        "error": 5
     },
     {
         "id": 30151,
@@ -470,26 +285,6 @@
         "error": 1
     },
     {
-        "id": 30158,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30159,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30161,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30164,
-        "answer": "B",
-        "error": 2
-    },
-    {
         "id": 30167,
         "answer": "A",
         "error": 1
@@ -503,11 +298,6 @@
         "id": 30169,
         "answer": "D",
         "error": 1
-    },
-    {
-        "id": 30170,
-        "answer": "A",
-        "error": 2
     },
     {
         "id": 30171,
@@ -555,16 +345,6 @@
         "error": 1
     },
     {
-        "id": 30192,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30194,
-        "answer": "D",
-        "error": 4
-    },
-    {
         "id": 30195,
         "answer": "C",
         "error": 1
@@ -575,54 +355,14 @@
         "error": 1
     },
     {
-        "id": 30197,
-        "answer": "C",
-        "error": 2
-    },
-    {
         "id": 30198,
         "answer": "C",
         "error": 1
     },
     {
-        "id": 30202,
-        "answer": "A",
-        "error": 2
-    },
-    {
-        "id": 30206,
-        "answer": "A",
-        "error": 2
-    },
-    {
-        "id": 30207,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30212,
         "answer": "A",
         "error": 0
-    },
-    {
-        "id": 30213,
-        "answer": "B",
-        "error": 2
-    },
-    {
-        "id": 30214,
-        "answer": "D",
-        "error": 2
-    },
-    {
-        "id": 30215,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30216,
-        "answer": "B",
-        "error": 4
     },
     {
         "id": 30222,
@@ -640,39 +380,14 @@
         "error": 1
     },
     {
-        "id": 30226,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30227,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30232,
         "answer": "B",
         "error": 1
     },
     {
-        "id": 30233,
-        "answer": "A",
-        "error": 2
-    },
-    {
         "id": 30234,
         "answer": "C",
         "error": 1
-    },
-    {
-        "id": 30235,
-        "answer": "C",
-        "error": 2
-    },
-    {
-        "id": 30237,
-        "answer": "B",
-        "error": 2
     },
     {
         "id": 30238,
@@ -685,39 +400,14 @@
         "error": 1
     },
     {
-        "id": 30240,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30241,
         "answer": "A",
         "error": 1
     },
     {
-        "id": 30245,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30246,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30249,
-        "answer": "B",
-        "error": 2
-    },
-    {
         "id": 30250,
         "answer": "B",
         "error": 0
-    },
-    {
-        "id": 30251,
-        "answer": "D",
-        "error": 2
     },
     {
         "id": 30253,
@@ -728,11 +418,6 @@
         "id": 30254,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30255,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30256,
@@ -770,29 +455,9 @@
         "error": 1
     },
     {
-        "id": 30265,
-        "answer": "B",
-        "error": 3
-    },
-    {
-        "id": 30269,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30271,
-        "answer": "C",
-        "error": 2
-    },
-    {
         "id": 30272,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30274,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30275,
@@ -815,24 +480,9 @@
         "error": 1
     },
     {
-        "id": 30282,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30284,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30287,
-        "answer": "D",
-        "error": 5
-    },
-    {
-        "id": 30289,
-        "answer": "A",
-        "error": 4
     },
     {
         "id": 30290,
@@ -875,34 +525,14 @@
         "error": 1
     },
     {
-        "id": 30306,
-        "answer": "C",
-        "error": 3
-    },
-    {
         "id": 30307,
         "answer": "D",
         "error": 1
     },
     {
-        "id": 30308,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30309,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30310,
         "answer": "C",
         "error": 1
-    },
-    {
-        "id": 30311,
-        "answer": "A",
-        "error": 2
     },
     {
         "id": 30312,
@@ -920,24 +550,9 @@
         "error": 1
     },
     {
-        "id": 30315,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30317,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30318,
         "answer": "B",
         "error": 0
-    },
-    {
-        "id": 30321,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30326,
@@ -948,11 +563,6 @@
         "id": 30327,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30328,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30329,
@@ -968,11 +578,6 @@
         "id": 30331,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30332,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30333,
@@ -1010,16 +615,6 @@
         "error": 1
     },
     {
-        "id": 30340,
-        "answer": "B",
-        "error": 2
-    },
-    {
-        "id": 30343,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30344,
         "answer": "B",
         "error": 0
@@ -1040,24 +635,9 @@
         "error": 1
     },
     {
-        "id": 30349,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30351,
-        "answer": "A",
-        "error": 2
-    },
-    {
         "id": 30352,
         "answer": "C",
         "error": 1
-    },
-    {
-        "id": 30353,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30354,
@@ -1098,11 +678,6 @@
         "id": 30367,
         "answer": "B",
         "error": 0
-    },
-    {
-        "id": 30368,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30369,
@@ -1155,11 +730,6 @@
         "error": 0
     },
     {
-        "id": 30385,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30388,
         "answer": "D",
         "error": 0
@@ -1173,11 +743,6 @@
         "id": 30390,
         "answer": "D",
         "error": 0
-    },
-    {
-        "id": 30391,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30392,
@@ -1215,21 +780,6 @@
         "error": 1
     },
     {
-        "id": 30403,
-        "answer": "A",
-        "error": 2
-    },
-    {
-        "id": 30404,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30405,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30406,
         "answer": "A",
         "error": 1
@@ -1243,11 +793,6 @@
         "id": 30411,
         "answer": "C",
         "error": 1
-    },
-    {
-        "id": 30412,
-        "answer": "C",
-        "error": 2
     },
     {
         "id": 30413,
@@ -1273,16 +818,6 @@
         "id": 30422,
         "answer": "A",
         "error": 0
-    },
-    {
-        "id": 30426,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30431,
-        "answer": "D",
-        "error": 4
     },
     {
         "id": 30432,
@@ -1350,16 +885,6 @@
         "error": 1
     },
     {
-        "id": 30461,
-        "answer": "A",
-        "error": 2
-    },
-    {
-        "id": 30462,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30463,
         "answer": "B",
         "error": 0
@@ -1383,16 +908,6 @@
         "id": 30468,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30469,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30470,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30471,
@@ -1433,16 +948,6 @@
         "id": 30481,
         "answer": "C",
         "error": 1
-    },
-    {
-        "id": 30483,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30486,
-        "answer": "A",
-        "error": 2
     },
     {
         "id": 30487,
@@ -1500,29 +1005,9 @@
         "error": 0
     },
     {
-        "id": 30504,
-        "answer": "B",
-        "error": 3
-    },
-    {
-        "id": 30505,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30506,
-        "answer": "A",
-        "error": 2
-    },
-    {
         "id": 30508,
         "answer": "C",
         "error": 0
-    },
-    {
-        "id": 30509,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30510,
@@ -1550,16 +1035,6 @@
         "error": 1
     },
     {
-        "id": 30519,
-        "answer": "B",
-        "error": 2
-    },
-    {
-        "id": 30520,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30521,
         "answer": "A",
         "error": 1
@@ -1585,19 +1060,9 @@
         "error": 1
     },
     {
-        "id": 30527,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30530,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30531,
-        "answer": "B",
-        "error": 2
     },
     {
         "id": 30532,
@@ -1610,11 +1075,6 @@
         "error": 1
     },
     {
-        "id": 30534,
-        "answer": "B",
-        "error": 2
-    },
-    {
         "id": 30535,
         "answer": "D",
         "error": 0
@@ -1625,11 +1085,6 @@
         "error": 1
     },
     {
-        "id": 30537,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30538,
         "answer": "A",
         "error": 1
@@ -1638,11 +1093,6 @@
         "id": 30539,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30540,
-        "answer": "A",
-        "error": 2
     },
     {
         "id": 30541,
@@ -1685,11 +1135,6 @@
         "error": 0
     },
     {
-        "id": 30549,
-        "answer": "B",
-        "error": 2
-    },
-    {
         "id": 30550,
         "answer": "D",
         "error": 0
@@ -1700,19 +1145,9 @@
         "error": 1
     },
     {
-        "id": 30552,
-        "answer": "D",
-        "error": 3
-    },
-    {
         "id": 30553,
         "answer": "D",
         "error": 0
-    },
-    {
-        "id": 30556,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30557,
@@ -1745,11 +1180,6 @@
         "error": 1
     },
     {
-        "id": 30571,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30572,
         "answer": "B",
         "error": 1
@@ -1758,16 +1188,6 @@
         "id": 30573,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30574,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30575,
-        "answer": "B",
-        "error": 2
     },
     {
         "id": 30576,
@@ -1780,29 +1200,9 @@
         "error": 1
     },
     {
-        "id": 30579,
-        "answer": "D",
-        "error": 2
-    },
-    {
-        "id": 30581,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30582,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30589,
         "answer": "D",
         "error": 0
-    },
-    {
-        "id": 30590,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30592,
@@ -1825,29 +1225,9 @@
         "error": 1
     },
     {
-        "id": 30596,
-        "answer": "B",
-        "error": 3
-    },
-    {
-        "id": 30598,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30599,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30600,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30601,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30604,
@@ -1858,11 +1238,6 @@
         "id": 30605,
         "answer": "B",
         "error": 1
-    },
-    {
-        "id": 30606,
-        "answer": "C",
-        "error": 2
     },
     {
         "id": 30609,
@@ -1920,11 +1295,6 @@
         "error": 0
     },
     {
-        "id": 30638,
-        "answer": "C",
-        "error": 3
-    },
-    {
         "id": 30639,
         "answer": "B",
         "error": 0
@@ -1945,39 +1315,14 @@
         "error": 1
     },
     {
-        "id": 30644,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30647,
-        "answer": "B",
-        "error": 3
-    },
-    {
-        "id": 30648,
-        "answer": "A",
-        "error": 2
-    },
-    {
         "id": 30650,
         "answer": "A",
         "error": 1
     },
     {
-        "id": 30652,
-        "answer": "A",
-        "error": 2
-    },
-    {
         "id": 30654,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30655,
-        "answer": "A",
-        "error": 2
     },
     {
         "id": 30656,
@@ -2045,11 +1390,6 @@
         "error": 1
     },
     {
-        "id": 30679,
-        "answer": "B",
-        "error": 2
-    },
-    {
         "id": 30682,
         "answer": "A",
         "error": 1
@@ -2078,11 +1418,6 @@
         "id": 30689,
         "answer": "B",
         "error": 1
-    },
-    {
-        "id": 30690,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30691,
@@ -2115,34 +1450,9 @@
         "error": 1
     },
     {
-        "id": 30702,
-        "answer": "C",
-        "error": 3
-    },
-    {
-        "id": 30704,
-        "answer": "C",
-        "error": 2
-    },
-    {
-        "id": 30705,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30706,
-        "answer": "B",
-        "error": 3
-    },
-    {
         "id": 30709,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30710,
-        "answer": "D",
-        "error": 2
     },
     {
         "id": 30711,
@@ -2165,74 +1475,14 @@
         "error": 1
     },
     {
-        "id": 30715,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30716,
-        "answer": "B",
-        "error": 3
-    },
-    {
-        "id": 30717,
-        "answer": "D",
-        "error": 2
-    },
-    {
-        "id": 30718,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30719,
         "answer": "B",
         "error": 1
     },
     {
-        "id": 30720,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30722,
-        "answer": "B",
-        "error": 2
-    },
-    {
-        "id": 30724,
-        "answer": "C",
-        "error": 5
-    },
-    {
-        "id": 30725,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30727,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30730,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30731,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30732,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30735,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30736,
@@ -2255,24 +1505,9 @@
         "error": 0
     },
     {
-        "id": 30740,
-        "answer": "A",
-        "error": 5
-    },
-    {
-        "id": 30746,
-        "answer": "A",
-        "error": 2
-    },
-    {
         "id": 30751,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30753,
-        "answer": "C",
-        "error": 3
     },
     {
         "id": 30754,
@@ -2285,19 +1520,9 @@
         "error": 0
     },
     {
-        "id": 30758,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30759,
         "answer": "B",
         "error": 1
-    },
-    {
-        "id": 30760,
-        "answer": "A",
-        "error": 2
     },
     {
         "id": 30761,
@@ -2320,19 +1545,9 @@
         "error": 1
     },
     {
-        "id": 30767,
-        "answer": "A",
-        "error": 2
-    },
-    {
         "id": 30769,
         "answer": "C",
         "error": 0
-    },
-    {
-        "id": 30770,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30771,
@@ -2343,11 +1558,6 @@
         "id": 30772,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30773,
-        "answer": "B",
-        "error": 2
     },
     {
         "id": 30775,
@@ -2370,44 +1580,9 @@
         "error": 1
     },
     {
-        "id": 30782,
-        "answer": "B",
-        "error": 3
-    },
-    {
-        "id": 30783,
-        "answer": "B",
-        "error": 3
-    },
-    {
-        "id": 30789,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30790,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30791,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30793,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30794,
-        "answer": "B",
-        "error": 3
-    },
-    {
-        "id": 30796,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30797,
@@ -2435,54 +1610,14 @@
         "error": 1
     },
     {
-        "id": 30804,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30805,
         "answer": "D",
         "error": 1
     },
     {
-        "id": 30806,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30809,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30810,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30811,
-        "answer": "B",
-        "error": 3
-    },
-    {
-        "id": 30812,
-        "answer": "A",
-        "error": 5
-    },
-    {
-        "id": 30818,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30820,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30821,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30822,
@@ -2518,21 +1653,6 @@
         "id": 30833,
         "answer": "B",
         "error": 1
-    },
-    {
-        "id": 30835,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30838,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30841,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30842,
@@ -2580,44 +1700,9 @@
         "error": 1
     },
     {
-        "id": 30858,
-        "answer": "C",
-        "error": 4
-    },
-    {
-        "id": 30859,
-        "answer": "A",
-        "error": 5
-    },
-    {
-        "id": 30863,
-        "answer": "A",
-        "error": 2
-    },
-    {
-        "id": 30866,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30869,
-        "answer": "C",
-        "error": 3
-    },
-    {
-        "id": 30872,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30873,
         "answer": "C",
         "error": 1
-    },
-    {
-        "id": 30874,
-        "answer": "A",
-        "error": 2
     },
     {
         "id": 30875,
@@ -2635,11 +1720,6 @@
         "error": 1
     },
     {
-        "id": 30880,
-        "answer": "B",
-        "error": 2
-    },
-    {
         "id": 30882,
         "answer": "D",
         "error": 0
@@ -2653,11 +1733,6 @@
         "id": 30885,
         "answer": "C",
         "error": 1
-    },
-    {
-        "id": 30886,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30887,
@@ -2675,11 +1750,6 @@
         "error": 0
     },
     {
-        "id": 30894,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30895,
         "answer": "A",
         "error": 1
@@ -2695,11 +1765,6 @@
         "error": 1
     },
     {
-        "id": 30901,
-        "answer": "A",
-        "error": 2
-    },
-    {
         "id": 30902,
         "answer": "A",
         "error": 1
@@ -2710,11 +1775,6 @@
         "error": 1
     },
     {
-        "id": 30905,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30906,
         "answer": "A",
         "error": 1
@@ -2723,11 +1783,6 @@
         "id": 30907,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30908,
-        "answer": "D",
-        "error": 2
     },
     {
         "id": 30910,
@@ -2745,19 +1800,9 @@
         "error": 1
     },
     {
-        "id": 30920,
-        "answer": "A",
-        "error": 4
-    },
-    {
         "id": 30921,
         "answer": "D",
         "error": 1
-    },
-    {
-        "id": 30924,
-        "answer": "D",
-        "error": 3
     },
     {
         "id": 30925,
@@ -2768,11 +1813,6 @@
         "id": 30926,
         "answer": "A",
         "error": 0
-    },
-    {
-        "id": 30932,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30933,
@@ -2790,19 +1830,9 @@
         "error": 1
     },
     {
-        "id": 30937,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30939,
         "answer": "B",
         "error": 1
-    },
-    {
-        "id": 30940,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30941,
@@ -2830,39 +1860,9 @@
         "error": 1
     },
     {
-        "id": 30948,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30949,
-        "answer": "B",
-        "error": 2
-    },
-    {
-        "id": 30950,
-        "answer": "B",
-        "error": 2
-    },
-    {
         "id": 30951,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30953,
-        "answer": "B",
-        "error": 2
-    },
-    {
-        "id": 30954,
-        "answer": "B",
-        "error": 2
-    },
-    {
-        "id": 30955,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30958,
@@ -2880,16 +1880,6 @@
         "error": 1
     },
     {
-        "id": 30962,
-        "answer": "B",
-        "error": 3
-    },
-    {
-        "id": 30966,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30967,
         "answer": "A",
         "error": 0
@@ -2905,49 +1895,9 @@
         "error": 1
     },
     {
-        "id": 30970,
-        "answer": "B",
-        "error": 2
-    },
-    {
-        "id": 30971,
-        "answer": "C",
-        "error": 2
-    },
-    {
-        "id": 30972,
-        "answer": "A",
-        "error": 2
-    },
-    {
-        "id": 30974,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30975,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 30976,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30977,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30978,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 30979,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30980,
@@ -2960,11 +1910,6 @@
         "error": 0
     },
     {
-        "id": 30982,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30984,
         "answer": "A",
         "error": 1
@@ -2973,11 +1918,6 @@
         "id": 30985,
         "answer": "A",
         "error": 0
-    },
-    {
-        "id": 30986,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 30987,
@@ -3000,29 +1940,9 @@
         "error": 1
     },
     {
-        "id": 30992,
-        "answer": "C",
-        "error": 2
-    },
-    {
-        "id": 30995,
-        "answer": "C",
-        "error": 2
-    },
-    {
-        "id": 30996,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 30997,
         "answer": "A",
         "error": 0
-    },
-    {
-        "id": 31003,
-        "answer": "A",
-        "error": 2
     },
     {
         "id": 31004,
@@ -3040,19 +1960,9 @@
         "error": 0
     },
     {
-        "id": 31007,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 31008,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 31009,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 31011,
@@ -3085,29 +1995,14 @@
         "error": 0
     },
     {
-        "id": 31019,
-        "answer": "A",
-        "error": 3
-    },
-    {
         "id": 31020,
         "answer": "C",
         "error": 1
     },
     {
-        "id": 31021,
-        "answer": "B",
-        "error": 3
-    },
-    {
         "id": 31022,
         "answer": "A",
         "error": 0
-    },
-    {
-        "id": 31023,
-        "answer": "A",
-        "error": 2
     },
     {
         "id": 31024,
@@ -3125,11 +2020,6 @@
         "error": 1
     },
     {
-        "id": 31029,
-        "answer": "A",
-        "error": 2
-    },
-    {
         "id": 31030,
         "answer": "A",
         "error": 1
@@ -3143,11 +2033,6 @@
         "id": 31034,
         "answer": "C",
         "error": 0
-    },
-    {
-        "id": 31039,
-        "answer": "A",
-        "error": 3
     },
     {
         "id": 31040,
@@ -3170,54 +2055,14 @@
         "error": 1
     },
     {
-        "id": 31053,
-        "answer": "C",
-        "error": 2
-    },
-    {
-        "id": 31057,
-        "answer": "B",
-        "error": 3
-    },
-    {
-        "id": 31058,
-        "answer": "B",
-        "error": 3
-    },
-    {
         "id": 31059,
         "answer": "A",
         "error": 1
     },
     {
-        "id": 31062,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 31063,
-        "answer": "D",
-        "error": 2
-    },
-    {
-        "id": 31064,
-        "answer": "C",
-        "error": 3
-    },
-    {
         "id": 31065,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 31066,
-        "answer": "A",
-        "error": 3
-    },
-    {
-        "id": 31070,
-        "answer": "B",
-        "error": 2
     },
     {
         "id": 31072,
@@ -3238,11 +2083,6 @@
         "id": 31076,
         "answer": "A",
         "error": 1
-    },
-    {
-        "id": 31077,
-        "answer": "A",
-        "error": 2
     },
     {
         "id": 31079,

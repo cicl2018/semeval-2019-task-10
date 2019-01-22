@@ -1,0 +1,127 @@
+[
+    {
+        "id": 30000,
+        "answer": "A",
+        "error": 1
+    },
+    {
+        "id": 30001,
+        "answer": "A",
+        "error": 1
+    },
+    {
+        "id": 30002,
+        "answer": "A",
+        "error": 1
+    },
+    {
+        "id": 30004,
+        "answer": "A",
+        "error": 1
+    },
+    {
+        "id": 30005,
+        "answer": "C",
+        "error": 1
+    },
+    {
+        "id": 30006,
+        "answer": "A",
+        "error": 0
+    },
+    {
+        "id": 30007,
+        "answer": "A",
+        "error": 1
+    },
+    {
+        "id": 30008,
+        "answer": "A",
+        "error": 0
+    },
+    {
+        "id": 30019,
+        "answer": "C",
+        "error": 1
+    },
+    {
+        "id": 30020,
+        "answer": "D",
+        "error": 0
+    },
+    {
+        "id": 30022,
+        "answer": "A",
+        "error": 1
+    },
+    {
+        "id": 30023,
+        "answer": "A",
+        "error": 1
+    },
+    {
+        "id": 30027,
+        "answer": "A",
+        "error": 1
+    },
+    {
+        "id": 30030,
+        "answer": "C",
+        "error": 1
+    },
+    {
+        "id": 30031,
+        "answer": "C",
+        "error": 1
+    },
+    {
+        "id": 30038,
+        "answer": "B",
+        "error": 1
+    },
+    {
+        "id": 30040,
+        "answer": "A",
+        "error": 1
+    },
+    {
+        "id": 30042,
+        "answer": "D",
+        "error": 0
+    },
+    {
+        "id": 30048,
+        "answer": "A",
+        "error": 1
+    },
+    {
+        "id": 30049,
+        "answer": "A",
+        "error": 1
+    },
+    {
+        "id": 30052,
+        "answer": "D",
+        "error": 0
+    },
+    {
+        "id": 30077,
+        "answer": "B",
+        "error": 0
+    },
+    {
+        "id": 30078,
+        "answer": "A",
+        "error": 1
+    },
+    {
+        "id": 30082,
+        "answer": "C",
+        "error": 1
+    },
+    {
+        "id": 30083,
+        "answer": "C",
+        "error": 1
+    }
+]

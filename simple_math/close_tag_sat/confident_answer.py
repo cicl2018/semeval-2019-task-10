@@ -116,14 +116,15 @@ for i in range(len(questions)):
 
     guess = OUTPUT_TABLE.decode(pred[0], calc_argmax=False)
 
-    guess_choice, confident = choose_ans(guess, choices[i])
+    guess_choice, error = choose_ans(guess, choices[i])
 
-    if confident > 0:
+    if error > 10:
         continue
 
     output = dict()
     output['id'] = ids[i]
     output['answer'] = guess_choice
+    output['error'] = error
 
     output_json.append(output)
 
