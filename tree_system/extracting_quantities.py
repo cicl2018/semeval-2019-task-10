@@ -300,6 +300,7 @@ def latex_to_decimal(quantity):
 			number0_found = False
 		else:
 			quantity[0] = str(numpy.round(int(number1) / int(number2), decimals=2))
+	else: return None
 
 	return quantity
 
