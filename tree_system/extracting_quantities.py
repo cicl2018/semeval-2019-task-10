@@ -141,7 +141,7 @@ def extracting_answers(line):
 
 	for quantity in quantities:
 		if "\\frac" in quantity[0]:
-			new_quantity = latex_to_decimal(quantity)
+			new_quantity = quantity_latex_to_decimal(quantity)
 			quantities.remove(quantity)
 			quantities.append(new_quantity)
 
@@ -230,7 +230,7 @@ def extracting_questions(arr):
 		# write quantities and possibly their units to new_quantity; add new_quantity to array of quantities
 		for quantity in quantities:
 			if "\\frac" in quantity[0]:
-				quantity = latex_to_decimal(quantity)
+				quantity = quantity_latex_to_decimal(quantity)
 
 			# print(quantity[0] + ' ' + quantity[1] + ', ')
 			new_quantity['value'] = quantity[0]
@@ -251,6 +251,47 @@ def extracting_questions(arr):
 
 	return new_arr
 
+def latex_to_decimal(string):
+	number0_found = False
+	number1_found = False
+	number2_found = False
+	if "\\frac" in string:
+		fraction = string
+		for i in range(4, len(fraction)):
+			if fraction[i] == '{' and not number1_found:
+				start_index = i
+			if fraction[i] == '}' and not number1_found:
+				end_index = i
+				number1_found = True
+			if number1_found:
+				number1 = fraction[start_index + 2: end_index - 1]
+				if not number1.isdigit():
+					number1 = fraction[start_index + 1: end_index]
+				break
+
+		for i in range(end_index + 1, len(fraction)):
+			if fraction[i] == '{' and number1_found and not number2_found:
+				start_index = i
+			if fraction[i] == '}' and number1_found:
+				end_index = i
+				number2_found = True
+			if number2_found:
+				number2 = fraction[start_index + 2: end_index - 1]
+				if not number2.isdigit():
+					number2 = fraction[start_index + 1: end_index]
+				break
+
+		if number1_found and number2_found and number1.isdigit() and number2.isdigit():
+			if number0_found:
+				decimal = str(int(number0) + numpy.round(int(number1) / int(number2), decimals=2))
+				number0_found = False
+			else:
+				decimal = str(numpy.round(int(number1) / int(number2), decimals=2))
+		else: return None
+	else: return None
+
+	return decimal
+
 	# close file for checking
 	# file.close()
 
@@ -259,7 +300,7 @@ def extracting_questions(arr):
 # extracting([testline])
 
 
-def latex_to_decimal(quantity):
+def quantity_latex_to_decimal(quantity):
 	"""
 	Function that turns a quantity containing latex fractions into the corresponding decimal
 	"""
