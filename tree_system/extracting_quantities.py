@@ -256,8 +256,11 @@ def latex_to_decimal(string):
 	number1_found = False
 	number2_found = False
 	if string[0].isdigit():
-		number0 = string[0]
 		number0_found = True
+		if string[1].isdigit():
+			number0 = string[:2]
+		else:
+			number0 = string[0]
 	if "\\frac" in string:
 		fraction = string
 		for i in range(4, len(fraction)):
@@ -268,7 +271,7 @@ def latex_to_decimal(string):
 				number1_found = True
 			if number1_found:
 				number1 = fraction[start_index + 2: end_index - 1]
-				if not number1.isdigit():
+				if not number1.isdigit() or number1 == '0':
 					number1 = fraction[start_index + 1: end_index]
 				break
 
@@ -280,7 +283,7 @@ def latex_to_decimal(string):
 				number2_found = True
 			if number2_found:
 				number2 = fraction[start_index + 2: end_index - 1]
-				if not number2.isdigit():
+				if not number2.isdigit() or number2 == '0':
 					number2 = fraction[start_index + 1: end_index]
 				break
 
@@ -312,8 +315,11 @@ def quantity_latex_to_decimal(quantity):
 	number2_found = False
 	fraction = quantity[0]
 	if fraction[0].isdigit():
-		number0 = fraction[0]
 		number0_found = True
+		if fraction[1].isdigit():
+			number0 = fraction[:2]
+		else:
+			number0 = fraction[0]
 	for i in range(4, len(fraction)):
 		if fraction[i] == '{' and not number1_found:
 			start_index = i
@@ -322,7 +328,7 @@ def quantity_latex_to_decimal(quantity):
 			number1_found = True
 		if number1_found:
 			number1 = fraction[start_index + 2: end_index - 1]
-			if not number1.isdigit():
+			if not number1.isdigit() or number1 == 0:
 				number1 = fraction[start_index + 1: end_index]
 			break
 
@@ -334,7 +340,7 @@ def quantity_latex_to_decimal(quantity):
 			number2_found = True
 		if number2_found:
 			number2 = fraction[start_index + 2: end_index - 1]
-			if not number2.isdigit():
+			if not number2.isdigit() or number2 == 0:
 				number2 = fraction[start_index + 1: end_index]
 			break
 
@@ -348,6 +354,7 @@ def quantity_latex_to_decimal(quantity):
 
 	return quantity
 
+x = latex_to_decimal('\\frac{1}{100}')
 
 with open('../data_analysis/open_tag.json') as file:
 	questions = json.load(file)
