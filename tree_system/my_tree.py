@@ -68,6 +68,18 @@ class Node(object):
 
     return arr_triples
 
+  def get_leaves(self):
+    arr_leaves = []
+
+    if self.left:
+      arr_leaves += self.left.get_leaves()
+    if self.right:
+      arr_leaves += self.right.get_leaves()
+    if not self.left and not self.right:
+      arr_leaves += self.data
+
+  return arr_leaves[]
+
 
   # def depth(self):
   #   left_depth = self.left.depth() if self.left else 0
