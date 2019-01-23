@@ -271,7 +271,7 @@ def latex_to_decimal(string):
 				number1_found = True
 			if number1_found:
 				number1 = fraction[start_index + 2: end_index - 1]
-				if not number1.isdigit() or number1 == '0':
+				if not number1.isdigit() or fraction[end_index - 1].isdigit():
 					number1 = fraction[start_index + 1: end_index]
 				break
 
@@ -283,7 +283,7 @@ def latex_to_decimal(string):
 				number2_found = True
 			if number2_found:
 				number2 = fraction[start_index + 2: end_index - 1]
-				if not number2.isdigit() or number2 == '0':
+				if not number2.isdigit() or fraction[end_index - 1].isdigit():
 					number2 = fraction[start_index + 1: end_index]
 				break
 
@@ -328,7 +328,7 @@ def quantity_latex_to_decimal(quantity):
 			number1_found = True
 		if number1_found:
 			number1 = fraction[start_index + 2: end_index - 1]
-			if not number1.isdigit() or number1 == 0:
+			if not number1.isdigit() or fraction[end_index - 1].isdigit():
 				number1 = fraction[start_index + 1: end_index]
 			break
 
@@ -340,7 +340,7 @@ def quantity_latex_to_decimal(quantity):
 			number2_found = True
 		if number2_found:
 			number2 = fraction[start_index + 2: end_index - 1]
-			if not number2.isdigit() or number2 == 0:
+			if not number2.isdigit() or fraction[end_index - 1].isdigit():
 				number2 = fraction[start_index + 1: end_index]
 			break
 
@@ -354,7 +354,6 @@ def quantity_latex_to_decimal(quantity):
 
 	return quantity
 
-x = latex_to_decimal('\\frac{1}{100}')
 
 with open('../data_analysis/open_tag.json') as file:
 	questions = json.load(file)
