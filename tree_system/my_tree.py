@@ -78,7 +78,7 @@ class Node(object):
     if not self.left and not self.right:
       arr_leaves += self.data
 
-  return arr_leaves[]
+    return arr_leaves
 
 
   # def depth(self):
