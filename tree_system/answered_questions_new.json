@@ -1,0 +1,5991 @@
+[
+    {
+        "question_mod": "Jackie wants to place some photographs into her photo album and discovers that pages 10 through 25, including 10 and 25, are unfilled. If she can place 4 photographs on each unfilled page, what is the total number of photographs she can place on these pages?", 
+        "answer": {
+            "text": "64", 
+            "value": [
+                "64"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": "page", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "that", 
+                "unit": "page"
+            }, 
+            {
+                "value": "25", 
+                "rate": null, 
+                "verb": "page", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "that", 
+                "unit": "page"
+            }, 
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": "include", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": null
+            }, 
+            {
+                "value": "25", 
+                "rate": null, 
+                "verb": "page", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "that", 
+                "unit": null
+            }, 
+            {
+                "value": "4", 
+                "rate": "page", 
+                "verb": "place", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "she", 
+                "unit": "photograph"
+            }
+        ], 
+        "question": "Jackie wants to place some photographs into her photo album and discovers that pages 10 through 25, including 10 and 25, are unfilled. If she can place 4 photographs on each unfilled page, what is the total number of photographs she can place on these pages?", 
+        "id": 10014, 
+        "choices": {
+            "A": {
+                "text": "68", 
+                "value": [
+                    "68"
+                ]
+            }, 
+            "C": {
+                "text": "60", 
+                "value": [
+                    "60"
+                ]
+            }, 
+            "B": {
+                "text": "64", 
+                "value": [
+                    "64"
+                ]
+            }, 
+            "E": {
+                "text": "15", 
+                "value": [
+                    "15"
+                ]
+            }, 
+            "D": {
+                "text": "16", 
+                "value": [
+                    "16"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "There are 4 colors of lottery tickets in a hat. If 0.1 of the tickets in the hat are green, 0.5 are white, 0.25 are blue, and the remaining 30 tickets are pink, what is the number of blue tickets in the hat?", 
+        "answer": {
+            "text": "50", 
+            "value": [
+                "50"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "4", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "color", 
+                "unit": "color of ticket"
+            }, 
+            {
+                "value": "0.1", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "green"
+            }, 
+            {
+                "value": "0.5", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "green"
+            }, 
+            {
+                "value": "0.25", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "blue"
+            }, 
+            {
+                "value": "30", 
+                "rate": null, 
+                "verb": "remaining", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "ticket"
+            }
+        ], 
+        "question": "There are four colors of lottery tickets in a hat. If \\(\\frac { 1 } { 10 } \\) of the tickets in the hat are green, \\(\\frac { 1 } { 2 } \\) are white, \\(\\frac { 1 } { 4 } \\) are blue, and the remaining 30 tickets are pink, what is the number of blue tickets in the hat?", 
+        "id": 10046, 
+        "choices": {
+            "A": {
+                "text": "25", 
+                "value": [
+                    "25"
+                ]
+            }, 
+            "C": {
+                "text": "75", 
+                "value": [
+                    "75"
+                ]
+            }, 
+            "B": {
+                "text": "50", 
+                "value": [
+                    "50"
+                ]
+            }, 
+            "E": {
+                "text": "200", 
+                "value": [
+                    "200"
+                ]
+            }, 
+            "D": {
+                "text": "120", 
+                "value": [
+                    "120"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "Hillary buys a television on a 12-month installment plan. If each of her first 3 installments is 2 times as much as each of her 9 remaining installments, and her total payment is $600, how much is her first installment?", 
+        "answer": {
+            "text": "\\$80", 
+            "value": [
+                "80"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "12", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "month"
+            }, 
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "installment"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "time"
+            }, 
+            {
+                "value": "9", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "remain"
+            }, 
+            {
+                "value": "600", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }
+        ], 
+        "question": "Hillary buys a television on a 12-month installment plan. If each of her first three installments is twice as much as each of her nine remaining installments, and her total payment is $600, how much is her first installment?", 
+        "id": 10062, 
+        "choices": {
+            "A": {
+                "text": "\\$20", 
+                "value": [
+                    "20"
+                ]
+            }, 
+            "C": {
+                "text": "\\$40", 
+                "value": [
+                    "40"
+                ]
+            }, 
+            "B": {
+                "text": "\\$35", 
+                "value": [
+                    "35"
+                ]
+            }, 
+            "E": {
+                "text": "\\$80", 
+                "value": [
+                    "80"
+                ]
+            }, 
+            "D": {
+                "text": "\\$65", 
+                "value": [
+                    "65"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "A certain company employs 25 women and 25 men. Some employees drive to work and the rest take public transportation. If 29 employees drive to work, and exactly 6 men take public transportation, how many women drive to work?", 
+        "answer": {
+            "text": "10", 
+            "value": [
+                "10"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "25", 
+                "rate": null, 
+                "verb": "employ", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "company", 
+                "unit": "woman"
+            }, 
+            {
+                "value": "25", 
+                "rate": null, 
+                "verb": "employ", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "company", 
+                "unit": "man"
+            }, 
+            {
+                "value": "29", 
+                "rate": null, 
+                "verb": "drive", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "employee", 
+                "unit": "employee"
+            }, 
+            {
+                "value": "6", 
+                "rate": null, 
+                "verb": "work", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "man"
+            }
+        ], 
+        "question": "A certain company employs 25 women and 25 men. Some employees drive to work and the rest take public transportation. If 29 employees drive to work, and exactly 6 men take public transportation, how many women drive to work?", 
+        "id": 10132, 
+        "choices": {
+            "A": {
+                "text": "6", 
+                "value": [
+                    "6"
+                ]
+            }, 
+            "C": {
+                "text": "10", 
+                "value": [
+                    "10"
+                ]
+            }, 
+            "B": {
+                "text": "8", 
+                "value": [
+                    "8"
+                ]
+            }, 
+            "E": {
+                "text": "13", 
+                "value": [
+                    "13"
+                ]
+            }, 
+            "D": {
+                "text": "11", 
+                "value": [
+                    "11"
+                ]
+            }
+        }
+    }, 
+    {
+        "answer": {
+            "text": "240", 
+            "value": [
+                "240"
+            ]
+        }, 
+        "question_mod": "On a certain map, 100 miles is represented by 1 inch. What is the number of miles represented by 2.4 inches on this map?", 
+        "question": "On a certain map, 100 miles is represented by 1 inch. What is the number of miles represented by 2.4 inches on this map?", 
+        "id": 10145, 
+        "quantities": [
+            {
+                "value": "100", 
+                "rate": null, 
+                "verb": "represent", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "mile", 
+                "unit": "mile"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "represent", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "mile", 
+                "unit": "inch"
+            }, 
+            {
+                "value": "2.4", 
+                "rate": null, 
+                "verb": "represent", 
+                "nouns": [
+                    "map"
+                ], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "inch"
+            }
+        ]
+    }, 
+    {
+        "question_mod": "There are an equal number of dogs and cats at a clinic. After 2 dogs and 8 cats are taken home, there are 3 times as many dogs as cats still at the clinic. How many cats are still at the clinic?", 
+        "answer": {
+            "text": "Three", 
+            "value": [
+                "3"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "dog"
+            }, 
+            {
+                "value": "8", 
+                "rate": null, 
+                "verb": "take", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "cat", 
+                "unit": "cat"
+            }, 
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [
+                    "dog", 
+                    "cat"
+                ], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "time"
+            }
+        ], 
+        "question": "There are an equal number of dogs and cats at a clinic. After 2 dogs and 8 cats are taken home, there are three times as many dogs as cats still at the clinic. How many cats are still at the clinic?", 
+        "id": 10182, 
+        "choices": {
+            "A": {
+                "text": "Three", 
+                "value": [
+                    "3"
+                ]
+            }, 
+            "C": {
+                "text": "Six", 
+                "value": [
+                    "6"
+                ]
+            }, 
+            "B": {
+                "text": "Four", 
+                "value": [
+                    "4"
+                ]
+            }, 
+            "E": {
+                "text": "Nine", 
+                "value": [
+                    "9"
+                ]
+            }, 
+            "D": {
+                "text": "Eight", 
+                "value": [
+                    "8"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "4 students reach into a bag of coins. Steve grabs 0.33 of the coins, Joe grabs 0.25, and Kyle grabs 0.17. If Ryan gets the remaining 6 coins, how many coins were originally in the bag?", 
+        "answer": {
+            "text": "24", 
+            "value": [
+                "24"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "4", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "student"
+            }, 
+            {
+                "value": "0.33", 
+                "rate": null, 
+                "verb": "grab", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Steve", 
+                "unit": "grab"
+            }, 
+            {
+                "value": "0.25", 
+                "rate": null, 
+                "verb": "grab", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Joe", 
+                "unit": "grab"
+            }, 
+            {
+                "value": "0.17", 
+                "rate": null, 
+                "verb": "grab", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Steve", 
+                "unit": "grab"
+            }, 
+            {
+                "value": "6", 
+                "rate": null, 
+                "verb": "get", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Ryan", 
+                "unit": "coin"
+            }
+        ], 
+        "question": "Four students reach into a bag of coins. Steve grabs \\(\\frac{1}{3}\\) of the coins, Joe grabs \\(\\frac{1}{4}\\), and Kyle grabs \\(\\frac{1}{6}\\). If Ryan gets the remaining 6 coins, how many coins were originally in the bag?", 
+        "id": 10183, 
+        "choices": {
+            "A": {
+                "text": "12", 
+                "value": [
+                    "12"
+                ]
+            }, 
+            "C": {
+                "text": "24", 
+                "value": [
+                    "24"
+                ]
+            }, 
+            "B": {
+                "text": "18", 
+                "value": [
+                    "18"
+                ]
+            }, 
+            "E": {
+                "text": "281", 
+                "value": [
+                    "281"
+                ]
+            }, 
+            "D": {
+                "text": "27", 
+                "value": [
+                    "27"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "The number of students who order hot lunch by the month at the Tucker Elementary School varies directly with the number of times pizza appears on the lunch menu during that month. If 135 students order hot lunch when pizza appears 3 times on the menu, how many students order hot lunch when pizza appears 8 times on the menu?", 
+        "answer": {
+            "text": "360", 
+            "value": [
+                "360"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "135", 
+                "rate": null, 
+                "verb": "order", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "student", 
+                "unit": "student"
+            }, 
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": "appear", 
+                "nouns": [
+                    "menu"
+                ], 
+                "if_rate": false, 
+                "subj": "pizza", 
+                "unit": "time"
+            }, 
+            {
+                "value": "8", 
+                "rate": null, 
+                "verb": "appear", 
+                "nouns": [
+                    "menu"
+                ], 
+                "if_rate": false, 
+                "subj": "pizza", 
+                "unit": "time"
+            }
+        ], 
+        "question": "The number of students who order hot lunch by the month at the Tucker Elementary School varies directly with the number of times pizza appears on the lunch menu during that month. If 135 students order hot lunch when pizza appears three times on the menu, how many students order hot lunch when pizza appears eight times on the menu?", 
+        "id": 10200, 
+        "choices": {
+            "A": {
+                "text": "260", 
+                "value": [
+                    "260"
+                ]
+            }, 
+            "C": {
+                "text": "325", 
+                "value": [
+                    "325"
+                ]
+            }, 
+            "B": {
+                "text": "295", 
+                "value": [
+                    "295"
+                ]
+            }, 
+            "E": {
+                "text": "405", 
+                "value": [
+                    "405"
+                ]
+            }, 
+            "D": {
+                "text": "360", 
+                "value": [
+                    "360"
+                ]
+            }
+        }
+    }, 
+    {
+        "answer": {
+            "text": "6", 
+            "value": [
+                "6"
+            ]
+        }, 
+        "question_mod": "Rebecca is removing DVDs from a shelf that has 15 dramas and 15 comedies on it. What is the least number of DVDs that Rebecca could remove so that the ratio of dramas to comedies left on the shelf will be 3 to 5 ?", 
+        "question": "Rebecca is removing DVDs from a shelf that has 15 dramas and 15 comedies on it. What is the least number of DVDs that Rebecca could remove so that the ratio of dramas to comedies left on the shelf will be 3 to 5 ?", 
+        "id": 10230, 
+        "quantities": [
+            {
+                "value": "15", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "that", 
+                "unit": "drama"
+            }, 
+            {
+                "value": "15", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "that", 
+                "unit": "comedy"
+            }, 
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": "remove", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Rebeccan", 
+                "unit": "remove"
+            }, 
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": "remove", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Rebeccan", 
+                "unit": null
+            }
+        ]
+    }, 
+    {
+        "question_mod": "After 6 new cars entered the parking lot and 2 cars left the parking lot, there were 2 times as many cars as before. How many cars were parked in the parking lot before the changes?", 
+        "answer": {
+            "text": "4", 
+            "value": [
+                "4"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "6", 
+                "rate": null, 
+                "verb": "enter", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "car", 
+                "unit": "car"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "leave", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "car", 
+                "unit": "car"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [
+                    "car"
+                ], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "time"
+            }
+        ], 
+        "question": "After 6 new cars entered the parking lot and 2 cars left the parking lot, there were 2 times as many cars as before. How many cars were parked in the parking lot before the changes?", 
+        "id": 10321, 
+        "choices": {
+            "A": {
+                "text": "2", 
+                "value": [
+                    "2"
+                ]
+            }, 
+            "C": {
+                "text": "6", 
+                "value": [
+                    "6"
+                ]
+            }, 
+            "B": {
+                "text": "4", 
+                "value": [
+                    "4"
+                ]
+            }, 
+            "E": {
+                "text": "10", 
+                "value": [
+                    "10"
+                ]
+            }, 
+            "D": {
+                "text": "8", 
+                "value": [
+                    "8"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "Stephanie, Damon, and Karissa have been contracted to paint an office building that contains 72 rooms. If Stephanie paints 0.5 as many rooms as Karissa and 12 more than Damon, how many rooms does Karissa paint?", 
+        "answer": {
+            "text": "42", 
+            "value": [
+                "42"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "72", 
+                "rate": null, 
+                "verb": "contain", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "that", 
+                "unit": "room"
+            }, 
+            {
+                "value": "0.5", 
+                "rate": null, 
+                "verb": "paint", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Stephanie", 
+                "unit": "paint"
+            }, 
+            {
+                "value": "12", 
+                "rate": null, 
+                "verb": "paint", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Stephanie", 
+                "unit": "room"
+            }
+        ], 
+        "question": "Stephanie, Damon, and Karissa have been contracted to paint an office building that contains 72 rooms. If Stephanie paints half as many rooms as Karissa and 12 more than Damon, how many rooms does Karissa paint?", 
+        "id": 10352, 
+        "choices": {
+            "A": {
+                "text": "9", 
+                "value": [
+                    "9"
+                ]
+            }, 
+            "C": {
+                "text": "30", 
+                "value": [
+                    "30"
+                ]
+            }, 
+            "B": {
+                "text": "21", 
+                "value": [
+                    "21"
+                ]
+            }, 
+            "E": {
+                "text": "48", 
+                "value": [
+                    "48"
+                ]
+            }, 
+            "D": {
+                "text": "42", 
+                "value": [
+                    "42"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "A caterer has 120 slices ofbread, 75 slices of ham, and 75 slices of cheese. If she needs to make sandwiches each consisting of 2 slices of bread, 1 slice of ham, and 1 slice of cheese, what is the greatest number of sandwiches she can make?", 
+        "answer": {
+            "text": "60", 
+            "value": [
+                "60"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "120", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "caterer", 
+                "unit": "slice"
+            }, 
+            {
+                "value": "75", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "caterer", 
+                "unit": "slice of ham"
+            }, 
+            {
+                "value": "75", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "caterer", 
+                "unit": "slice of cheese"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "make", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "slice of bread"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "make", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "slice of ham"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "make", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "slice of cheese"
+            }
+        ], 
+        "question": "A caterer has 120 slices ofbread, 75 slices of ham, and 75 slices of cheese. If she needs to make sandwiches each consisting of 2 slices of bread, 1 slice of ham, and 1 slice of cheese, what is the greatest number of sandwiches she can make?", 
+        "id": 10365, 
+        "choices": {
+            "A": {
+                "text": "60", 
+                "value": [
+                    "60"
+                ]
+            }, 
+            "C": {
+                "text": "75", 
+                "value": [
+                    "75"
+                ]
+            }, 
+            "B": {
+                "text": "65", 
+                "value": [
+                    "65"
+                ]
+            }, 
+            "E": {
+                "text": "120", 
+                "value": [
+                    "120"
+                ]
+            }, 
+            "D": {
+                "text": "90", 
+                "value": [
+                    "90"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "Aaron scored 84 points on a test made up of 10 8-point short-answer questions and 8 5-point multiple-choice questions. If no partial credit was given and he missed 2 short-answer questions, how many questions did Aaron miss on the whole test?", 
+        "answer": {
+            "text": "6", 
+            "value": [
+                "6"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "84", 
+                "rate": null, 
+                "verb": "score", 
+                "nouns": [
+                    "test"
+                ], 
+                "if_rate": false, 
+                "subj": "Aaron", 
+                "unit": "point"
+            }, 
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": "make", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": null
+            }, 
+            {
+                "value": "8", 
+                "rate": null, 
+                "verb": "make", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "question"
+            }, 
+            {
+                "value": "8", 
+                "rate": null, 
+                "verb": "make", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": null
+            }, 
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": "make", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "question"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "miss", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "he", 
+                "unit": "question"
+            }
+        ], 
+        "question": "Aaron scored 84 points on a test made up of 10 eight-point short-answer questions and 8 five-point multiple-choice questions. If no partial credit was given and he missed 2 short-answer questions, how many questions did Aaron miss on the whole test?", 
+        "id": 10408, 
+        "choices": {
+            "A": {
+                "text": "6", 
+                "value": [
+                    "6"
+                ]
+            }, 
+            "C": {
+                "text": "11", 
+                "value": [
+                    "11"
+                ]
+            }, 
+            "B": {
+                "text": "10", 
+                "value": [
+                    "10"
+                ]
+            }, 
+            "E": {
+                "text": "20", 
+                "value": [
+                    "20"
+                ]
+            }, 
+            "D": {
+                "text": "12", 
+                "value": [
+                    "12"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "How many minutes did John take, driving at 20 miles per hour, to go the same distance that Mary took 30 minutes to drive at 60 miles per hour?", 
+        "answer": {
+            "text": "90", 
+            "value": [
+                "90"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "20", 
+                "rate": "hour", 
+                "verb": "drive", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": null, 
+                "unit": "mile"
+            }, 
+            {
+                "value": "30", 
+                "rate": null, 
+                "verb": "take", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Mary", 
+                "unit": "minute"
+            }, 
+            {
+                "value": "60", 
+                "rate": "hour", 
+                "verb": "drive", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": null, 
+                "unit": "mile"
+            }
+        ], 
+        "question": "How many minutes did John take, driving at 20 miles per hour, to go the same distance that Mary took 30 minutes to drive at 60 miles per hour?", 
+        "id": 10452, 
+        "choices": {
+            "A": {
+                "text": "10", 
+                "value": [
+                    "10"
+                ]
+            }, 
+            "C": {
+                "text": "60", 
+                "value": [
+                    "60"
+                ]
+            }, 
+            "B": {
+                "text": "30", 
+                "value": [
+                    "30"
+                ]
+            }, 
+            "E": {
+                "text": "180", 
+                "value": [
+                    "180"
+                ]
+            }, 
+            "D": {
+                "text": "90", 
+                "value": [
+                    "90"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "At a dinner ceremony, each guest is given the choice of 4 different appetizers and 7 entries. How many different combinations are there of 1 appetizer and 1 entree?", 
+        "answer": {
+            "text": "28", 
+            "value": [
+                "28"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "4", 
+                "rate": "guest", 
+                "verb": "give", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "guest", 
+                "unit": "appetizer"
+            }, 
+            {
+                "value": "7", 
+                "rate": "guest", 
+                "verb": "give", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "guest", 
+                "unit": "entry"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "appetizer"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "entree"
+            }
+        ], 
+        "question": "At a dinner ceremony, each guest is given the choice of four different appetizers and seven entries. How many different combinations are there of one appetizer and one entree?", 
+        "id": 10489, 
+        "choices": {
+            "A": {
+                "text": "3", 
+                "value": [
+                    "3"
+                ]
+            }, 
+            "C": {
+                "text": "14", 
+                "value": [
+                    "14"
+                ]
+            }, 
+            "B": {
+                "text": "11", 
+                "value": [
+                    "11"
+                ]
+            }, 
+            "E": {
+                "text": "28", 
+                "value": [
+                    "28"
+                ]
+            }, 
+            "D": {
+                "text": "22", 
+                "value": [
+                    "22"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "A school's honor society has 100 members: 40 boys and 60 girls, of whom 30 are juniors and 70 are seniors. What is the smallest possible number of senior boys in the society?", 
+        "answer": {
+            "text": "10", 
+            "value": [
+                "10"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "100", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "society", 
+                "unit": "member"
+            }, 
+            {
+                "value": "40", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "society", 
+                "unit": "boy"
+            }, 
+            {
+                "value": "60", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "society", 
+                "unit": "girl"
+            }, 
+            {
+                "value": "30", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "society", 
+                "unit": "whom"
+            }, 
+            {
+                "value": "70", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "society", 
+                "unit": "junior"
+            }
+        ], 
+        "question": "A school's honor society has 100 members: 40 boys and 60 girls, of whom 30 are juniors and 70 are seniors. What is the smallest possible number of senior boys in the society?", 
+        "id": 10500, 
+        "choices": {
+            "A": {
+                "text": "0", 
+                "value": [
+                    "0"
+                ]
+            }, 
+            "C": {
+                "text": "10", 
+                "value": [
+                    "10"
+                ]
+            }, 
+            "B": {
+                "text": "5", 
+                "value": [
+                    "5"
+                ]
+            }, 
+            "E": {
+                "text": "20", 
+                "value": [
+                    "20"
+                ]
+            }, 
+            "D": {
+                "text": "15", 
+                "value": [
+                    "15"
+                ]
+            }
+        }
+    }, 
+    {
+        "answer": {
+            "text": "200", 
+            "value": [
+                "200"
+            ]
+        }, 
+        "question_mod": "A dog can run 80 yards in 10 seconds. At this rate, how many yards can the dog run in 25 seconds?", 
+        "question": "A dog can run 80 yards in 10 seconds. At this rate, how many yards can the dog run in 25 seconds?", 
+        "id": 10518, 
+        "quantities": [
+            {
+                "value": "80", 
+                "rate": null, 
+                "verb": "run", 
+                "nouns": [
+                    "seconds"
+                ], 
+                "if_rate": false, 
+                "subj": "dog", 
+                "unit": "yard"
+            }, 
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": "run", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "dog", 
+                "unit": "seconds"
+            }, 
+            {
+                "value": "25", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "seconds"
+            }
+        ]
+    }, 
+    {
+        "question_mod": "Tariq has $10 and wants to buy 21 oranges at $0.30 each and 12 apples at $0.50 each. If there is no sales tax, how much more money does he need?", 
+        "answer": {
+            "text": "\\$2.30", 
+            "value": [
+                "2.30"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Tariq", 
+                "unit": "$"
+            }, 
+            {
+                "value": "21", 
+                "rate": null, 
+                "verb": "buy", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "orange"
+            }, 
+            {
+                "value": "0.30", 
+                "rate": "apple", 
+                "verb": "buy", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "12", 
+                "rate": null, 
+                "verb": "want", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "each"
+            }, 
+            {
+                "value": "0.50", 
+                "rate": "apple", 
+                "verb": "want", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": null, 
+                "unit": "$"
+            }
+        ], 
+        "question": "Tariq has $10 and wants to buy 21 oranges at $0.30 each and 12 apples at $0.50 each. If there is no sales tax, how much more money does he need?", 
+        "id": 10522, 
+        "choices": {
+            "A": {
+                "text": "\\$2.00", 
+                "value": [
+                    "2.00"
+                ]
+            }, 
+            "C": {
+                "text": "\\$2.60", 
+                "value": [
+                    "2.60"
+                ]
+            }, 
+            "B": {
+                "text": "\\$2.30", 
+                "value": [
+                    "2.30"
+                ]
+            }, 
+            "E": {
+                "text": "\\$12.30", 
+                "value": [
+                    "12.30"
+                ]
+            }, 
+            "D": {
+                "text": "\\$12.00", 
+                "value": [
+                    "12.00"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "The number of tulips that Samantha grows each season varies directly with the age of her daughter Kim. If Samantha grew 16 tulips when Kim was 10 years old, how many tulips will she grow when Kim is 25 years old?", 
+        "answer": {
+            "text": "40", 
+            "value": [
+                "40"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "16", 
+                "rate": null, 
+                "verb": "grow", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Samantha", 
+                "unit": "tulip"
+            }, 
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": "grow", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Samantha", 
+                "unit": "year"
+            }, 
+            {
+                "value": "25", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Kim", 
+                "unit": "year"
+            }
+        ], 
+        "question": "The number of tulips that Samantha grows each season varies directly with the age of her daughter Kim. If Samantha grew 16 tulips when Kim was 10 years old, how many tulips will she grow when Kim is 25 years old?", 
+        "id": 10529, 
+        "choices": {
+            "A": {
+                "text": "25", 
+                "value": [
+                    "25"
+                ]
+            }, 
+            "C": {
+                "text": "30", 
+                "value": [
+                    "30"
+                ]
+            }, 
+            "B": {
+                "text": "26", 
+                "value": [
+                    "26"
+                ]
+            }, 
+            "E": {
+                "text": "45", 
+                "value": [
+                    "45"
+                ]
+            }, 
+            "D": {
+                "text": "40", 
+                "value": [
+                    "40"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "Every year the population of Northville is 0.75 of what it was 10 years earlier. If there are currently 800 people living in Northville, how many people will live there in 20 years?", 
+        "answer": {
+            "text": "450", 
+            "value": [
+                "450"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "0.75", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "."
+            }, 
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "year"
+            }, 
+            {
+                "value": "800", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "people", 
+                "unit": "people"
+            }, 
+            {
+                "value": "20", 
+                "rate": null, 
+                "verb": "live", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "people", 
+                "unit": "year"
+            }
+        ], 
+        "question": "Every year the population of Northville is \\(\\frac { 3 } { 4 } \\) of what it was 10 years earlier. If there are currently 800 people living in Northville, how many people will live there in 20 years?", 
+        "id": 10537, 
+        "choices": {
+            "A": {
+                "text": "10", 
+                "value": [
+                    "10"
+                ]
+            }, 
+            "C": {
+                "text": "400", 
+                "value": [
+                    "400"
+                ]
+            }, 
+            "B": {
+                "text": "200", 
+                "value": [
+                    "200"
+                ]
+            }, 
+            "E": {
+                "text": "600", 
+                "value": [
+                    "600"
+                ]
+            }, 
+            "D": {
+                "text": "450", 
+                "value": [
+                    "450"
+                ]
+            }
+        }
+    }, 
+    {
+        "answer": {
+            "text": "1.2", 
+            "value": [
+                "1.2"
+            ]
+        }, 
+        "question_mod": "A researcher found that the average (arithmetic mean) amount of sleep that she allows her mice to get is inversely proportional to the number of errors the mice make in a maze test. If mice that get 2 hours of sleep make 3 errors in the maze test, how many errors would mice with 5 hours of sleep make on average?", 
+        "question": "A researcher found that the average (arithmetic mean) amount of sleep that she allows her mice to get is inversely proportional to the number of errors the mice make in a maze test. If mice that get 2 hours of sleep make 3 errors in the maze test, how many errors would mice with 5 hours of sleep make on average?", 
+        "id": 10561, 
+        "quantities": [
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "get", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "that", 
+                "unit": "hour of sleep"
+            }, 
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": "make", 
+                "nouns": [
+                    "test"
+                ], 
+                "if_rate": false, 
+                "subj": "mouse", 
+                "unit": "error"
+            }, 
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": "make", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "mouse", 
+                "unit": "hour of sleep"
+            }
+        ]
+    }, 
+    {
+        "answer": {
+            "text": "92.5", 
+            "value": [
+                "92.5"
+            ]
+        }, 
+        "question_mod": "The total cost of a special-occasion cake at a particular bakery is the sum of a basic fixed charge for baking and decorating the cake; and an additional charge for each layer of cake that is desired. If the total cost of a 3-layer cake is $62.50 and the total cost of a 6-layer cake is $85, what is the total cost, in dollars, of a 7-layer cake? ", 
+        "question": "The total cost of a special-occasion cake at a particular bakery is the sum of (1) a basic fixed charge for baking and decorating the cake; and (2) an additional charge for each layer of cake that is desired. If the total cost of a 3-layer cake is $62.50 and the total cost of a 6-layer cake is $85, what is the total cost, in dollars, of a 7-layer cake? (Disregard the $ sign when gridding your answer. If, for example, your answer is $23.50, grid 23.50.)", 
+        "id": 10621, 
+        "quantities": [
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "layer"
+            }, 
+            {
+                "value": "62.50", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "6", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "layer"
+            }, 
+            {
+                "value": "85", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "7", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "layer"
+            }
+        ]
+    }, 
+    {
+        "question_mod": "Faisel watches television for a total of 3 hours. During the first hour, he has his choice of 3 shows. For each of the second and third hours, he can choose from 2 shows. How many different schedules of shows can Faisel watch?", 
+        "answer": {
+            "text": "12", 
+            "value": [
+                "12"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": "watch", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Faisel", 
+                "unit": "hour"
+            }, 
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "he", 
+                "unit": "show"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "choose", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "he", 
+                "unit": "show"
+            }
+        ], 
+        "question": "Faisel watches television for a total of three hours. During the first hour, he has his choice of three shows. For each of the second and third hours, he can choose from two shows. How many different schedules of shows can Faisel watch?", 
+        "id": 10627, 
+        "choices": {
+            "A": {
+                "text": "3", 
+                "value": [
+                    "3"
+                ]
+            }, 
+            "C": {
+                "text": "7", 
+                "value": [
+                    "7"
+                ]
+            }, 
+            "B": {
+                "text": "6", 
+                "value": [
+                    "6"
+                ]
+            }, 
+            "E": {
+                "text": "12", 
+                "value": [
+                    "12"
+                ]
+            }, 
+            "D": {
+                "text": "8", 
+                "value": [
+                    "8"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "A jar contained red and green marbles in a ratio of 3 to 4. After 6 red marbles are added to the jar, the ratio becomes 3 to 2. How many green marbles does the jar now contain?", 
+        "answer": {
+            "text": "8", 
+            "value": [
+                "8"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "ratio"
+            }, 
+            {
+                "value": "4", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": null
+            }, 
+            {
+                "value": "6", 
+                "rate": null, 
+                "verb": "add", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "marble", 
+                "unit": "marble"
+            }, 
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": "become", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "ratio", 
+                "unit": "become"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "become", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "ratio", 
+                "unit": null
+            }
+        ], 
+        "question": "A jar contained red and green marbles in a ratio of 3 to 4. After 6 red marbles are added to the jar, the ratio becomes 3 to 2. How many green marbles does the jar now contain?", 
+        "id": 10634, 
+        "choices": {
+            "A": {
+                "text": "3", 
+                "value": [
+                    "3"
+                ]
+            }, 
+            "C": {
+                "text": "6", 
+                "value": [
+                    "6"
+                ]
+            }, 
+            "B": {
+                "text": "4", 
+                "value": [
+                    "4"
+                ]
+            }, 
+            "E": {
+                "text": "14", 
+                "value": [
+                    "14"
+                ]
+            }, 
+            "D": {
+                "text": "8", 
+                "value": [
+                    "8"
+                ]
+            }
+        }
+    }, 
+    {
+        "answer": {
+            "text": "5.5", 
+            "value": [
+                "5.5"
+            ]
+        }, 
+        "question_mod": "At an amusement park, each ride costs $1.50. However, a 12 ride tickets can be bought for $12.50 at the park entrance. How much money can be saved by buying a 12 tickets at once rather than buying each ticket separately? ", 
+        "question": "At an amusement park, each ride costs $1.50. However, a dozen ride tickets can be bought for $12.50 at the park entrance. How much money can be saved by buying a dozen tickets at once rather than buying each ticket separately? (Disregard the dollar sign when gridding your answer.)", 
+        "id": 10670, 
+        "quantities": [
+            {
+                "value": "1.50", 
+                "rate": "ride", 
+                "verb": "cost", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "ride", 
+                "unit": "$"
+            }, 
+            {
+                "value": "12", 
+                "rate": null, 
+                "verb": "buy", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "ticket", 
+                "unit": "ticket"
+            }, 
+            {
+                "value": "12.50", 
+                "rate": null, 
+                "verb": "buy", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "ticket", 
+                "unit": "$"
+            }, 
+            {
+                "value": "12", 
+                "rate": null, 
+                "verb": "buy", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "ticket"
+            }
+        ]
+    }, 
+    {
+        "question_mod": "If a solution of iodine and alcohol contains 4 ounces of iodine and 16 ounces of alcohol, how many ounces of alcohol must evaporate so that the ratio of iodine to the solution is 2 to 3?", 
+        "answer": {
+            "text": "14", 
+            "value": [
+                "14"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "4", 
+                "rate": null, 
+                "verb": "contain", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "solution", 
+                "unit": "ounce of ounce"
+            }, 
+            {
+                "value": "16", 
+                "rate": null, 
+                "verb": "contain", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "solution", 
+                "unit": null
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "evaporate", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "ounce", 
+                "unit": "evaporate"
+            }, 
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": "evaporate", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "ounce", 
+                "unit": null
+            }
+        ], 
+        "question": "If a solution of iodine and alcohol contains 4 ounces of iodine and 16 ounces of alcohol, how many ounces of alcohol must evaporate so that the ratio of iodine to the solution is 2 to 3?", 
+        "id": 10718, 
+        "choices": {
+            "A": {
+                "text": "6", 
+                "value": [
+                    "6"
+                ]
+            }, 
+            "C": {
+                "text": "8", 
+                "value": [
+                    "8"
+                ]
+            }, 
+            "B": {
+                "text": "7", 
+                "value": [
+                    "7"
+                ]
+            }, 
+            "E": {
+                "text": "14", 
+                "value": [
+                    "14"
+                ]
+            }, 
+            "D": {
+                "text": "10", 
+                "value": [
+                    "10"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "It takes 5 complete turns of the crank to raise a fishing rod hook 2 feet. At this rate, how many turns will it take to raise the hook 4.4 feet?", 
+        "answer": {
+            "text": "11", 
+            "value": [
+                "11"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": "take", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "it", 
+                "unit": "turn of crank"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "raise", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "foot"
+            }, 
+            {
+                "value": "4.4", 
+                "rate": null, 
+                "verb": "raise", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "foot"
+            }
+        ], 
+        "question": "It takes 5 complete turns of the crank to raise a fishing rod hook 2 feet. At this rate, how many turns will it take to raise the hook 4.4 feet?", 
+        "id": 10721, 
+        "choices": {
+            "A": {
+                "text": "4.4", 
+                "value": [
+                    "4.4"
+                ]
+            }, 
+            "C": {
+                "text": "22", 
+                "value": [
+                    "22"
+                ]
+            }, 
+            "B": {
+                "text": "11", 
+                "value": [
+                    "11"
+                ]
+            }, 
+            "E": {
+                "text": "44", 
+                "value": [
+                    "44"
+                ]
+            }, 
+            "D": {
+                "text": "33", 
+                "value": [
+                    "33"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "Each student in a cooking class of 50 students is assigned to create a dessert, an appetizer, or both. The total number of students creating an appetizer is 7 more than the number of students creating a dessert. If the number of students who create 2 dishes is the same as number of students who create exactly 1 dish, how many students created 1 dessert?", 
+        "answer": {
+            "text": "9", 
+            "value": [
+                "9"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "50", 
+                "rate": "student", 
+                "verb": "assign", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "student", 
+                "unit": "student"
+            }, 
+            {
+                "value": "7", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [
+                    "number"
+                ], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "more"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "create", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "who", 
+                "unit": "dish"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "create", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "who", 
+                "unit": "dish"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "create", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "student", 
+                "unit": "dessert"
+            }
+        ], 
+        "question": "Each student in a cooking class of 50 students is assigned to create a dessert, an appetizer, or both. The total number of students creating an appetizer is seven more than the number of students creating a dessert. If the number of students who create two dishes is the same as number of students who create exactly one dish, how many students created one dessert?", 
+        "id": 10746, 
+        "choices": {
+            "A": {
+                "text": "9", 
+                "value": [
+                    "9"
+                ]
+            }, 
+            "C": {
+                "text": "25", 
+                "value": [
+                    "25"
+                ]
+            }, 
+            "B": {
+                "text": "16", 
+                "value": [
+                    "16"
+                ]
+            }, 
+            "E": {
+                "text": "41", 
+                "value": [
+                    "41"
+                ]
+            }, 
+            "D": {
+                "text": "34", 
+                "value": [
+                    "34"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "In a certain neighborhood, the number of cats is inversely proportional to the number of dogs. At 1 point, there were 10 cats and 50 dogs in the neighborhood. If today there are 20 dogs in the neighborhood, how many cats are in the neighborhood?", 
+        "answer": {
+            "text": "25", 
+            "value": [
+                "25"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "cat", 
+                "unit": "point"
+            }, 
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "cat", 
+                "unit": "cat"
+            }, 
+            {
+                "value": "50", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [
+                    "neighborhood"
+                ], 
+                "if_rate": false, 
+                "subj": "cat", 
+                "unit": "dog"
+            }, 
+            {
+                "value": "20", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [
+                    "neighborhood"
+                ], 
+                "if_rate": false, 
+                "subj": "dog", 
+                "unit": "dog"
+            }
+        ], 
+        "question": "In a certain neighborhood, the number of cats is inversely proportional to the number of dogs. At one point, there were 10 cats and 50 dogs in the neighborhood. If today there are 20 dogs in the neighborhood, how many cats are in the neighborhood?", 
+        "id": 10750, 
+        "choices": {
+            "A": {
+                "text": "4", 
+                "value": [
+                    "4"
+                ]
+            }, 
+            "C": {
+                "text": "15", 
+                "value": [
+                    "15"
+                ]
+            }, 
+            "B": {
+                "text": "8", 
+                "value": [
+                    "8"
+                ]
+            }, 
+            "E": {
+                "text": "25", 
+                "value": [
+                    "25"
+                ]
+            }, 
+            "D": {
+                "text": "20", 
+                "value": [
+                    "20"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "Stephan takes 240 minutes to draw 20 pictures. Pavel draws 3 times as fast as Stephan. How many pictures can Pavel draw in 6 hours?", 
+        "answer": {
+            "text": "90", 
+            "value": [
+                "90"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "240", 
+                "rate": null, 
+                "verb": "take", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Stephan", 
+                "unit": "minute"
+            }, 
+            {
+                "value": "20", 
+                "rate": null, 
+                "verb": "draw", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "picture"
+            }, 
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": "draw", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Pavel", 
+                "unit": "time"
+            }, 
+            {
+                "value": "6", 
+                "rate": null, 
+                "verb": "draw", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Pavel", 
+                "unit": "hour"
+            }
+        ], 
+        "question": "Stephan takes 240 minutes to draw 20 pictures. Pavel draws three times as fast as Stephan. How many pictures can Pavel draw in 6 hours?", 
+        "id": 10769, 
+        "choices": {
+            "A": {
+                "text": "30", 
+                "value": [
+                    "30"
+                ]
+            }, 
+            "C": {
+                "text": "60", 
+                "value": [
+                    "60"
+                ]
+            }, 
+            "B": {
+                "text": "40", 
+                "value": [
+                    "40"
+                ]
+            }, 
+            "E": {
+                "text": "120", 
+                "value": [
+                    "120"
+                ]
+            }, 
+            "D": {
+                "text": "90", 
+                "value": [
+                    "90"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "After 4 new people entered the elevator and 2 people left the elevator, there were 2 times as many people as before. How many people were in the elevator before the changes?", 
+        "answer": {
+            "text": "2", 
+            "value": [
+                "2"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "4", 
+                "rate": null, 
+                "verb": "enter", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "people", 
+                "unit": "people"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "leave", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "elevator", 
+                "unit": "people"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "time"
+            }
+        ], 
+        "question": "After 4 new people entered the elevator and 2 people left the elevator, there were 2 times as many people as before. How many people were in the elevator before the changes?", 
+        "id": 10796, 
+        "choices": {
+            "A": {
+                "text": "1", 
+                "value": [
+                    "1"
+                ]
+            }, 
+            "C": {
+                "text": "4", 
+                "value": [
+                    "4"
+                ]
+            }, 
+            "B": {
+                "text": "2", 
+                "value": [
+                    "2"
+                ]
+            }, 
+            "E": {
+                "text": "8", 
+                "value": [
+                    "8"
+                ]
+            }, 
+            "D": {
+                "text": "6", 
+                "value": [
+                    "6"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "A bicyclist riding at 12 miles an hour for 2 hours travels 2 times the distance a hiker travels walking at 4 miles an hour for how many hours?", 
+        "answer": {
+            "text": "3", 
+            "value": [
+                "3"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "12", 
+                "rate": "hour", 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": null, 
+                "unit": "mile"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "hour"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "time"
+            }, 
+            {
+                "value": "4", 
+                "rate": "hour", 
+                "verb": "walk", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": null, 
+                "unit": "mile"
+            }
+        ], 
+        "question": "A bicyclist riding at 12 miles an hour for 2 hours travels twice the distance a hiker travels walking at 4 miles an hour for how many hours?", 
+        "id": 10799, 
+        "choices": {
+            "A": {
+                "text": "2", 
+                "value": [
+                    "2"
+                ]
+            }, 
+            "C": {
+                "text": "4", 
+                "value": [
+                    "4"
+                ]
+            }, 
+            "B": {
+                "text": "3", 
+                "value": [
+                    "3"
+                ]
+            }, 
+            "E": {
+                "text": "6", 
+                "value": [
+                    "6"
+                ]
+            }, 
+            "D": {
+                "text": "5", 
+                "value": [
+                    "5"
+                ]
+            }
+        }
+    }, 
+    {
+        "answer": {
+            "text": "320", 
+            "value": [
+                "320"
+            ]
+        }, 
+        "question_mod": "The total cost of a car rental is the sum of a basic fixed rental charge for the car, and an additional charge for every 25 miles traveled. If the total cost to rent a car and drive it 50 miles is $200, and the total cost to rent a car and drive it 200 miles is $245, what is the total cost, in dollars, to rent a car and travel 450 miles? ", 
+        "question": "The total cost of a car rental is the sum of (1) a basic fixed rental charge for the car, and (2) an additional charge for every 25 miles traveled. If the total cost to rent a car and drive it 50 miles is $200, and the total cost to rent a car and drive it 200 miles is $245, what is the total cost, in dollars, to rent a car and travel 450 miles? (Disregard the $ sign when gridding your answer. If, for example, your answer is $1.37, grid 1.37.)", 
+        "id": 10818, 
+        "quantities": [
+            {
+                "value": "25", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "mile"
+            }, 
+            {
+                "value": "50", 
+                "rate": null, 
+                "verb": "drive", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "mile"
+            }, 
+            {
+                "value": "200", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "200", 
+                "rate": null, 
+                "verb": "drive", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "mile"
+            }, 
+            {
+                "value": "245", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "450", 
+                "rate": null, 
+                "verb": "travel", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "mile"
+            }
+        ]
+    }, 
+    {
+        "question_mod": "The number of instances of illness that a person has in 1 year is inversely proportional to the average (arithmetic mean) number of hours that person sleeps per night. If last year Lori slept an average of 8 hours per night and was ill 3 times, how many times would she have been ill if she had slept an average of 6 hours per night?", 
+        "answer": {
+            "text": "4", 
+            "value": [
+                "4"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "person", 
+                "unit": "year"
+            }, 
+            {
+                "value": "8", 
+                "rate": "night", 
+                "verb": "sleep", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "Lori", 
+                "unit": "hour"
+            }, 
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": "sleep", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Lori", 
+                "unit": "time"
+            }, 
+            {
+                "value": "6", 
+                "rate": "night", 
+                "verb": "sleep", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "Lori", 
+                "unit": "hour"
+            }
+        ], 
+        "question": "The number of instances of illness that a person has in one year is inversely proportional to the average (arithmetic mean) number of hours that person sleeps per night. If last year Lori slept an average of 8 hours per night and was ill 3 times, how many times would she have been ill if she had slept an average of 6 hours per night?", 
+        "id": 10838, 
+        "choices": {
+            "A": {
+                "text": "2.25", 
+                "value": [
+                    "2.25"
+                ]
+            }, 
+            "C": {
+                "text": "3.5", 
+                "value": [
+                    "3.5"
+                ]
+            }, 
+            "B": {
+                "text": "3", 
+                "value": [
+                    "3"
+                ]
+            }, 
+            "E": {
+                "text": "4.75", 
+                "value": [
+                    "4.75"
+                ]
+            }, 
+            "D": {
+                "text": "4", 
+                "value": [
+                    "4"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "At a certain restaurant, there are 25 tables and each table has either 2 or 4 chairs. If there is a total of 86 chairs accompanying the 25 tables, how many tables have exactly 4 chairs?", 
+        "answer": {
+            "text": "18", 
+            "value": [
+                "18"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "25", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "table", 
+                "unit": "table"
+            }, 
+            {
+                "value": "2", 
+                "rate": "table", 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "table", 
+                "unit": "chair"
+            }, 
+            {
+                "value": "4", 
+                "rate": "table", 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "table", 
+                "unit": null
+            }, 
+            {
+                "value": "86", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "total", 
+                "unit": "chair"
+            }, 
+            {
+                "value": "25", 
+                "rate": null, 
+                "verb": "accompany", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "tables"
+            }, 
+            {
+                "value": "4", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "table", 
+                "unit": "chair"
+            }
+        ], 
+        "question": "At a certain restaurant, there are 25 tables and each table has either 2 or 4 chairs. If there is a total of 86 chairs accompanying the 25 tables, how many tables have exactly 4 chairs?", 
+        "id": 10862, 
+        "choices": {
+            "A": {
+                "text": "9", 
+                "value": [
+                    "9"
+                ]
+            }, 
+            "C": {
+                "text": "15", 
+                "value": [
+                    "15"
+                ]
+            }, 
+            "B": {
+                "text": "12", 
+                "value": [
+                    "12"
+                ]
+            }, 
+            "E": {
+                "text": "21", 
+                "value": [
+                    "21"
+                ]
+            }, 
+            "D": {
+                "text": "18", 
+                "value": [
+                    "18"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "The only way to purchase Brand X muffins is to buy 1 or more boxes that each contain 6 muffins. Each box costs $1.50. If Alejandro needs at least 20 muffins, what is the least amount of money he could spend?", 
+        "answer": {
+            "text": "\\$6.00", 
+            "value": [
+                "6.00"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "buy", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "box"
+            }, 
+            {
+                "value": "6", 
+                "rate": null, 
+                "verb": "contain", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "that", 
+                "unit": "muffin"
+            }, 
+            {
+                "value": "1.50", 
+                "rate": "box", 
+                "verb": "cost", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "box", 
+                "unit": "$"
+            }, 
+            {
+                "value": "20", 
+                "rate": null, 
+                "verb": "need", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Alejandro", 
+                "unit": "muffin"
+            }
+        ], 
+        "question": "The only way to purchase Brand X muffins is to buy one or more boxes that each contain 6 muffins. Each box costs \\$1.50. If Alejandro needs at least 20 muffins, what is the least amount of money he could spend?", 
+        "id": 10880, 
+        "choices": {
+            "A": {
+                "text": "\\$3.00", 
+                "value": [
+                    "3.00"
+                ]
+            }, 
+            "C": {
+                "text": "\\$6.00", 
+                "value": [
+                    "6.00"
+                ]
+            }, 
+            "B": {
+                "text": "\\$4.50", 
+                "value": [
+                    "4.50"
+                ]
+            }, 
+            "E": {
+                "text": "\\$30.00", 
+                "value": [
+                    "30.00"
+                ]
+            }, 
+            "D": {
+                "text": "\\$7.50", 
+                "value": [
+                    "7.50"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "A bowl contains punch made from pineapple juice, orange juice, and seltzer, in ratio of 2 : 3 : 1, respectively. If the bowl contains 2 liters of seltzer, how many liters of punch does the bowl contain?", 
+        "answer": {
+            "text": "12", 
+            "value": [
+                "12"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "contain", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "bowl", 
+                "unit": "ratio"
+            }, 
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": "contain", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "bowl", 
+                "unit": "contain"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "contain", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "bowl", 
+                "unit": null
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "contain", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "bowl", 
+                "unit": "liter of seltzer"
+            }
+        ], 
+        "question": "A bowl contains punch made from pineapple juice, orange juice, and seltzer, in ratio of 2 : 3 : 1, respectively. If the bowl contains 2 liters of seltzer, how many liters of punch does the bowl contain?", 
+        "id": 10882, 
+        "choices": {
+            "A": {
+                "text": "6", 
+                "value": [
+                    "6"
+                ]
+            }, 
+            "C": {
+                "text": "10", 
+                "value": [
+                    "10"
+                ]
+            }, 
+            "B": {
+                "text": "8", 
+                "value": [
+                    "8"
+                ]
+            }, 
+            "E": {
+                "text": "14", 
+                "value": [
+                    "14"
+                ]
+            }, 
+            "D": {
+                "text": "12", 
+                "value": [
+                    "12"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "A local store donated some markers to Mrs. Kettz's fourth-grade class. If each student takes 2 markers, there will be 16 markers left. If 4 students do not take any markers and the rest of the students take 6 markers, there will be no markers left. How many markers were donated to the class?", 
+        "answer": {
+            "text": "36", 
+            "value": [
+                "36"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "2", 
+                "rate": "student", 
+                "verb": "take", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "student", 
+                "unit": "marker"
+            }, 
+            {
+                "value": "16", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "marker", 
+                "unit": "marker"
+            }, 
+            {
+                "value": "4", 
+                "rate": null, 
+                "verb": "take", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "student", 
+                "unit": "student"
+            }, 
+            {
+                "value": "6", 
+                "rate": null, 
+                "verb": "take", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "rest", 
+                "unit": "marker"
+            }
+        ], 
+        "question": "A local store donated some markers to Mrs. Kettz's fourth-grade class. If each student takes 2 markers, there will be 16 markers left. If 4 students do not take any markers and the rest of the students take 6 markers, there will be no markers left. How many markers were donated to the class?", 
+        "id": 10888, 
+        "choices": {
+            "A": {
+                "text": "24", 
+                "value": [
+                    "24"
+                ]
+            }, 
+            "C": {
+                "text": "36", 
+                "value": [
+                    "36"
+                ]
+            }, 
+            "B": {
+                "text": "30", 
+                "value": [
+                    "30"
+                ]
+            }, 
+            "E": {
+                "text": "48", 
+                "value": [
+                    "48"
+                ]
+            }, 
+            "D": {
+                "text": "40", 
+                "value": [
+                    "40"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "If 2 coins are selected from a collection consisting of 2 pennies, 2 nickels, 2 dimes, and 2 quarters, how many different sums are possible?", 
+        "answer": {
+            "text": "10", 
+            "value": [
+                "10"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "select", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "coin", 
+                "unit": "coin"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "select", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "coin", 
+                "unit": "penney"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "select", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "coin", 
+                "unit": "nickel"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "select", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "coin", 
+                "unit": "dime"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "select", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "coin", 
+                "unit": "quarter"
+            }
+        ], 
+        "question": "If two coins are selected from a collection consisting of 2 pennies, 2 nickels, 2 dimes, and 2 quarters, how many different sums are possible?", 
+        "id": 10900, 
+        "choices": {
+            "A": {
+                "text": "10", 
+                "value": [
+                    "10"
+                ]
+            }, 
+            "C": {
+                "text": "24", 
+                "value": [
+                    "24"
+                ]
+            }, 
+            "B": {
+                "text": "16", 
+                "value": [
+                    "16"
+                ]
+            }, 
+            "E": {
+                "text": "72", 
+                "value": [
+                    "72"
+                ]
+            }, 
+            "D": {
+                "text": "36", 
+                "value": [
+                    "36"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "The force needed to stretch a spring varies directly with the distance the spring is stretched from its equilibrium position. If 50 pounds of force stretch a spring 8 inches from equilibrium, how much, in inches, will the spring be stretched by a force of 75 pounds?", 
+        "answer": {
+            "text": "12", 
+            "value": [
+                "12"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "50", 
+                "rate": null, 
+                "verb": "stretch", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "spring", 
+                "unit": "pound of stretch"
+            }, 
+            {
+                "value": "8", 
+                "rate": null, 
+                "verb": "stretch", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "spring", 
+                "unit": "spring"
+            }, 
+            {
+                "value": "75", 
+                "rate": null, 
+                "verb": "stretch", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "spring", 
+                "unit": "pound"
+            }
+        ], 
+        "question": "The force needed to stretch a spring varies directly with the distance the spring is stretched from its equilibrium position. If 50 pounds of force stretch a spring 8 inches from equilibrium, how much, in inches, will the spring be stretched by a force of 75 pounds?", 
+        "id": 10977, 
+        "choices": {
+            "A": {
+                "text": "10", 
+                "value": [
+                    "10"
+                ]
+            }, 
+            "C": {
+                "text": "33", 
+                "value": [
+                    "33"
+                ]
+            }, 
+            "B": {
+                "text": "12", 
+                "value": [
+                    "12"
+                ]
+            }, 
+            "E": {
+                "text": "468.75", 
+                "value": [
+                    "468.75"
+                ]
+            }, 
+            "D": {
+                "text": "248", 
+                "value": [
+                    "248"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "If Thomas went shopping with $15 and ended up with a debt of $5, how much money did he spend?", 
+        "answer": {
+            "text": "\\$20", 
+            "value": [
+                "20"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "15", 
+                "rate": null, 
+                "verb": "go", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Thomas", 
+                "unit": "$"
+            }, 
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": "end", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }
+        ], 
+        "question": "If Thomas went shopping with $15 and ended up with a debt of $5, how much money did he spend?", 
+        "id": 11004, 
+        "choices": {
+            "A": {
+                "text": "\\$5", 
+                "value": [
+                    "5"
+                ]
+            }, 
+            "C": {
+                "text": "\\$15", 
+                "value": [
+                    "15"
+                ]
+            }, 
+            "B": {
+                "text": "\\$10", 
+                "value": [
+                    "10"
+                ]
+            }, 
+            "E": {
+                "text": "\\$25", 
+                "value": [
+                    "25"
+                ]
+            }, 
+            "D": {
+                "text": "\\$20", 
+                "value": [
+                    "20"
+                ]
+            }
+        }
+    }, 
+    {
+        "answer": {
+            "text": "46", 
+            "value": [
+                "46"
+            ]
+        }, 
+        "question_mod": "Pierre receives a weekly allowance of $8, plus $3 for each chore he completes during the week. Armand receives a week allowance of $6, plus $8 for each chore he completes during the week. Neither of them receives other money. In a certain week, if they both complete the same number of chores, but Armand receives 2 times as much money as Pierre, then what is the total dollar amount that Armand receives in that week? ", 
+        "question": "Pierre receives a weekly allowance of \\$8, plus \\$3 for each chore he completes during the week. Armand receives a week allowance of \\$6, plus \\$8 for each chore he completes during the week. Neither of them receives other money. In a certain week, if they both complete the same number of chores, but Armand receives twice as much money as Pierre, then what is the total dollar amount that Armand receives in that week? (Disregard the dollar sign when gridding your answer).", 
+        "id": 11027, 
+        "quantities": [
+            {
+                "value": "8", 
+                "rate": null, 
+                "verb": "receive", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Pierre", 
+                "unit": "$"
+            }, 
+            {
+                "value": "3", 
+                "rate": "chore", 
+                "verb": "receive", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "Pierre", 
+                "unit": "$"
+            }, 
+            {
+                "value": "6", 
+                "rate": null, 
+                "verb": "receive", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "8", 
+                "rate": "chore", 
+                "verb": "receive", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "receive", 
+                "nouns": [
+                    "money"
+                ], 
+                "if_rate": false, 
+                "subj": "Armand", 
+                "unit": "time"
+            }
+        ]
+    }, 
+    {
+        "answer": {
+            "text": "1.25", 
+            "value": [
+                "1.25"
+            ]
+        }, 
+        "question_mod": "5 pens cost as much as 2 notebooks. If the cost of 1 notebook and 1 pen is $1.75, what is the cost, in dollars, of 1 notebook? ", 
+        "question": "Five pens cost as much as two notebooks. If the cost of one notebook and one pen is $1.75, what is the cost, in dollars, of one notebook? (Disregard the $ sign when gridding in your answer.)", 
+        "id": 11078, 
+        "quantities": [
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "pen"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "notebook"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "notebook"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "pen"
+            }, 
+            {
+                "value": "1.75", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "notebook"
+            }
+        ]
+    }, 
+    {
+        "question_mod": "Patty uses 2 gallons of paint to cover 875 square feet of surface. At this rate, how many gallons will she need to cover 4375 square feet of surface?", 
+        "answer": {
+            "text": "10", 
+            "value": [
+                "10"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "use", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Patty", 
+                "unit": "gallon of paint"
+            }, 
+            {
+                "value": "875", 
+                "rate": null, 
+                "verb": "cover", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "foot of surface"
+            }, 
+            {
+                "value": "4375", 
+                "rate": null, 
+                "verb": "cover", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "foot of surface"
+            }
+        ], 
+        "question": "Patty uses 2 gallons of paint to cover 875 square feet of surface. At this rate, how many gallons will she need to cover 4,375 square feet of surface?", 
+        "id": 11101, 
+        "choices": {
+            "A": {
+                "text": "4", 
+                "value": [
+                    "4"
+                ]
+            }, 
+            "C": {
+                "text": "8", 
+                "value": [
+                    "8"
+                ]
+            }, 
+            "B": {
+                "text": "5", 
+                "value": [
+                    "5"
+                ]
+            }, 
+            "E": {
+                "text": "15", 
+                "value": [
+                    "15"
+                ]
+            }, 
+            "D": {
+                "text": "10", 
+                "value": [
+                    "10"
+                ]
+            }
+        }
+    }, 
+    {
+        "answer": {
+            "text": "30", 
+            "value": [
+                "30"
+            ]
+        }, 
+        "question_mod": "Roxanne drove to the circus at an average speed of 30 miles per hour. She returned home along the same route and averaged 25 miles per hour. If her total travel time was 2 hours and 12 minutes, how many miles did she drive on her return from the circus?", 
+        "question": "Roxanne drove to the circus at an average speed of 30 miles per hour. She returned home along the same route and averaged 25 miles per hour. If her total travel time was 2 hours and 12 minutes, how many miles did she drive on her return from the circus?", 
+        "id": 11136, 
+        "quantities": [
+            {
+                "value": "30", 
+                "rate": "hour", 
+                "verb": "drive", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "Roxanne", 
+                "unit": "mile"
+            }, 
+            {
+                "value": "25", 
+                "rate": "hour", 
+                "verb": "average", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": null, 
+                "unit": "mile"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "drive", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "she", 
+                "unit": "hour"
+            }, 
+            {
+                "value": "12", 
+                "rate": null, 
+                "verb": "drive", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "she", 
+                "unit": "minute"
+            }
+        ]
+    }, 
+    {
+        "question_mod": "The Suzukis are having a picnic at their house where they will serve pasta salad to all of the guests. 1 pound of pasta salad either serves 6 adults or 10 children. If the Suzukis have 34 guests, 10 of whom are children, how many pounds of pasta salad will they need to serve all of the guests?", 
+        "answer": {
+            "text": "5", 
+            "value": [
+                "5"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "pound of salad"
+            }, 
+            {
+                "value": "6", 
+                "rate": null, 
+                "verb": "serve", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "pound", 
+                "unit": "adult"
+            }, 
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": "serve", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "pound", 
+                "unit": "child"
+            }, 
+            {
+                "value": "34", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Suzukis", 
+                "unit": "guest"
+            }, 
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Suzukis", 
+                "unit": "child"
+            }
+        ], 
+        "question": "The Suzukis are having a picnic at their house where they will serve pasta salad to all of the guests. One pound of pasta salad either serves 6 adults or 10 children. If the Suzukis have 34 guests, 10 of whom are children, how many pounds of pasta salad will they need to serve all of the guests?", 
+        "id": 11137, 
+        "choices": {
+            "A": {
+                "text": "3", 
+                "value": [
+                    "3"
+                ]
+            }, 
+            "C": {
+                "text": "5", 
+                "value": [
+                    "5"
+                ]
+            }, 
+            "B": {
+                "text": "4", 
+                "value": [
+                    "4"
+                ]
+            }, 
+            "E": {
+                "text": "7", 
+                "value": [
+                    "7"
+                ]
+            }, 
+            "D": {
+                "text": "6", 
+                "value": [
+                    "6"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "If 3 kilograms of rose petals are needed to produce 5 grams of perfume, how many kilograms of rose petals are needed to produce 870 grams of perfume?", 
+        "answer": {
+            "text": "522", 
+            "value": [
+                "522"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": "need", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "kilogram", 
+                "unit": "kilogram of petal"
+            }, 
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": "produce", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "gram of perfume"
+            }, 
+            {
+                "value": "870", 
+                "rate": null, 
+                "verb": "produce", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "gram of perfume"
+            }
+        ], 
+        "question": "If 3 kilograms of rose petals are needed to produce 5 grams of perfume, how many kilograms of rose petals are needed to produce 870 grams of perfume?", 
+        "id": 11142, 
+        "choices": {
+            "A": {
+                "text": "290", 
+                "value": [
+                    "290"
+                ]
+            }, 
+            "C": {
+                "text": "870", 
+                "value": [
+                    "870"
+                ]
+            }, 
+            "B": {
+                "text": "522", 
+                "value": [
+                    "522"
+                ]
+            }, 
+            "E": {
+                "text": "2,610", 
+                "value": [
+                    "2610"
+                ]
+            }, 
+            "D": {
+                "text": "1,450", 
+                "value": [
+                    "1450"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "The populations of 2 species of bacteria in a petri dish vary inversely. If there are 1000 bacteria of species A when there are 500 bacteria of species B, how many bacteria of species B are there when there are 2000 bacteria of species A ?", 
+        "answer": {
+            "text": "250", 
+            "value": [
+                "250"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "species of bacteria"
+            }, 
+            {
+                "value": "1000", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "bacteria", 
+                "unit": "bacteria of species"
+            }, 
+            {
+                "value": "500", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "bacteria", 
+                "unit": "bacteria of species"
+            }, 
+            {
+                "value": "2000", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "bacteria", 
+                "unit": "bacteria"
+            }
+        ], 
+        "question": "The populations of two species of bacteria in a petri dish vary inversely. If there are 1,000 bacteria of species A when there are 500 bacteria of species B, how many bacteria of species B are there when there are 2,000 bacteria of species A ?", 
+        "id": 11153, 
+        "choices": {
+            "A": {
+                "text": "250", 
+                "value": [
+                    "250"
+                ]
+            }, 
+            "C": {
+                "text": "750", 
+                "value": [
+                    "750"
+                ]
+            }, 
+            "B": {
+                "text": "500", 
+                "value": [
+                    "500"
+                ]
+            }, 
+            "E": {
+                "text": "2,000", 
+                "value": [
+                    "2000"
+                ]
+            }, 
+            "D": {
+                "text": "1,000", 
+                "value": [
+                    "1000"
+                ]
+            }
+        }
+    }, 
+    {
+        "answer": {
+            "text": "1000", 
+            "value": [
+                "1000"
+            ]
+        }, 
+        "question_mod": "A restaurant has 25 entries and 40 side dishes. If Mary wants to order 1 entree and 1 side dish, how many different combinations of entree and side dish could she order?", 
+        "question": "A restaurant has 25 entries and 40 side dishes. If Mary wants to order one entree and one side dish, how many different combinations of entree and side dish could she order?", 
+        "id": 11163, 
+        "quantities": [
+            {
+                "value": "25", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "restaurant", 
+                "unit": "entries"
+            }, 
+            {
+                "value": "40", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "restaurant", 
+                "unit": "side"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "order", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "entree"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "order", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "dish"
+            }
+        ]
+    }, 
+    {
+        "question_mod": "If Jonas has already run 4 miles in a 20-mile race, what fraction of the race has he already run?", 
+        "answer": {
+            "text": "\\(\\frac { 1 } { 5 } \\)", 
+            "value": [
+                "0.2"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "4", 
+                "rate": null, 
+                "verb": "run", 
+                "nouns": [
+                    "race"
+                ], 
+                "if_rate": false, 
+                "subj": "Jonas", 
+                "unit": "mile"
+            }, 
+            {
+                "value": "20", 
+                "rate": null, 
+                "verb": "run", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Jonas", 
+                "unit": "mile"
+            }
+        ], 
+        "question": "If Jonas has already run 4 miles in a 20-mile race, what fraction of the race has he already run?", 
+        "id": 11168, 
+        "choices": {
+            "A": {
+                "text": "\\(\\frac { 1 } { 80 } \\)", 
+                "value": [
+                    "0.01"
+                ]
+            }, 
+            "C": {
+                "text": "\\(\\frac { 1 } { 8 } \\)", 
+                "value": [
+                    "0.12"
+                ]
+            }, 
+            "B": {
+                "text": "\\(\\frac { 1 } { 24 } \\)", 
+                "value": [
+                    "0.04"
+                ]
+            }, 
+            "E": {
+                "text": "\\(\\frac { 1 } { 5 } \\)", 
+                "value": [
+                    "0.2"
+                ]
+            }, 
+            "D": {
+                "text": "\\(\\frac { 1 } { 6 } \\)", 
+                "value": [
+                    "0.17"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "A television set costs $25 less than 2 times the cost of a radio. If the television and radio together cost $200, how much more does the television cost than the radio?", 
+        "answer": {
+            "text": "\\$50", 
+            "value": [
+                "50"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "25", 
+                "rate": null, 
+                "verb": "cost", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "television", 
+                "unit": "$"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "cost", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "television", 
+                "unit": "time"
+            }, 
+            {
+                "value": "200", 
+                "rate": null, 
+                "verb": "cost", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "television", 
+                "unit": "$"
+            }
+        ], 
+        "question": "A television set costs $25 less than twice the cost of a radio. If the television and radio together cost $200, how much more does the television cost than the radio?", 
+        "id": 11177, 
+        "choices": {
+            "A": {
+                "text": "\\$50", 
+                "value": [
+                    "50"
+                ]
+            }, 
+            "C": {
+                "text": "\\$100", 
+                "value": [
+                    "100"
+                ]
+            }, 
+            "B": {
+                "text": "\\$75", 
+                "value": [
+                    "75"
+                ]
+            }, 
+            "E": {
+                "text": "\\$150", 
+                "value": [
+                    "150"
+                ]
+            }, 
+            "D": {
+                "text": "\\$125", 
+                "value": [
+                    "125"
+                ]
+            }
+        }
+    }, 
+    {
+        "answer": {
+            "text": "14", 
+            "value": [
+                "14"
+            ]
+        }, 
+        "question_mod": "The total cost to send a package with World Express is $2.00 for the first 10 ounces and $0.30 for each additional ounce. What is the total cost, in dollars, to send a package that weighs 50 ounces? ", 
+        "question": "The total cost to send a package with World Express is \\$2.00 for the first 10 ounces and \\$0.30 for each additional ounce. What is the total cost, in dollars, to send a package that weighs 50 ounces? (Disregard the \\$ sign when gridding your answer)", 
+        "id": 11207, 
+        "quantities": [
+            {
+                "value": "2.00", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "ounce"
+            }, 
+            {
+                "value": "0.30", 
+                "rate": "ounce", 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "50", 
+                "rate": null, 
+                "verb": "weigh", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "that", 
+                "unit": "ounce"
+            }
+        ]
+    }, 
+    {
+        "question_mod": "At a certain store, the price of a new compact disc is 5 times the price of a used compact disc. The difference between the 2 prices is 10 dollars. What would be the total price of 3 used compact discs and 2 new compact discs at this store?", 
+        "answer": {
+            "text": "\\$32.50", 
+            "value": [
+                "32.50"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "time"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "price"
+            }, 
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "dollar"
+            }, 
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "disc"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [
+                    "store"
+                ], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "disc"
+            }
+        ], 
+        "question": "At a certain store, the price of a new compact disc is five times the price of a used compact disc. The difference between the two prices is ten dollars. What would be the total price of three used compact discs and two new compact discs at this store?", 
+        "id": 11321, 
+        "choices": {
+            "A": {
+                "text": "\\$26.00", 
+                "value": [
+                    "26.00"
+                ]
+            }, 
+            "C": {
+                "text": "\\$32.50", 
+                "value": [
+                    "32.50"
+                ]
+            }, 
+            "B": {
+                "text": "\\$30.00", 
+                "value": [
+                    "30.00"
+                ]
+            }, 
+            "E": {
+                "text": "\\$45.00", 
+                "value": [
+                    "45.00"
+                ]
+            }, 
+            "D": {
+                "text": "\\$42.50", 
+                "value": [
+                    "42.50"
+                ]
+            }
+        }
+    }, 
+    {
+        "answer": {
+            "text": "20", 
+            "value": [
+                "20"
+            ]
+        }, 
+        "question_mod": "60 percent of Gateway High School's 300 students are female, and 60 percent of Riverdale High School's 400 students are male. How many more female students attend Gateway than attend Riverdale?", 
+        "question": "Sixty percent of Gateway High School's 300 students are female, and sixty percent of Riverdale High School's 400 students are male. How many more female students attend Gateway than attend Riverdale?", 
+        "id": 11333, 
+        "quantities": [
+            {
+                "value": "60", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "percent of student"
+            }, 
+            {
+                "value": "300", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "student"
+            }, 
+            {
+                "value": "60", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "percent of student"
+            }, 
+            {
+                "value": "400", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "student"
+            }
+        ]
+    }, 
+    {
+        "question_mod": "If 60 percent of Jared's jigsaw puzzles have 50 pieces and 40 percent of his jigsaw puzzles have 30 pieces each, what is the average (arithmetic mean) number of pieces per puzzle?", 
+        "answer": {
+            "text": "42", 
+            "value": [
+                "42"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "60", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "percent", 
+                "unit": "percent of puzzle"
+            }, 
+            {
+                "value": "50", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "percent", 
+                "unit": "piece"
+            }, 
+            {
+                "value": "40", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "percent", 
+                "unit": "percent of puzzle"
+            }, 
+            {
+                "value": "30", 
+                "rate": "average", 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "percent", 
+                "unit": "piece"
+            }
+        ], 
+        "question": "If 60 percent of Jared's jigsaw puzzles have 50 pieces and 40 percent of his jigsaw puzzles have 30 pieces each, what is the average (arithmetic mean) number of pieces per puzzle?", 
+        "id": 11352, 
+        "choices": {
+            "A": {
+                "text": "36", 
+                "value": [
+                    "36"
+                ]
+            }, 
+            "C": {
+                "text": "40", 
+                "value": [
+                    "40"
+                ]
+            }, 
+            "B": {
+                "text": "38", 
+                "value": [
+                    "38"
+                ]
+            }, 
+            "E": {
+                "text": "44", 
+                "value": [
+                    "44"
+                ]
+            }, 
+            "D": {
+                "text": "42", 
+                "value": [
+                    "42"
+                ]
+            }
+        }
+    }, 
+    {
+        "answer": {
+            "text": "320", 
+            "value": [
+                "320"
+            ]
+        }, 
+        "question_mod": "The total cost of a car rental is the sum of a basic fixed rental charge for the car; and an additional charge for every 25 miles traveled. If the total cost to rent a car and drive it 50 miles is $200, and the total cost to rent a car and drive it 200 miles is $245, what is the total cost to rent a car and travel 450 miles? ", 
+        "question": "The total cost of a car rental is the sum of (1) a basic fixed rental charge for the car; and (2) an additional charge for every 25 miles traveled. If the total cost to rent a car and drive it 50 miles is $200, and the total cost to rent a car and drive it 200 miles is $245, what is the total cost to rent a car and travel 450 miles? (Disregard the $ sign when gridding your answer. If, for example, your answer is $1.37, grid 1.37.)", 
+        "id": 11357, 
+        "quantities": [
+            {
+                "value": "25", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "mile"
+            }, 
+            {
+                "value": "50", 
+                "rate": null, 
+                "verb": "drive", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "mile"
+            }, 
+            {
+                "value": "200", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "200", 
+                "rate": null, 
+                "verb": "drive", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "mile"
+            }, 
+            {
+                "value": "245", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "450", 
+                "rate": null, 
+                "verb": "travel", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "mile"
+            }
+        ]
+    }, 
+    {
+        "question_mod": "In a jar of cookies, 0.12 of the cookies are oatmeal raisin, 0.25 are peanut butter, 0.5 are chocolate chip, and the remaining 12 cookies are mint. How many peanut butter cookies are in the jar?", 
+        "answer": {
+            "text": "24", 
+            "value": [
+                "24"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "0.12", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "raisin"
+            }, 
+            {
+                "value": "0.25", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "raisin"
+            }, 
+            {
+                "value": "0.5", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "chip"
+            }, 
+            {
+                "value": "12", 
+                "rate": null, 
+                "verb": "remaining", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "cookie"
+            }
+        ], 
+        "question": "In a jar of cookies, \\(\\frac { 1 } { 8 } \\) of the cookies are oatmeal raisin, \\(\\frac { 1 } { 4 } \\) are peanut butter, \\(\\frac { 1 } { 2 } \\) are chocolate chip, and the remaining 12 cookies are mint. How many peanut butter cookies are in the jar?", 
+        "id": 11365, 
+        "choices": {
+            "A": {
+                "text": "24", 
+                "value": [
+                    "24"
+                ]
+            }, 
+            "C": {
+                "text": "32", 
+                "value": [
+                    "32"
+                ]
+            }, 
+            "B": {
+                "text": "28", 
+                "value": [
+                    "28"
+                ]
+            }, 
+            "E": {
+                "text": "50", 
+                "value": [
+                    "50"
+                ]
+            }, 
+            "D": {
+                "text": "48", 
+                "value": [
+                    "48"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "If Maurice has $80, and he spends $32.45 on clothes and gives $27.55 to his sister, what fraction of the original $80 does Maurice have left?", 
+        "answer": {
+            "text": "\\(\\frac{1}{4}\\)", 
+            "value": [
+                "0.25"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "80", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Maurice", 
+                "unit": "$"
+            }, 
+            {
+                "value": "32.45", 
+                "rate": null, 
+                "verb": "spend", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "he", 
+                "unit": "$"
+            }, 
+            {
+                "value": "27.55", 
+                "rate": null, 
+                "verb": "give", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "80", 
+                "rate": null, 
+                "verb": "leave", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "fraction", 
+                "unit": "$"
+            }
+        ], 
+        "question": "If Maurice has $80, and he spends $32.45 on clothes and gives $27.55 to his sister, what fraction of the original $80 does Maurice have left?", 
+        "id": 11451, 
+        "choices": {
+            "A": {
+                "text": "\\(\\frac{1}{5}\\)", 
+                "value": [
+                    "0.2"
+                ]
+            }, 
+            "C": {
+                "text": "\\(\\frac{3}{10}\\)", 
+                "value": [
+                    "0.3"
+                ]
+            }, 
+            "B": {
+                "text": "\\(\\frac{1}{4}\\)", 
+                "value": [
+                    "0.25"
+                ]
+            }, 
+            "E": {
+                "text": "\\(\\frac{3}{5}\\)", 
+                "value": [
+                    "0.6"
+                ]
+            }, 
+            "D": {
+                "text": "\\(\\frac{1}{2}\\)", 
+                "value": [
+                    "0.5"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "Stephanie has 10 shirts, 4 pairs of pants, and 5 pairs of shoes. If an outfit consists of exactly 1 shirt, 1 pair of pants and 1 pair of shoes, how many different outfits could she wear?", 
+        "answer": {
+            "text": "200", 
+            "value": [
+                "200"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Stephanie", 
+                "unit": "shirt"
+            }, 
+            {
+                "value": "4", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Stephanie", 
+                "unit": "pair of pants"
+            }, 
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Stephanie", 
+                "unit": "pair of shoe"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "wear", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "consist", 
+                "unit": "shirt"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "wear", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "consist", 
+                "unit": "pair of pants"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "wear", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "consist", 
+                "unit": "pair of shoe"
+            }
+        ], 
+        "question": "Stephanie has ten shirts, four pairs of pants, and five pairs of shoes. If an outfit consists of exactly one shirt, one pair of pants and one pair of shoes, how many different outfits could she wear?", 
+        "id": 11473, 
+        "choices": {
+            "A": {
+                "text": "19", 
+                "value": [
+                    "19"
+                ]
+            }, 
+            "C": {
+                "text": "105", 
+                "value": [
+                    "105"
+                ]
+            }, 
+            "B": {
+                "text": "95", 
+                "value": [
+                    "95"
+                ]
+            }, 
+            "E": {
+                "text": "200", 
+                "value": [
+                    "200"
+                ]
+            }, 
+            "D": {
+                "text": "190", 
+                "value": [
+                    "190"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "In a class, 20 children were sharing equally the cost of a present for their teacher. When 4 of the children decided not to contribute, each of the other children had to pay $1.50 more. How much, in dollars, did the present cost?", 
+        "answer": {
+            "text": "120", 
+            "value": [
+                "120"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "20", 
+                "rate": null, 
+                "verb": "shar", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "child", 
+                "unit": "child"
+            }, 
+            {
+                "value": "4", 
+                "rate": null, 
+                "verb": "decide", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "4", 
+                "unit": "decide"
+            }, 
+            {
+                "value": "1.50", 
+                "rate": null, 
+                "verb": "pay", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }
+        ], 
+        "question": "In a class, 20 children were sharing equally the cost of a present for their teacher. When 4 of the children decided not to contribute, each of the other children had to pay \\$1.50 more. How much, in dollars, did the present cost?", 
+        "id": 11478, 
+        "choices": {
+            "A": {
+                "text": "50", 
+                "value": [
+                    "50"
+                ]
+            }, 
+            "C": {
+                "text": "100", 
+                "value": [
+                    "100"
+                ]
+            }, 
+            "B": {
+                "text": "80", 
+                "value": [
+                    "80"
+                ]
+            }, 
+            "E": {
+                "text": "150", 
+                "value": [
+                    "150"
+                ]
+            }, 
+            "D": {
+                "text": "120", 
+                "value": [
+                    "120"
+                ]
+            }
+        }
+    }, 
+    {
+        "answer": {
+            "text": "12", 
+            "value": [
+                "12"
+            ]
+        }, 
+        "question_mod": "In 1980, Elaine was 8 times as old as Adam, and Judy was 3 times as old as Adam. Elaine is 20 years older than Judy. How old was Adam in 1988?", 
+        "question": "In 1980, Elaine was 8 times as old as Adam, and Judy was 3 times as old as Adam. Elaine is 20 years older than Judy. How old was Adam in 1988?", 
+        "id": 11497, 
+        "quantities": [
+            {
+                "value": "1980", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "old"
+            }, 
+            {
+                "value": "8", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "time"
+            }, 
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "time"
+            }, 
+            {
+                "value": "20", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "year"
+            }, 
+            {
+                "value": "1988", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "Adam"
+            }
+        ]
+    }, 
+    {
+        "answer": {
+            "text": "19", 
+            "value": [
+                "19"
+            ]
+        }, 
+        "question_mod": "5 people shared a prize of $100. Each 1 received a whole number of dollars, and no 2 people received the same amount. If the largest share was $30 and the smallest share was $15, what is the most money that the person with the third largest share could have received? ", 
+        "question": "Five people shared a prize of \\$100. Each one received a whole number of dollars, and no two people received the same amount. If the largest share was \\$30 and the smallest share was \\$15, what is the most money that the person with the third largest share could have received? (Grid in your answer without a dollar sign.)", 
+        "id": 11514, 
+        "quantities": [
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "people"
+            }, 
+            {
+                "value": "100", 
+                "rate": null, 
+                "verb": "share", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "people", 
+                "unit": "$"
+            }, 
+            {
+                "value": "1", 
+                "rate": "number", 
+                "verb": "receive", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "1", 
+                "unit": "receive"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "receive", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "people", 
+                "unit": "people"
+            }, 
+            {
+                "value": "30", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "15", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }
+        ]
+    }, 
+    {
+        "answer": {
+            "text": "345", 
+            "value": [
+                "345"
+            ]
+        }, 
+        "question_mod": "The average (arithmetic man) amount of savings of IO students is $60. If 3 of the students have no savings at all, and each of the others has at least $25, including John, who has exactly $130, what is the largest amount, in dollars, that any 1 student can have?", 
+        "question": "The average (arithmetic man) amount of savings of IO students is \\$60. If 3 of the students have no savings at all, and each of the others has at least \\$25, including John, who has exactly \\$130, what is the largest amount, in dollars, that any one student can have?", 
+        "id": 11532, 
+        "quantities": [
+            {
+                "value": "60", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "3", 
+                "unit": "have"
+            }, 
+            {
+                "value": "25", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "130", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "who", 
+                "unit": "$"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "have", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "student", 
+                "unit": "student"
+            }
+        ]
+    }, 
+    {
+        "question_mod": "1 box of muffin mix is sufficient to bake 6 large muffins or 10 mini- muffins. How many boxes are needed to bake 180 muffins, 120 of which are large muffins and the rest of which are mini-muffins?", 
+        "answer": {
+            "text": "26", 
+            "value": [
+                "26"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "box of mix"
+            }, 
+            {
+                "value": "6", 
+                "rate": null, 
+                "verb": "bake", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "muffin"
+            }, 
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": "bake", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "muffin"
+            }, 
+            {
+                "value": "180", 
+                "rate": null, 
+                "verb": "bake", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "muffin"
+            }, 
+            {
+                "value": "120", 
+                "rate": null, 
+                "verb": "bake", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "muffin"
+            }
+        ], 
+        "question": "One box of muffin mix is sufficient to bake six large muffins or ten mini- muffins. How many boxes are needed to bake 180 muffins, 120 of which are large muffins and the rest of which are mini-muffins?", 
+        "id": 11534, 
+        "choices": {
+            "A": {
+                "text": "18", 
+                "value": [
+                    "18"
+                ]
+            }, 
+            "C": {
+                "text": "22", 
+                "value": [
+                    "22"
+                ]
+            }, 
+            "B": {
+                "text": "20", 
+                "value": [
+                    "20"
+                ]
+            }, 
+            "E": {
+                "text": "28", 
+                "value": [
+                    "28"
+                ]
+            }, 
+            "D": {
+                "text": "26", 
+                "value": [
+                    "26"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "Jo spends 25 percent of her monthly income on food, 30 percent on rent, 20 percent on insurance, and 10 percent on entertainment and miscellaneous expenses. Of her remaining income, she gives 0.5 to charity and saves the rest. If Jo saves 75 dollars every month, what is her total monthly income?", 
+        "answer": {
+            "text": "\\$1,000", 
+            "value": [
+                "1000"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "25", 
+                "rate": null, 
+                "verb": "spend", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Jo", 
+                "unit": "percent of income"
+            }, 
+            {
+                "value": "30", 
+                "rate": null, 
+                "verb": "spend", 
+                "nouns": [
+                    "rent"
+                ], 
+                "if_rate": false, 
+                "subj": "Jo", 
+                "unit": "percent"
+            }, 
+            {
+                "value": "20", 
+                "rate": null, 
+                "verb": "spend", 
+                "nouns": [
+                    "insurance"
+                ], 
+                "if_rate": false, 
+                "subj": "Jo", 
+                "unit": "percent"
+            }, 
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": "spend", 
+                "nouns": [
+                    "entertainment"
+                ], 
+                "if_rate": false, 
+                "subj": "Jo", 
+                "unit": "percent"
+            }, 
+            {
+                "value": "0.5", 
+                "rate": null, 
+                "verb": "give", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "she", 
+                "unit": "give"
+            }, 
+            {
+                "value": "75", 
+                "rate": null, 
+                "verb": "save", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Jo", 
+                "unit": "dollar"
+            }
+        ], 
+        "question": "Jo spends 25 percent of her monthly income on food, 30 percent on rent, 20 percent on insurance, and 10 percent on entertainment and miscellaneous expenses. Of her remaining income, she gives half to charity and saves the rest. If Jo saves 75 dollars every month, what is her total monthly income?", 
+        "id": 11571, 
+        "choices": {
+            "A": {
+                "text": "\\$1,000", 
+                "value": [
+                    "1000"
+                ]
+            }, 
+            "C": {
+                "text": "\\$1,600", 
+                "value": [
+                    "1600"
+                ]
+            }, 
+            "B": {
+                "text": "\\$1,500", 
+                "value": [
+                    "1500"
+                ]
+            }, 
+            "E": {
+                "text": "\\$5,000", 
+                "value": [
+                    "5000"
+                ]
+            }, 
+            "D": {
+                "text": "\\$2,500", 
+                "value": [
+                    "2500"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "A group of 48 employees is taking 11 cars to the annual company picnic. If each car will be occupied by 4 or 5 employees, what is the number of cars occupied by 5 employees?", 
+        "answer": {
+            "text": "4", 
+            "value": [
+                "4"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "48", 
+                "rate": null, 
+                "verb": "take", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "group", 
+                "unit": "employee"
+            }, 
+            {
+                "value": "11", 
+                "rate": null, 
+                "verb": "take", 
+                "nouns": [
+                    "picnic"
+                ], 
+                "if_rate": false, 
+                "subj": "group", 
+                "unit": "car"
+            }, 
+            {
+                "value": "4", 
+                "rate": "car", 
+                "verb": "occupy", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "car", 
+                "unit": "occupy"
+            }, 
+            {
+                "value": "5", 
+                "rate": "car", 
+                "verb": "occupy", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "car", 
+                "unit": "employee"
+            }, 
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": "occupy", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "employee"
+            }
+        ], 
+        "question": "A group of 48 employees is taking 11 cars to the annual company picnic. If each car will be occupied by 4 or 5 employees, what is the number of cars occupied by 5 employees?", 
+        "id": 11629, 
+        "choices": {
+            "A": {
+                "text": "7", 
+                "value": [
+                    "7"
+                ]
+            }, 
+            "C": {
+                "text": "5", 
+                "value": [
+                    "5"
+                ]
+            }, 
+            "B": {
+                "text": "6", 
+                "value": [
+                    "6"
+                ]
+            }, 
+            "E": {
+                "text": "3", 
+                "value": [
+                    "3"
+                ]
+            }, 
+            "D": {
+                "text": "4", 
+                "value": [
+                    "4"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "In a certain country, the ratio of people 50 and over to people under 50 is 3 to 5. What percent of the population is under 50?", 
+        "answer": {
+            "text": "62.5", 
+            "value": [
+                "62.5"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "50", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "people"
+            }, 
+            {
+                "value": "50", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "people"
+            }, 
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "ratio of people"
+            }, 
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": null
+            }, 
+            {
+                "value": "50", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "?"
+            }
+        ], 
+        "question": "In a certain country, the ratio of people 50 and over to people under 50 is 3 to 5. What percent of the population is under 50?", 
+        "id": 11632, 
+        "choices": {
+            "A": {
+                "text": "30", 
+                "value": [
+                    "30"
+                ]
+            }, 
+            "C": {
+                "text": "50", 
+                "value": [
+                    "50"
+                ]
+            }, 
+            "B": {
+                "text": "37.5", 
+                "value": [
+                    "37.5"
+                ]
+            }, 
+            "E": {
+                "text": "62.5", 
+                "value": [
+                    "62.5"
+                ]
+            }, 
+            "D": {
+                "text": "60", 
+                "value": [
+                    "60"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "Ahmed rolled an 8-sided polygon 6 times. Each face of the polygon has a number from 1-8 painted on it. No 2 numbers are repeated. Each roll yields 1 number face up. The first roll yields an even number. The second roll yields an odd number. The third roll yields the number 5. The fourth roll yields a number smaller than 4. The fifth roll yields the same number as the fourth roll. The sixth roll yields a number smaller than the fifth roll. Which of the following must be true?", 
+        "answer": {
+            "text": "Ahmed could have rolled a 2 more frequently than he could have rolled any other numbers.", 
+            "value": [
+                "2"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "8", 
+                "rate": null, 
+                "verb": "roll", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Ahmed", 
+                "unit": "sided"
+            }, 
+            {
+                "value": "6", 
+                "rate": null, 
+                "verb": "roll", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "Ahmed", 
+                "unit": "time"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "repeate", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "number", 
+                "unit": "number"
+            }, 
+            {
+                "value": "1", 
+                "rate": "roll", 
+                "verb": "yield", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "roll", 
+                "unit": "number"
+            }, 
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "number"
+            }, 
+            {
+                "value": "4", 
+                "rate": null, 
+                "verb": "yield", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "roll", 
+                "unit": "smaller"
+            }
+        ], 
+        "question": "Ahmed rolled an eight-sided polygon six times. Each face of the polygon has a number from 1-8 painted on it. No two numbers are repeated. Each roll yields one number face up. The first roll yields an even number. The second roll yields an odd number. The third roll yields the number 5. The fourth roll yields a number smaller than 4. The fifth roll yields the same number as the fourth roll. The sixth roll yields a number smaller than the fifth roll. Which of the following must be true?", 
+        "id": 11783, 
+        "choices": {
+            "A": {
+                "text": "Ahmed could have rolled a 5 three times.", 
+                "value": [
+                    "5", 
+                    "3"
+                ]
+            }, 
+            "C": {
+                "text": "Ahmed rolled more odd numbers than even numbers.", 
+                "value": []
+            }, 
+            "B": {
+                "text": "Ahmed could have rolled a 2 more frequently than he could have rolled any other numbers.", 
+                "value": [
+                    "2"
+                ]
+            }, 
+            "E": {
+                "text": "Ahmed rolled a 1 on four rolls.", 
+                "value": [
+                    "1", 
+                    "4"
+                ]
+            }, 
+            "D": {
+                "text": "Ahmed rolled a 3 at least once.", 
+                "value": [
+                    "3"
+                ]
+            }
+        }
+    }, 
+    {
+        "answer": {
+            "text": "760", 
+            "value": [
+                "760"
+            ]
+        }, 
+        "question_mod": "On a cruise, 80 percent of the 3000 passengers were married. Of these married passengers, 60 percent had been married less than a year, and 200 had been married more than 10 years. How many had been married 1-10 years?", 
+        "question": "On a cruise, 80 percent of the 3,000 passengers were married. Of these married passengers, 60 percent had been married less than a year, and 200 had been married more than 10 years. How many had been married 1-10 years?", 
+        "id": 11808, 
+        "quantities": [
+            {
+                "value": "80", 
+                "rate": null, 
+                "verb": "marry", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "percent", 
+                "unit": "percent of passenger"
+            }, 
+            {
+                "value": "3000", 
+                "rate": null, 
+                "verb": "marry", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "percent", 
+                "unit": "passenger"
+            }, 
+            {
+                "value": "60", 
+                "rate": null, 
+                "verb": "marry", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "percent", 
+                "unit": "percent"
+            }, 
+            {
+                "value": "200", 
+                "rate": null, 
+                "verb": "marry", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "200", 
+                "unit": "marry"
+            }, 
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": "marry", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "200", 
+                "unit": "year"
+            }
+        ]
+    }, 
+    {
+        "question_mod": "The estate of a wealthy man was distributed as follows: 10% to his wife, 5% divided equally among his 3 children, 5% divided equally among his 5 grandchildren, and the balance to a charitable trust. If the trust received $1000000, how much did each grandchild inherit?", 
+        "answer": {
+            "text": "\\$12,500", 
+            "value": [
+                "12500"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [
+                    "wife"
+                ], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "%"
+            }, 
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "%"
+            }, 
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": "divide", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "%", 
+                "unit": "child"
+            }, 
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": "divide", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "%", 
+                "unit": "%"
+            }, 
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": "divide", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "%", 
+                "unit": "grandchild"
+            }, 
+            {
+                "value": "1000000", 
+                "rate": null, 
+                "verb": "receive", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "trust", 
+                "unit": "$"
+            }
+        ], 
+        "question": "The estate of a wealthy man was distributed as follows: 10\\% to his wife, 5\\% divided equally among his three children, 5\\% divided equally among his five grandchildren, and the balance to a charitable trust. If the trust received \\$1,000,000, how much did each grandchild inherit?", 
+        "id": 11817, 
+        "choices": {
+            "A": {
+                "text": "\\$10,000", 
+                "value": [
+                    "10000"
+                ]
+            }, 
+            "C": {
+                "text": "\\$20,000", 
+                "value": [
+                    "20000"
+                ]
+            }, 
+            "B": {
+                "text": "\\$12,500", 
+                "value": [
+                    "12500"
+                ]
+            }, 
+            "E": {
+                "text": "\\$100,000", 
+                "value": [
+                    "100000"
+                ]
+            }, 
+            "D": {
+                "text": "\\$62,500", 
+                "value": [
+                    "62500"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "A bag contains 2 white marbles, 4 blue marbles, and an unknown number of black marbles. When 1 marble is drawn from the bag at random, the probability that the marble is black will be 0.33. How many black marbles are in the bag?", 
+        "answer": {
+            "text": "3", 
+            "value": [
+                "3"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "contain", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "bag", 
+                "unit": "marble"
+            }, 
+            {
+                "value": "4", 
+                "rate": null, 
+                "verb": "contain", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "bag", 
+                "unit": "marble"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "draw", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "marble", 
+                "unit": "marble"
+            }, 
+            {
+                "value": "0.33", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "black"
+            }
+        ], 
+        "question": "A bag contains two white marbles, four blue marbles, and an unknown number of black marbles. When one marble is drawn from the bag at random, the probability that the marble is black will be \\(\\frac { 1 } { 3 } \\). How many black marbles are in the bag?", 
+        "id": 11869, 
+        "choices": {
+            "A": {
+                "text": "3", 
+                "value": [
+                    "3"
+                ]
+            }, 
+            "C": {
+                "text": "5", 
+                "value": [
+                    "5"
+                ]
+            }, 
+            "B": {
+                "text": "4", 
+                "value": [
+                    "4"
+                ]
+            }, 
+            "E": {
+                "text": "8", 
+                "value": [
+                    "8"
+                ]
+            }, 
+            "D": {
+                "text": "6", 
+                "value": [
+                    "6"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "A coffee shop sold 35 cups of coffee. Of these, 15 contained sugar and 12 contained milk. If 13 cups contained neither milk nor sugar, how many cups must have contained both sugar and milk?", 
+        "answer": {
+            "text": "5", 
+            "value": [
+                "5"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "35", 
+                "rate": null, 
+                "verb": "sell", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "shop", 
+                "unit": "cup of coffee"
+            }, 
+            {
+                "value": "15", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "contain"
+            }, 
+            {
+                "value": "12", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "milk"
+            }, 
+            {
+                "value": "13", 
+                "rate": null, 
+                "verb": "contain", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "cup", 
+                "unit": "cup"
+            }
+        ], 
+        "question": "A coffee shop sold 35 cups of coffee. Of these, 15 contained sugar and 12 contained milk. If 13 cups contained neither milk nor sugar, how many cups must have contained both sugar and milk?", 
+        "id": 11919, 
+        "choices": {
+            "A": {
+                "text": "3", 
+                "value": [
+                    "3"
+                ]
+            }, 
+            "C": {
+                "text": "7", 
+                "value": [
+                    "7"
+                ]
+            }, 
+            "B": {
+                "text": "5", 
+                "value": [
+                    "5"
+                ]
+            }, 
+            "E": {
+                "text": "12", 
+                "value": [
+                    "12"
+                ]
+            }, 
+            "D": {
+                "text": "8", 
+                "value": [
+                    "8"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "A car rental agency charges $40 per day for the first 7 days, and $35 a day for each day after that. How much would Joe be charged if he rented a car for 10 days?", 
+        "answer": {
+            "text": "\\$385", 
+            "value": [
+                "385"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "40", 
+                "rate": "day", 
+                "verb": "charge", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "agency", 
+                "unit": "$"
+            }, 
+            {
+                "value": "7", 
+                "rate": null, 
+                "verb": "charge", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "agency", 
+                "unit": "day"
+            }, 
+            {
+                "value": "35", 
+                "rate": "day", 
+                "verb": "charge", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "agency", 
+                "unit": "$"
+            }, 
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": "rent", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "he", 
+                "unit": "day"
+            }
+        ], 
+        "question": "A car rental agency charges $40 per day for the first 7 days, and $35 a day for each day after that. How much would Joe be charged if he rented a car for 10 days?", 
+        "id": 12012, 
+        "choices": {
+            "A": {
+                "text": "\\$375", 
+                "value": [
+                    "375"
+                ]
+            }, 
+            "C": {
+                "text": "\\$395", 
+                "value": [
+                    "395"
+                ]
+            }, 
+            "B": {
+                "text": "\\$385", 
+                "value": [
+                    "385"
+                ]
+            }, 
+            "E": {
+                "text": "\\$415", 
+                "value": [
+                    "415"
+                ]
+            }, 
+            "D": {
+                "text": "\\$405", 
+                "value": [
+                    "405"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "A bag of candy contains chocolate hearts, vanilla hearts and gumballs. The number of pieces of heart-shaped candy is 5 times the number of gumballs. If 1 piece of candy is to be chosen at random from the bag, the probability that a vanilla heart is chosen is 4 times the probability that a chocolate heart will be chosen. If there are 16 vanilla hearts in the bagm what is the total number of pieces of candy in the bag?", 
+        "answer": {
+            "text": "24", 
+            "value": [
+                "24"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "5", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "time"
+            }, 
+            {
+                "value": "1", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "piece", 
+                "unit": "piece of candy"
+            }, 
+            {
+                "value": "4", 
+                "rate": null, 
+                "verb": "choose", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "time"
+            }, 
+            {
+                "value": "16", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [
+                    "bagm"
+                ], 
+                "if_rate": false, 
+                "subj": "heart", 
+                "unit": "heart"
+            }
+        ], 
+        "question": "A bag of candy contains chocolate hearts, vanilla hearts and gumballs. The number of pieces of heart-shaped candy is 5 times the number of gumballs. If one piece of candy is to be chosen at random from the bag, the probability that a vanilla heart is chosen is 4 times the probability that a chocolate heart will be chosen. If there are 16 vanilla hearts in the bagm what is the total number of pieces of candy in the bag?", 
+        "id": 12053, 
+        "choices": {
+            "A": {
+                "text": "48", 
+                "value": [
+                    "48"
+                ]
+            }, 
+            "C": {
+                "text": "36", 
+                "value": [
+                    "36"
+                ]
+            }, 
+            "B": {
+                "text": "44", 
+                "value": [
+                    "44"
+                ]
+            }, 
+            "E": {
+                "text": "20", 
+                "value": [
+                    "20"
+                ]
+            }, 
+            "D": {
+                "text": "24", 
+                "value": [
+                    "24"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "From 1980 to 1990, the value of a share of stock of XYZ Corporation doubled every year. If in 1990 a share of the stock was worth $80, in what year was it worth $10?", 
+        "answer": {
+            "text": "1987", 
+            "value": [
+                "1987"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "1980", 
+                "rate": null, 
+                "verb": "double", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "value", 
+                "unit": "double"
+            }, 
+            {
+                "value": "1990", 
+                "rate": null, 
+                "verb": "double", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "value", 
+                "unit": null
+            }, 
+            {
+                "value": "1990", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "share of stock"
+            }, 
+            {
+                "value": "80", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "10", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }
+        ], 
+        "question": "From 1980 to 1990, the value of a share of stock of XYZ Corporation doubled every year. If in 1990 a share of the stock was worth \\$80, in what year was it worth \\$10?", 
+        "id": 12060, 
+        "choices": {
+            "A": {
+                "text": "1984", 
+                "value": [
+                    "1984"
+                ]
+            }, 
+            "C": {
+                "text": "1986", 
+                "value": [
+                    "1986"
+                ]
+            }, 
+            "B": {
+                "text": "1985", 
+                "value": [
+                    "1985"
+                ]
+            }, 
+            "E": {
+                "text": "1988", 
+                "value": [
+                    "1988"
+                ]
+            }, 
+            "D": {
+                "text": "1987", 
+                "value": [
+                    "1987"
+                ]
+            }
+        }
+    }, 
+    {
+        "answer": {
+            "text": "0.9", 
+            "value": [
+                "0.9"
+            ]
+        }, 
+        "question_mod": "A school group charters 3 identical buses and occupies 0.8 of the seats. After 0.25 of the passengers leave, the remaining passengers use only 2 of the buses. What fraction of the seats on the 2 buses are now occupied?", 
+        "question": "A school group charters three identical buses and occupies \\(\\frac { 4 } { 5 } \\) of the seats. After \\(\\frac { 1 } { 4 } \\) of the passengers leave, the remaining passengers use only two of the buses. What fraction of the seats on the two buses are now occupied?", 
+        "id": 12076, 
+        "quantities": [
+            {
+                "value": "3", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "bus"
+            }, 
+            {
+                "value": "0.8", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "occupy"
+            }, 
+            {
+                "value": "0.25", 
+                "rate": null, 
+                "verb": "leave", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "0.25", 
+                "unit": "leave"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "use", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "passenger", 
+                "unit": "use"
+            }, 
+            {
+                "value": "2", 
+                "rate": null, 
+                "verb": "occupy", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "fraction", 
+                "unit": "buse"
+            }
+        ]
+    }, 
+    {
+        "answer": {
+            "text": "13", 
+            "value": [
+                "13"
+            ]
+        }, 
+        "question_mod": "In a community of 85 people, each person owns a dog or a cat or both. If there are 45 dog owners and 53 cat owners, how many people own both a dog and a cat?", 
+        "question": "In a community of 85 people, each person owns a dog or a cat or both. If there are 45 dog owners and 53 cat owners, how many people own both a dog and a cat?", 
+        "id": 12111, 
+        "quantities": [
+            {
+                "value": "85", 
+                "rate": "person", 
+                "verb": "own", 
+                "nouns": [], 
+                "if_rate": true, 
+                "subj": "person", 
+                "unit": "people"
+            }, 
+            {
+                "value": "45", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "owner", 
+                "unit": "dog"
+            }, 
+            {
+                "value": "53", 
+                "rate": null, 
+                "verb": "be", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "owner", 
+                "unit": "cat"
+            }
+        ]
+    }, 
+    {
+        "question_mod": "A certain car needs 15 gallons to travel 300 miles. At this rate, how many gallons are needed to travel 500 miles?", 
+        "answer": {
+            "text": "25", 
+            "value": [
+                "25"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "15", 
+                "rate": null, 
+                "verb": "need", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": "car", 
+                "unit": "gallon"
+            }, 
+            {
+                "value": "300", 
+                "rate": null, 
+                "verb": "travel", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "mile"
+            }, 
+            {
+                "value": "500", 
+                "rate": null, 
+                "verb": "travel", 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "mile"
+            }
+        ], 
+        "question": "A certain car needs 15 gallons to travel 300 miles. At this rate, how many gallons are needed to travel 500 miles?", 
+        "id": 12223, 
+        "choices": {
+            "A": {
+                "text": "16", 
+                "value": [
+                    "16"
+                ]
+            }, 
+            "C": {
+                "text": "25", 
+                "value": [
+                    "25"
+                ]
+            }, 
+            "B": {
+                "text": "20", 
+                "value": [
+                    "20"
+                ]
+            }, 
+            "E": {
+                "text": "35", 
+                "value": [
+                    "35"
+                ]
+            }, 
+            "D": {
+                "text": "30", 
+                "value": [
+                    "30"
+                ]
+            }
+        }
+    }, 
+    {
+        "question_mod": "The charge for the first 0.25-mile of a taxi ride is $1.40, and charge for each additional 0.25-mile is $0.20. If the total charge for a certain taxi ride is $5.00, what is the length of this ride, in miles?", 
+        "answer": {
+            "text": "\\(4 \\frac { 3 } { 4 } \\)", 
+            "value": [
+                "4.75"
+            ]
+        }, 
+        "quantities": [
+            {
+                "value": "0.25", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "mile of ride"
+            }, 
+            {
+                "value": "1.40", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "0.25", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "mile"
+            }, 
+            {
+                "value": "0.20", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }, 
+            {
+                "value": "5.00", 
+                "rate": null, 
+                "verb": null, 
+                "nouns": [], 
+                "if_rate": false, 
+                "subj": null, 
+                "unit": "$"
+            }
+        ], 
+        "question": "The charge for the first quarter-mile of a taxi ride is \\$1.40, and charge for each additional quarter-mile is \\$0.20. If the total charge for a certain taxi ride is \\$5.00, what is the length of this ride, in miles?", 
+        "id": 12229, 
+        "choices": {
+            "A": {
+                "text": "\\(4 \\frac { 1 } { 2 } \\)", 
+                "value": [
+                    "4.5"
+                ]
+            }, 
+            "C": {
+                "text": "\\(5 \\frac { 1 } { 2 } \\)", 
+                "value": [
+                    "5.5"
+                ]
+            }, 
+            "B": {
+                "text": "\\(4 \\frac { 3 } { 4 } \\)", 
+                "value": [
+                    "4.75"
+                ]
+            }, 
+            "E": {
+                "text": "25", 
+                "value": [
+                    "25"
+                ]
+            }, 
+            "D": {
+                "text": "19", 
+                "value": [
+                    "19"
+                ]
+            }
+        }
+    }
+]
