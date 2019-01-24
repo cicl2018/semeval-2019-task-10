@@ -11,52 +11,126 @@ Preprocesses the data from a table for the MLP
 def preprocess(file):
     train_input = open(file, 'r')
 
-    csvreader = csv.DictReader(train_input)
+    csvreader = csv.DictReader(train_input, delimiter='\t')
 
-    feature1 = []
-    feature2 = []
-    quantities_feature = []
+    quantity_feature = []
     quantities = []
+    if_unit_in_q = []
+    other_unit_matches_better = []
+    noun_in_q = []
+    other_noun_matches_better = []
+    num_max_matches = []
+    num_quantities = []
     relevances = []
+    relevances_buffer = []
     ids = []
-
     #fill the column arrays with corresponding values
     for row in csvreader:
-        feature1.append([row['Feature1']])
-        feature2.append([row['Feature2']])
-        quantities_feature.append([row['Quantity']])
-        quantities.append(row['Quantity'])
-        relevances.append(row['Relevance'])
-        ids.append(row['ID'])
+        quantity_feature.append([row['q']])
+        if_unit_in_q.append([row['if_unit_in_q']])
+        other_unit_matches_better.append([row['other_unit_matches_better']])
+        noun_in_q.append([row['noun_in_q']])
+        other_noun_matches_better.append([row['other_noun_matches_better']])
+        num_max_matches.append([row['num_max_matches']])
+        num_quantities.append([row['num_quantities']])
+        relevances_buffer.append([row['relevance']])
+        quantities.append(row['q'])
+        ids.append(row['id'])
+
+    relevance_true = 0
+    relevance_false = 0
+    for relevance in relevances_buffer:
+        if relevance[0] == 'True':
+            relevances.append('1')
+            relevance_true += 1
+        else:
+            relevances.append('0')
+            relevance_false += 1
 
     #transform the features to onehot
-    feature1_enc = OneHotEncoder(sparse=False)
-    feature2_enc = OneHotEncoder(sparse=False)
-    quantities_feature_enc = OneHotEncoder(sparse=False, categories='auto')
+    quantity_feature_enc = OneHotEncoder(sparse=False, categories='auto', handle_unknown='ignore')
+    if_unit_in_q_enc = OneHotEncoder(sparse=False, handle_unknown='ignore')
+    other_unit_matches_better_enc = OneHotEncoder(sparse=False, handle_unknown='ignore')
+    noun_in_q_enc = OneHotEncoder(sparse=False, handle_unknown='ignore')
+    other_noun_matches_better_enc = OneHotEncoder(sparse=False, handle_unknown='ignore')
+    num_max_matches_enc = OneHotEncoder(sparse=False, handle_unknown='ignore')
+    num_quantities_enc = OneHotEncoder(sparse=False, handle_unknown='ignore')
 
-    feature1_enc.fit(feature1)
-    feature2_enc.fit(feature2)
-    quantities_feature_enc.fit(quantities_feature)
+    quantity_feature_enc.fit(quantity_feature)
+    if_unit_in_q_enc.fit(if_unit_in_q)
+    other_unit_matches_better_enc.fit(other_unit_matches_better)
+    noun_in_q_enc.fit(noun_in_q)
+    other_noun_matches_better_enc.fit(other_noun_matches_better)
+    num_max_matches_enc.fit(num_max_matches)
+    num_quantities_enc.fit(num_quantities)
 
-    feature1 = feature1_enc.transform(feature1)
-    feature2 = feature2_enc.transform(feature2)
-    quantities_feature = quantities_feature_enc.transform(quantities_feature)
+    quantity_feature = quantity_feature_enc.transform(quantity_feature)
+    if_unit_in_q = if_unit_in_q_enc.transform(other_unit_matches_better)
+    other_unit_matches_better = other_unit_matches_better_enc.transform(other_unit_matches_better)
+    noun_in_q = noun_in_q_enc.transform(noun_in_q)
+    other_noun_matches_better = other_noun_matches_better_enc.transform(other_noun_matches_better)
+    num_max_matches = num_max_matches_enc.transform(num_max_matches)
+    num_quantities = num_quantities_enc.transform(num_quantities)
 
     x = []
 
-    for items in zip(feature1, feature2, quantities_feature):
+    for items in zip(quantity_feature, if_unit_in_q, other_unit_matches_better, noun_in_q, other_noun_matches_better,
+                     num_max_matches, num_quantities):
         row = np.concatenate(items, axis=0)
         x.append(row)
 
-    return np.asarray(x), np.asarray(relevances), quantities, ids
+    """
+    test_input = open(test, 'r')
+
+    csvreader2 = csv.DictReader(test_input, delimiter='\t')
+
+    test_quantity_feature = []
+    test_quantities = []
+    test_if_unit_in_q = []
+    test_other_unit_matches_better = []
+    test_noun_in_q = []
+    test_other_noun_matches_better = []
+    test_num_max_matches = []
+    test_num_quantities = []
+    test_ids = []
+    #fill the column arrays with corresponding values
+    for row in csvreader2:
+        test_quantity_feature.append([row['q']])
+        test_if_unit_in_q.append([row['if_unit_in_q']])
+        test_other_unit_matches_better.append([row['other_unit_matches_better']])
+        test_noun_in_q.append([row['noun_in_q']])
+        test_other_noun_matches_better.append([row['other_noun_matches_better']])
+        test_num_max_matches.append([row['num_max_matches']])
+        test_num_quantities.append([row['num_quantities']])
+        test_quantities.append(row['q'])
+        test_ids.append(row['id'])
+
+    #transform the features to onehot
+    test_quantity_feature = quantity_feature_enc.transform(test_quantity_feature)
+    test_if_unit_in_q = if_unit_in_q_enc.transform(test_other_unit_matches_better)
+    test_other_unit_matches_better = other_unit_matches_better_enc.transform(test_other_unit_matches_better)
+    test_noun_in_q = noun_in_q_enc.transform(test_noun_in_q)
+    test_other_noun_matches_better = other_noun_matches_better_enc.transform(test_other_noun_matches_better)
+    test_num_max_matches = num_max_matches_enc.transform(test_num_max_matches)
+    test_num_quantities = num_quantities_enc.transform(test_num_quantities)
+
+    test_x = []
+
+    for items in zip(test_quantity_feature, test_if_unit_in_q, test_other_unit_matches_better, test_noun_in_q, 
+                    test_other_noun_matches_better, test_num_max_matches, test_num_quantities):
+        row = np.concatenate(items, axis=0)
+        test_x.append(row)
+    """
+
+    return np.asarray(x), np.asarray(relevances), quantities, ids#, test_x, test_quantities, test_ids
 
 
-def build_model(x,y):
+def build_model(x, y):
     mlp = Sequential()
     mlp.add(Dense(units=64, activation="relu"))
     mlp.add(Dense(units=1, activation='sigmoid'))
     mlp.compile(loss="binary_crossentropy", optimizer="adam", metrics=["accuracy"], validation_split=0.2)
-    mlp.fit(x, y, epochs=100, batch_size=32)
+    mlp.fit(x, y, epochs=20, batch_size=32)
 
     return mlp
 
@@ -88,7 +162,8 @@ def accuracy(predictions, answers):
 
 
 if __name__ == "__main__":
-    x, y, quantities, ids = preprocess('dummy_table_relevance.csv')
+    """
+    x, y, quantities, ids = preprocess('relevance.csv')
     mlp = build_model(x, y)
     preds = mlp.predict(x)
     acc_string, acc_number = accuracy(preds, y)
@@ -97,4 +172,4 @@ if __name__ == "__main__":
     rel_dict = predict_relevances(mlp, x, quantities, ids)
     mlp.save('relevance_mlp.h5')
     print(rel_dict)
-
+    """

@@ -9,7 +9,7 @@ def all_trees_for_question(arr):
 
 	# generate all possible trees with the amount of quantities from 2 till the total number of quantities
 	for length in range(2, len(arr) + 1):
-		for temp_arr in combination(arr, length):
+		for temp_arr in combinations(arr, length):
 			for tree in enum_unordered(temp_arr):
 				enum_trees.append(tree)
 
@@ -30,9 +30,12 @@ def all_trees_for_question(arr):
 def all_trees_for_all_questions(filename):
 	with open(filename) as file:
 		questions = json.load(file)
-
+	trees = {}
 	for question in questions:
+		id = str(question['id'])
 		quantities = question["quantities"]
+		if not len(quantities) < 7 or not len(quantities) > 1:
+			continue
 		if len(quantities) < 7 and len(quantities) > 1:
 			try:
 				arr_q = []
@@ -43,4 +46,8 @@ def all_trees_for_all_questions(filename):
 					arr_q.append(new_q)
 
 				all_trees = all_trees_for_question(arr_q)
+			except ValueError:
+				continue
+		trees[id] = all_trees
 
+	return trees
