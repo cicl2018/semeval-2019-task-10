@@ -3,7 +3,9 @@ import relevance_classifier as rel
 import ancestor_classifier as anc
 from all_possible_trees import all_trees_for_all_questions
 from my_tree import Node
+from building_trees import calculate_tree
 from sklearn.preprocessing import OneHotEncoder
+import numpy as np
 
 
 def evaluate_trees(possible_trees, relevances, ancestors, categories):
@@ -14,31 +16,36 @@ def evaluate_trees(possible_trees, relevances, ancestors, categories):
             continue
         tree_ratings[id] = []
         for tree in possible_trees[id]:
-            #quantities = Node.get_leaves(tree)
-            quantity_pairs_ancestors = Node.get_triples(tree)
-            #get the quantities and lowest common ancestor for each quantity pair
+            try:
+                result = np.round(calculate_tree(tree), decimals=2)
+                #quantities = Node.get_leaves(tree)
+                quantity_pairs_ancestors = Node.get_triples(tree)
+                #get the quantities and lowest common ancestor for each quantity pair
 
-            #classifier data for the tree
-           # tree_relevances = relevances[id]
-            tree_ancestors = ancestors[id]
-            relevance_rating = 1
-            ancestor_rating = 1
+                # classifier data for the tree
+                # tree_relevances = relevances[id]
+                tree_ancestors = ancestors[id]
+                relevance_rating = 1
+                ancestor_rating = 1.0
 
-            #rate the tree for relevance and ancestor nodes
-            #for quantity in quantities:
-            #    print(quantity)
-             #   relevance_rating *= tree_relevances[quantity['value']]
-            for pair in quantity_pairs_ancestors:
-                ancestor = pair['operation']
-                q1 = str(pair['q1']['value'])
-                q2 = str(pair['q2']['value'])
-                if (q1, q2) not in tree_ancestors.keys():
-                    continue
-                index = categories.index(ancestor)
-                probability_of_ancestor = tree_ancestors[(q1, q2)][index]
-                ancestor_rating *= probability_of_ancestor
-            tree_rating = 1000 * ancestor_rating # + relevance_rating
-            tree_ratings[id].append((tree, tree_rating))
+                # rate the tree for relevance and ancestor nodes
+                # for quantity in quantities:
+                #    print(quantity)
+                #   relevance_rating *= tree_relevances[quantity['value']]
+                for pair in quantity_pairs_ancestors:
+                    ancestor = pair['operation']
+                    q1 = str(pair['q1']['value'])
+                    q2 = str(pair['q2']['value'])
+                    if (q1, q2) not in tree_ancestors.keys():
+                        ancestor_rating = 0.0
+                        break
+                    index = categories.index(ancestor)
+                    probability_of_ancestor = tree_ancestors[(q1, q2)][index]
+                    ancestor_rating *= probability_of_ancestor
+                tree_rating = ancestor_rating  # + relevance_rating
+                tree_ratings[id].append((result, tree_rating))
+            except TypeError:
+                continue
 
     return tree_ratings
 

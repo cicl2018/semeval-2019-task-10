@@ -32,7 +32,7 @@ def all_trees_for_all_questions(filename):
 		questions = json.load(file)
 	trees = {}
 	for question in questions:
-		id = str(question['id'])
+		id = int(question['id'])
 		quantities = question["quantities"]
 		if not len(quantities) < 7 or not len(quantities) > 1:
 			continue

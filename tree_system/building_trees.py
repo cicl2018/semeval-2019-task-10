@@ -159,13 +159,14 @@ def check_monotomic(tree):
 	right_check = check_monotomic(tree.right)
 	return (left_check and right_check)
 
-# n1 = Node(4)
-# n2 = Node(8)
-# n3 = Node(10)
-# n4 = Node(5)
+#n1 = Node(4)
+#n2 = Node(8)
+#n3 = Node(10)
+#n4 = Node(5)
 
-# n5 = Node("/", n1, n2)
-# n6 = Node("x", n3, n4)
-# tree = Node("/", n5, n6)
+#n5 = Node("/", n1, n2)
+#n6 = Node("x", n3, n4)
+#tree = Node("+", n5, n6)
 
+#print(calculate_tree(tree))
 # print(check_monotomic(tree))

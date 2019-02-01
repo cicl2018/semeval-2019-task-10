@@ -53,7 +53,7 @@ def preprocess(file, test):
         q_rate.append([row['q_rate']])
         ancestors.append([row['operation']])
         quantities.append((row['q1'], row['q2']))
-        ids.append(row['id'])
+        ids.append(int(row['id']))
 
         if row['operation'] not in operations:
             operations.append(row['operation'])
@@ -161,7 +161,7 @@ def preprocess(file, test):
         test_q_comp_tokens.append([row['q_comp_tokens']])
         test_q_rate.append([row['q_rate']])
         test_quantities.append((row['q1'], row['q2']))
-        test_ids.append(row['id'])
+        test_ids.append(int(row['id']))
 
     test_quantity1 = quantity1_enc.transform(test_quantity1)
     test_quantity2 = quantity2_enc.transform(test_quantity2)
