@@ -1,5 +1,6 @@
 import json
 
+# class that describes trees
 class Node(object):
   def __init__(self, data=None, left_child=None, right_child=None):
     self.left = left_child
@@ -39,6 +40,7 @@ class Node(object):
 
     return data
 
+  # get total number of leaves in tree
   def leaves_number(self):
     number = 0
 
@@ -52,6 +54,7 @@ class Node(object):
 
     return number
 
+  # get all triples consisting of a pair of leaves and their LCA (mathematical operation)
   def get_triples(self):
     arr_triples = []
 
@@ -76,10 +79,9 @@ class Node(object):
     if self.right:
       arr_leaves += self.right.get_leaves()
     if not self.left and not self.right:
-      arr_leaves += self.data
+      arr_leaves.append(self.data)
 
     return arr_leaves
-
 
   # def depth(self):
   #   left_depth = self.left.depth() if self.left else 0
@@ -94,4 +96,4 @@ class Node(object):
 # n4 = Node(None, n1, n2)
 # n6 = Node(None, n3, n4)
 
-# print(n6.leaves_number())
+# print(n6)
