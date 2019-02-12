@@ -1,0 +1,29 @@
+A system for building and solving quantities trees.
+
+1. get_open_questions: extract questions that are tagged "open" from file with different types of question
+
+2. my_tree: Node class that represents trees 
+
+3. retrieving_quantities: extract quantities from questions, answer options and answers OR quantities from questions and answer options
+
+4. latex_transformer: transform latex expressions into numbers
+
+5. building_trees: functions for building trees
+
+   > add_leaf & enum_ordered - an enumeration of all binary trees with given labels
+   > operations_for_nodes - assigns operations for all non-leaf tree nodes; provides all possible enumerations
+   > calculate_node & calculate_tree - calculate the outcome of tree based on nodes filled with operations
+   > check_monotomic - check if two constraints are satisfied
+
+6. udpipe_model (Python 2): a udpipe model used for parsing sentences with UDPipe
+
+7. udpipe_parsing (Python 2): extracting features from parsed sentences for quantities and questions
+
+8. trees_for_train: build trees and make tables for train set
+   > get_gold_trees - for a set of quantities and an answer (of a question), return an array of trees that give the right answer
+   > process_all_question - check which questions have one or more gold trees, and write them to a separate file
+   > lca_table_line, rel_table_line & tables_for_answered_questions - make a relevance and an lca tables based on answered questions to train a relevance and an lca classifiers accordingly
+
+9. trees_for_test: make tables for test set
+
+10. all_possible_trees: generate all possible trees for questions
