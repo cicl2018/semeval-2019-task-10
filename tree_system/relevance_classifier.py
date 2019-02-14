@@ -8,7 +8,7 @@ from keras.models import Sequential
 """
 Preprocesses the data from a table for the MLP
 """
-def preprocess(file):
+def preprocess(file, test):
     train_input = open(file, 'r')
 
     csvreader = csv.DictReader(train_input, delimiter='\t')
@@ -35,7 +35,7 @@ def preprocess(file):
         num_quantities.append([row['num_quantities']])
         relevances_buffer.append([row['relevance']])
         quantities.append(row['q'])
-        ids.append(row['id'])
+        ids.append(int(row['id']))
 
     relevance_true = 0
     relevance_false = 0
@@ -79,7 +79,6 @@ def preprocess(file):
         row = np.concatenate(items, axis=0)
         x.append(row)
 
-    """
     test_input = open(test, 'r')
 
     csvreader2 = csv.DictReader(test_input, delimiter='\t')
@@ -103,7 +102,7 @@ def preprocess(file):
         test_num_max_matches.append([row['num_max_matches']])
         test_num_quantities.append([row['num_quantities']])
         test_quantities.append(row['q'])
-        test_ids.append(row['id'])
+        test_ids.append(int(row['id']))
 
     #transform the features to onehot
     test_quantity_feature = quantity_feature_enc.transform(test_quantity_feature)
@@ -116,18 +115,16 @@ def preprocess(file):
 
     test_x = []
 
-    for items in zip(test_quantity_feature, test_if_unit_in_q, test_other_unit_matches_better, test_noun_in_q, 
-                    test_other_noun_matches_better, test_num_max_matches, test_num_quantities):
+    for items in zip(test_quantity_feature, test_if_unit_in_q, test_other_unit_matches_better, test_noun_in_q, test_other_noun_matches_better, test_num_max_matches, test_num_quantities):
         row = np.concatenate(items, axis=0)
         test_x.append(row)
-    """
-
-    return np.asarray(x), np.asarray(relevances), quantities, ids#, test_x, test_quantities, test_ids
+    return np.asarray(x), np.asarray(relevances), quantities, ids, np.asarray(test_x), test_quantities, test_ids
 
 
 def build_model(x, y):
     mlp = Sequential()
     mlp.add(Dense(units=64, activation="relu"))
+    mlp.add(Dropout(0.5))
     mlp.add(Dense(units=1, activation='sigmoid'))
     mlp.compile(loss="binary_crossentropy", optimizer="adam", metrics=["accuracy"], validation_split=0.2)
     mlp.fit(x, y, epochs=20, batch_size=32)
@@ -142,9 +139,9 @@ def predict_relevances(model, x, quantities, ids):
 
     for id, quantity, prediction in zip(ids, quantities, predictions):
         if id not in relevances.keys():
-            relevances[id] = {quantity: prediction[0]}
+            relevances[id] = {float(quantity): prediction[0]}
         else:
-            relevances[id][quantity] = prediction[0]
+            relevances[id][float(quantity)] = prediction[0]
 
     return relevances
 
@@ -162,8 +159,8 @@ def accuracy(predictions, answers):
 
 
 if __name__ == "__main__":
-    """
-    x, y, quantities, ids = preprocess('relevance.csv')
+
+    x, y, quantities, ids, _, _, _ = preprocess('relevance_train_with-reverse.csv', 'relevance_test.csv')
     mlp = build_model(x, y)
     preds = mlp.predict(x)
     acc_string, acc_number = accuracy(preds, y)
@@ -172,4 +169,4 @@ if __name__ == "__main__":
     rel_dict = predict_relevances(mlp, x, quantities, ids)
     mlp.save('relevance_mlp.h5')
     print(rel_dict)
-    """
+

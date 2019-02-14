@@ -191,7 +191,7 @@ def preprocess(file, test):
     return np.asarray(x), ancestors, operations, quantities, ids, np.asarray(test_x), test_quantities, test_ids
 
 
-def build_model(x,y):
+def build_model(x, y):
     mlp = Sequential()
     mlp.add(Dense(units=64, activation="relu"))
     mlp.add(Dropout(0.5))
@@ -227,8 +227,7 @@ def accuracy(predictions, answers, categories):
 
 
 if __name__ == "__main__":
-    """
-    x, y, operations, quantities, ids = preprocess('lca.csv')
+    x, y, operations, quantities, ids, _, _, _ = preprocess('lca_train.csv', 'lca_test.csv')
     answers = y
     # transform the answers to onehot
     y_enc = OneHotEncoder(sparse=False, handle_unknown='ignore')
@@ -244,6 +243,6 @@ if __name__ == "__main__":
     mlp.save('ancestor_mlp.h5')
     print(acc_string)
     print(acc_number)
-    """
+
 
 

@@ -11,27 +11,28 @@ import numpy as np
 def evaluate_trees(possible_trees, relevances, ancestors, categories):
     tree_ratings = {}
     for id in possible_trees.keys():
-       # print(tree_ratings)
         if id not in ancestors.keys():
             continue
         tree_ratings[id] = []
         for tree in possible_trees[id]:
             try:
-                result = np.round(calculate_tree(tree), decimals=2)
-                #quantities = Node.get_leaves(tree)
+                result = np.round(calculate_tree(tree, ifReverse=False), decimals=2)
+                quantities = Node.get_leaves(tree)
                 quantity_pairs_ancestors = Node.get_triples(tree)
                 #get the quantities and lowest common ancestor for each quantity pair
 
                 # classifier data for the tree
-                # tree_relevances = relevances[id]
+                tree_relevances = relevances[id]
                 tree_ancestors = ancestors[id]
-                relevance_rating = 1
+                relevance_rating = 1.0
                 ancestor_rating = 1.0
 
                 # rate the tree for relevance and ancestor nodes
-                # for quantity in quantities:
-                #    print(quantity)
-                #   relevance_rating *= tree_relevances[quantity['value']]
+                relevant_quantities = 0
+                for quantity in quantities:
+                    if tree_relevances[quantity['value']] > 0.8:
+                        relevant_quantities += 1
+                    relevance_rating *= tree_relevances[quantity['value']]
                 for pair in quantity_pairs_ancestors:
                     ancestor = pair['operation']
                     q1 = str(pair['q1']['value'])
@@ -42,9 +43,9 @@ def evaluate_trees(possible_trees, relevances, ancestors, categories):
                     index = categories.index(ancestor)
                     probability_of_ancestor = tree_ancestors[(q1, q2)][index]
                     ancestor_rating *= probability_of_ancestor
-                tree_rating = ancestor_rating  # + relevance_rating
+                tree_rating = relevance_rating #+ 0.04 * relevant_quantities + ancestor_ratings
                 tree_ratings[id].append((result, tree_rating))
-            except TypeError:
+            except (TypeError, ZeroDivisionError):
                 continue
 
     return tree_ratings

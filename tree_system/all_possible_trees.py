@@ -35,9 +35,9 @@ def all_trees_for_all_questions(filename, ifReverse):
 	for question in questions:
 		id = int(question['id'])
 		quantities = question["quantities"]
-		if not len(quantities) < 7 or not len(quantities) > 1:
+		if not len(quantities) < 6 or not len(quantities) > 1:
 			continue
-		if len(quantities) < 7 and len(quantities) > 1:
+		if len(quantities) < 6 and len(quantities) > 1:
 			try:
 				arr_q = []
 				for quantity in quantities:
