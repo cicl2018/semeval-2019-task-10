@@ -38,10 +38,12 @@ def latex_to_decimal(string):
 
 		if number1_found and number2_found and number1.isdigit() and number2.isdigit():
 			if number0_found:
-				decimal = str(int(number0) + numpy.round(int(number1) / int(number2), decimals=2))
+				# decimal = str(int(number0) + numpy.round(int(number1) / int(number2), decimals=2))
+				decimal = str(int(number0) + int(number1) / int(number2))
 				number0_found = False
 			else:
-				decimal = str(numpy.round(int(number1) / int(number2), decimals=2))
+				# decimal = str(numpy.round(int(number1) / int(number2), decimals=2))
+				decimal = str(int(number1) / int(number2))
 		else: return None
 	else: return None
 
