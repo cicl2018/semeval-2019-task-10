@@ -195,7 +195,7 @@ def build_model(x, y):
     mlp = Sequential()
     mlp.add(Dense(units=64, activation="relu"))
     mlp.add(Dropout(0.5))
-    mlp.add(Dense(units=4, activation='softmax'))
+    mlp.add(Dense(units=6, activation='softmax'))
     mlp.compile(loss="categorical_crossentropy", optimizer="adam", metrics=["accuracy"], validation_split=0.2)
     mlp.fit(x, y, epochs=100, batch_size=32)
 
@@ -227,7 +227,7 @@ def accuracy(predictions, answers, categories):
 
 
 if __name__ == "__main__":
-    x, y, operations, quantities, ids, _, _, _ = preprocess('lca_train.csv', 'lca_test.csv')
+    x, y, operations, quantities, ids, _, _, _ = preprocess('lca_train_with-reverse.csv', 'lca_test.csv')
     answers = y
     # transform the answers to onehot
     y_enc = OneHotEncoder(sparse=False, handle_unknown='ignore')

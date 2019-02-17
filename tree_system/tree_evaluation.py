@@ -16,7 +16,7 @@ def evaluate_trees(possible_trees, relevances, ancestors, categories):
         tree_ratings[id] = []
         for tree in possible_trees[id]:
             try:
-                result = np.round(calculate_tree(tree, ifReverse=False), decimals=2)
+                result = calculate_tree(tree, ifReverse=False)
                 quantities = Node.get_leaves(tree)
                 quantity_pairs_ancestors = Node.get_triples(tree)
                 #get the quantities and lowest common ancestor for each quantity pair
@@ -30,6 +30,9 @@ def evaluate_trees(possible_trees, relevances, ancestors, categories):
                 # rate the tree for relevance and ancestor nodes
                 relevant_quantities = 0
                 for quantity in quantities:
+                    if quantity['value'] not in tree_relevances.keys():
+                        relevance_rating = 0.0
+                        break
                     if tree_relevances[quantity['value']] > 0.8:
                         relevant_quantities += 1
                     relevance_rating *= tree_relevances[quantity['value']]
@@ -43,7 +46,7 @@ def evaluate_trees(possible_trees, relevances, ancestors, categories):
                     index = categories.index(ancestor)
                     probability_of_ancestor = tree_ancestors[(q1, q2)][index]
                     ancestor_rating *= probability_of_ancestor
-                tree_rating = relevance_rating #+ 0.04 * relevant_quantities + ancestor_ratings
+                tree_rating = relevance_rating #+ ancestor_rating
                 tree_ratings[id].append((result, tree_rating))
             except (TypeError, ZeroDivisionError):
                 continue

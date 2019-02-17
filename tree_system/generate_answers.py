@@ -15,7 +15,7 @@ if __name__ == "__main__":
 
     #get most likely common ancestor ratings
     mlp_ancestors = load_model('ancestor_mlp.h5')
-    anc_x, y, operations, anc_quantities, anc_ids, test_x, test_quantities, test_ids = anc.preprocess('lca_train.csv', 'lca_test.csv')
+    anc_x, y, operations, anc_quantities, anc_ids, test_x, test_quantities, test_ids = anc.preprocess('lca_train_with-reverse.csv', 'lca_test.csv')
     y_enc = OneHotEncoder(sparse=False)
     y_enc.fit(y)
     y = y_enc.transform(y)
@@ -27,7 +27,7 @@ if __name__ == "__main__":
     ratings = evaluate_trees(possible_trees, relevances, ancestors, categories)
     print("len relevances:", len(relevances))
     print("len ancestors:", len(ancestors))
-    input = open('open.test_features.json', 'r')
+    input = open('new-latex/open.test_new-latex_features.json', 'r')
     questions = json.load(input)
     print('Actually coming up with some answers now')
     print('len ratings:', len(ratings))
